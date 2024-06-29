@@ -1,0 +1,1 @@
+export type EpisodeNumberFormat = `${number}x${number}`;
