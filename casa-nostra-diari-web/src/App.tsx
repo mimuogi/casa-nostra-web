@@ -2,6 +2,7 @@ import './App.css'
 import { useState, useEffect } from 'react';
 import { getPodcastEpisodes } from './scripts/create-podcast-items';
 import { PodcastEpisode } from './types/PodcastEpisode';
+import PodcastEpisodeTag from './components/podcastEpisodeTag';
 
 
 function App() {
@@ -22,11 +23,7 @@ function App() {
         <>
             <h1>Diari Digital</h1>
             {podcastEpisodes.map((episode, index) => (
-                <div key={index}>
-                    <h2>{episode.title}</h2>
-                    <p>{episode.description}</p>
-                    <img src={episode.poster} alt={episode.title} />
-                </div>
+                <PodcastEpisodeTag key={index} {...episode} />
             ))}
         </>
     );
