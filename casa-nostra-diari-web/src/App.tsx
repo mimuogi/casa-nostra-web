@@ -2,7 +2,7 @@ import './App.css'
 import { useState, useEffect } from 'react';
 import { getPodcastEpisodes } from './scripts/create-podcast-items';
 import { PodcastEpisode } from './types/PodcastEpisode';
-import PodcastEpisodeTag from './components/podcastEpisodeTag';
+import PodcastEpisodeTag from './components/podcast-episode-tag/podcastEpisodeTag';
 
 
 function App() {

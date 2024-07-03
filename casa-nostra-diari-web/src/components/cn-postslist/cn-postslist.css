@@ -1,0 +1,17 @@
+.postlist {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.title{
+    margin: 20px;
+}
+
+.post-card{
+    text-align: left;
+    border: 1px solid lightblue;
+    margin-bottom: 20px;
+    padding: 0 20px;
+
+}

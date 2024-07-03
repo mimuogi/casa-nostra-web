@@ -1,7 +1,7 @@
 ---
 title: Episodi amb video
 author: Casa Nostra
-date: 3 Juliol
+date: July 11, 2024
 ---
 
 # Post per a publicar els capitols de Podcast amb video

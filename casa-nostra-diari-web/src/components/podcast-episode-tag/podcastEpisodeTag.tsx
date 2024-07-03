@@ -1,4 +1,4 @@
-import { PodcastEpisode } from '../types/PodcastEpisode.ts';
+import { PodcastEpisode } from '../../types/PodcastEpisode.ts';
 import './PodcastEpisodeTag.css';
 import parse from 'html-react-parser'
 

@@ -1,7 +1,7 @@
 ---
 title: "Mock post!"
-author: "mimuogi"
-date: 3 Juliol
+author: mimuogi
+date: June 11, 2023
 ---
 
 # Mocked Post

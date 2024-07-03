@@ -7,13 +7,13 @@ const fs = require('fs');
 const dirPathContent = path.join(__dirname, "../src/content")
 let postlist = []
 
-const getPosts = async () => {
-    await fs.readdir(dirPathContent, (err, files) => {
+const getPosts = () => {
+     fs.readdir(dirPathContent, (err, files) => {
         //console.log(files.length)
         if(err){
             return console.log("Failed to list content in comtent directory: " + err)
         }
-        console.log(files )
+        console.log(files)
         files.forEach((file, i) => {
             let post = {}
             let metadataValues = {}
@@ -55,8 +55,12 @@ const getPosts = async () => {
                 //console.log(metadataIndexes)
                 const metadata = parseMetadata({metadataIndexes, lines })
                 const content = parseContent({metadataIndexes, lines})
+                const dateStamp = new Date(metadata.date)
+                const timeStamp = dateStamp.getTime() / 1000
+
                 post = {
                     id: i+1,
+                    timestamp: timeStamp,
                     title: metadata.title ? metadata.title : "Post sense títol",
                     author: metadata.author ? metadata.author : "Anònim",
                     date: metadata.date ? metadata.date : "Atemporal",
@@ -64,8 +68,12 @@ const getPosts = async () => {
 
                 }
                 postlist.push(post)
-                if (i === files.length - 1) {
-                    let contentdata = JSON.stringify(postlist)
+                if (i === files.length-1) {
+                    const sortedList = postlist.sort ((a, b) => {
+                        return a.timestamp < b.timestamp ? 1 : -1
+                    })
+
+                    let contentdata = JSON.stringify(sortedList)
                     fs.writeFileSync("src/data/posts.json", contentdata)
                 }
                
