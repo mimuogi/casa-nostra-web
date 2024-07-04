@@ -1,0 +1,10 @@
+.cnavbar {
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    text-decoration: none;
+    color: whitesmoke;
+}
