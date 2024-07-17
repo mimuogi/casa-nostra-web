@@ -1,4 +1,5 @@
 import ReactMarkdown from "react-markdown";
+import { Link } from "react-router-dom";
 
 export function Post({ post }) {
 	const contentSummary = post.content.split(" ").slice(0, 5).join(" ");
@@ -12,7 +13,7 @@ export function Post({ post }) {
 			</small>
 			<hr />
 			<ReactMarkdown children={contentSummary} />
-			<small>Llig el post complet</small>
+			<Link to={`/post/${post.id}`}>Llig el post complet</Link>
 		</div>
 	);
 }
