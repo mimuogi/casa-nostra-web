@@ -1,28 +1,30 @@
-
 @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+	:root {
+		color: #213547;
+		background-color: #ffffff;
+	}
+	a:hover {
+		color: #747bff;
+	}
+	button {
+		background-color: #f9f9f9;
+	}
 }
 
 @font-face {
-  font-family: 'Gilroy-Bold';
-  src: local('Gilroy-Bold'), url(./fonts/Gilroy-Bold.ttf) format('truetype');
+	font-family: "Gilroy-Bold";
+	src: local("Gilroy-Bold"),
+		url(./public/fonts/gilroy/Gilroy-Bold.ttf) format("truetype");
 }
 
 @font-face {
-  font-family: 'Gilroy-Medium';
-  src: local('Gilroy-Medium'), url(./fonts/Gilroy-Medium.ttf) format('truetype');
+	font-family: "Gilroy-Medium";
+	src: local("Gilroy-Medium"),
+		url(./public/fonts/gilroy/Gilroy-Medium.ttf) format("truetype");
 }
 
 @font-face {
-  font-family: 'Gilroy-Light';
-  src: local('Gilroy-Light'), url(./fonts/Gilroy-Light.ttf) format('truetype');
+	font-family: "Gilroy-Light";
+	src: local("Gilroy-Light"),
+		url(./public/fonts/gilroy/Gilroy-Light.ttf) format("truetype");
 }
