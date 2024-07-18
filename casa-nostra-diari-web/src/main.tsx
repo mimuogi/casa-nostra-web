@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
 import { PostPage } from "./pages/post.tsx";
+import postlist from "./data/posts.json";
 
 const router = createBrowserRouter([
 	{
@@ -23,8 +24,11 @@ const router = createBrowserRouter([
 		path: "/post/:id",
 		element: <PostPage />,
 		loader: ({ params }) => {
-			console.log(params.id);
-			return params;
+			const post = postlist.find((post) => post.id === params.id);
+			if (!post) {
+				throw new Error("Post not found");
+			}
+			return { post };
 		},
 	},
 ]);

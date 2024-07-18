@@ -1,7 +1,16 @@
-import { useParams } from "react-router-dom";
+import { useLoaderData } from "react-router-dom";
+import { PostView } from "../components/post-view/post-view";
+import { Layout } from "../components/layout/layout";
 
 export function PostPage() {
-	const params = useParams();
+	const { post } = useLoaderData();
 
-	return <div>{params.id}</div>;
+	return (
+		<>
+			<div>{post.id}</div>
+			<Layout>
+				<PostView post={post}></PostView>
+			</Layout>
+		</>
+	);
 }
