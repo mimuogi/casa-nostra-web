@@ -1,0 +1,33 @@
+.post-card-link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.post-card {
+	border: 1px solid #ddd;
+	padding: 16px;
+	border-radius: 8px;
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+.post-card:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.author-image {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	margin-left: 8px;
+	vertical-align: middle;
+}
+
+.read-more {
+	margin-top: 16px;
+	color: #007bff;
+	text-decoration: underline;
+}
+
+.read-more:hover {
+	text-decoration: none;
+}

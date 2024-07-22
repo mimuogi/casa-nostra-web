@@ -6,6 +6,7 @@ import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
 import { PostPage } from "./pages/post.tsx";
 import postlist from "./data/posts.json";
+import { ContactPage } from "./pages/contact.tsx";
 
 const router = createBrowserRouter([
 	{
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
 	{
 		path: "/about",
 		element: <About />,
+	},
+	{
+		path: "/contacte",
+		element: <ContactPage></ContactPage>,
 	},
 	{
 		path: "/post/:id",
