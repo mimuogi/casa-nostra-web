@@ -1,14 +1,17 @@
 .header {
+	height: 140px;
+	width: 100%;
 	display: flex;
-	align-items: center; /* Aligns items vertically centered */
-	justify-content: center; /* Aligns items horizontally centered */
-	padding: 10px 20px; /* Adds some padding to the header */
+	align-items: center;
+	justify-content: center;
+	padding: 10px 20px;
 	background-color: #37b3fe;
-	color: black; /* Sets a background color for better visibility */
+	color: black;
+	background-image: url("../../../public/assets/images/casaNostra.jpg");
 }
 
 .logo-header {
-	margin-right: 20px; /* Adds some space between the image and the h1 */
+	margin-right: 20px;
 	width: 100px;
 	height: 100px;
 	border-style: solid;
@@ -16,8 +19,12 @@
 	margin-left: 8px;
 }
 
-h1 {
-	font-size: 24px; /* Adjusts the font size */
-	color: #333; /* Sets the text color */
-	font-family: "Gilroy-Bold", sans-serif;
+.header h1 {
+	font-size: 64px;
+	color: white;
+	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-color: black;
+	font-family: "Gilroy-Black", sans-serif;
+	text-align: center;
+	line-height: 0.8;
 }

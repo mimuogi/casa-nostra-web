@@ -33,3 +33,9 @@ body {
 	src: local("Gilroy-Light"),
 		url(./public/fonts/gilroy/Gilroy-Light.ttf) format("truetype");
 }
+
+@font-face {
+	font-family: "Gilroy-Black";
+	src: local("Gilroy-Black"),
+		url(./public/fonts/gilroy/Gilroy-Black.ttf) format("truetype");
+}

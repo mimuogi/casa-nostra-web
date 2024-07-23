@@ -5,6 +5,9 @@
 	border-radius: 8px;
 	margin-bottom: 16px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	background-color: rgba(255, 255, 255, 0.8);
+	background-size: cover;
+	background-blend-mode: multiply;
 	transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
@@ -29,9 +32,10 @@
 }
 
 .podcast-episode-details strong {
-	font-size: 20px;
-	color: #333;
+	font-size: 16px;
+	color: black;
 	margin-bottom: 8px;
+	font-family: "Gilroy-Medium", sans-serif;
 }
 
 .podcast-episode-details p {
@@ -44,14 +48,8 @@
 	margin-top: 8px;
 	width: 100%;
 	outline: none;
-}
-
-.podcast-episode-links audio::-webkit-media-controls {
-	display: none;
-}
-
-.podcast-episode-links audio {
 	border: 1px solid #ddd;
 	border-radius: 8px;
 	padding: 4px;
+	background-color: #fff;
 }

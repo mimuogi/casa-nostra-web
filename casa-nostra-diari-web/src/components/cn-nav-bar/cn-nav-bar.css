@@ -1,10 +1,19 @@
 .cnavbar {
-    background-color: blue;
-    display: flex;
-    justify-content: space-around;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
 }
 
 .links {
-    text-decoration: none;
-    color: whitesmoke;
+	font-family: "Gilroy-Bold", sans-serif;
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 24px;
+}
+
+.links:hover {
+	font-family: "Gilroy-Bold", sans-serif;
+	color: whitesmoke;
+	font-size: 28px;
+	transition-duration: 1000ms;
 }

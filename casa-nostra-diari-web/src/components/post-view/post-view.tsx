@@ -1,6 +1,6 @@
 import ReactMarkdown from "react-markdown";
-import { Link } from "react-router-dom";
 import rehypeRaw from "rehype-raw";
+import "./post-view.css";
 
 export function PostView({ post }) {
 	return (

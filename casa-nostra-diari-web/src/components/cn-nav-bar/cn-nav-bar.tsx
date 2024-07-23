@@ -7,11 +7,11 @@ export function CNNavigationBar() {
 			<Link
 				className='links'
 				to='/'>
-				Home
+				Novetats
 			</Link>
 			<Link
 				className='links'
-				to='/about'>
+				to='/nosaltres'>
 				Nosaltres
 			</Link>
 			<Link
@@ -19,6 +19,22 @@ export function CNNavigationBar() {
 				to='/noticies'>
 				Notícies
 			</Link>
+			<Link
+				className='links'
+				to='/contacte'>
+				Contacte
+			</Link>
+			<Link
+				className='links'
+				to='/podcast'>
+				Pòdcast
+			</Link>
+		</div>
+	);
+}
+
+/*
+
 			<Link
 				className='links'
 				to='/divulgacio'>
@@ -34,16 +50,4 @@ export function CNNavigationBar() {
 				to='/altres'>
 				Altres
 			</Link>
-			<Link
-				className='links'
-				to='/contacte'>
-				Contacte
-			</Link>
-			<Link
-				className='links'
-				to='/podcast'>
-				Podcast
-			</Link>
-		</div>
-	);
-}
+*/

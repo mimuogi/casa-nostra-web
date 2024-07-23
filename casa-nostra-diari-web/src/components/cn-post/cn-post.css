@@ -1,8 +1,12 @@
 .post-card {
-	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
 	padding: 20px;
 	border-radius: 8px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	background-size: cover;
+	background-blend-mode: multiply;
+	transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+	font-family: "Gilroy-Light", sans-serif;
 }
 
 .post-card-link {
@@ -11,8 +15,9 @@
 }
 
 .post-card:hover {
-	transform: translateY(-4px);
+	transform: translateY(-4px) rotate(-1deg);
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	background-color: rgba(255, 255, 255, 0.9);
 }
 
 .author-image {
@@ -27,8 +32,10 @@
 	margin-top: 16px;
 	color: #007bff;
 	text-decoration: underline;
+	font-family: "Gilroy-Black", sans-serif;
 }
 
 .read-more:hover {
 	text-decoration: none;
+	color: #0056b3;
 }
