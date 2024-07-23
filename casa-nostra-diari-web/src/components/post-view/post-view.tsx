@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 export function PostView({ post }) {
 	return (
-		<div className='post-card'>
-			<h2> {post.title}</h2>
+		<div className='post-read'>
+			<h1> {post.title}</h1>
 			<small>
 				{" "}
-				Publicat en: {post.date} by {post.author}{" "}
+				Publicat en: {post.date} per {post.author}{" "}
 			</small>
 			<hr />
 			<ReactMarkdown children={post.content} />

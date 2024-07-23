@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import "./cn-post.css";
 
 export function Post({ post }) {
-	const contentSummary = post.content.split(" ").slice(0, 5).join(" ");
+	const contentSummary = post.content.split(" ").slice(0, 20).join(" ");
 
 	return (
 		<Link
@@ -13,13 +13,14 @@ export function Post({ post }) {
 			<div className='post-card'>
 				<h2> {post.title}</h2>
 				<small>
-					{post.date} per {post.author}
 					<img
 						src='/assets/images/casaNostra.jpg'
 						alt={`${post.author}'s picture`}
 						className='author-image'
-					/>
+					/>{" "}
+					{post.author},{" "}
 				</small>
+				<small>{post.date}</small>
 				<hr />
 				<ReactMarkdown children={contentSummary} />
 				<div className='read-more'>Llig el post complet</div>
