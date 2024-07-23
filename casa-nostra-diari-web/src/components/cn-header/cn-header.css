@@ -1,11 +1,23 @@
 .header {
+	display: flex;
+	align-items: center; /* Aligns items vertically centered */
+	justify-content: center; /* Aligns items horizontally centered */
+	padding: 10px 20px; /* Adds some padding to the header */
 	background-color: #37b3fe;
-	color: black;
-	padding: 10px 20px;
+	color: black; /* Sets a background color for better visibility */
 }
 
-.h1 {
-	margin: 0;
+.logo-header {
+	margin-right: 20px; /* Adds some space between the image and the h1 */
+	width: 100px;
+	height: 100px;
+	border-style: solid;
+	border-radius: 5%;
+	margin-left: 8px;
+}
+
+h1 {
+	font-size: 24px; /* Adjusts the font size */
+	color: #333; /* Sets the text color */
 	font-family: "Gilroy-Bold", sans-serif;
-	font-weight: 500;
 }

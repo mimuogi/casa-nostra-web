@@ -4,17 +4,25 @@ body {
 	background-color: #f4f4f4;
 }
 
-.main-layout {
-	display: grid;
-	grid-template-columns: 1fr 60% 1fr;
-	gap: 20px;
-	max-width: 1200px;
-	margin: 0 auto;
-	padding: 20px;
+.layout {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
-.posts {
+.main-layout {
+	display: grid;
+	grid-template-columns: 1fr 4fr 1fr;
+	gap: 20px;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 20px;
+	flex-grow: 1;
+}
+
+.main-column {
 	grid-column: 2 / 3;
+	width: 100%;
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
@@ -23,8 +31,14 @@ body {
 .sidebar {
 	grid-column: 3 / 4;
 	width: 100%;
-	max-width: 20%;
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 800px) {
+	.main-layout {
+		grid-template-columns: 1fr; /* Single column layout */
+	}
 }

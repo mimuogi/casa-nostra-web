@@ -1,8 +1,8 @@
-import "./layout.css";
 import { HeaderCN } from "../cn-header/cn-header";
 import { FooterCN } from "../cn-footer/cn-footer";
 import { CNNavigationBar } from "../cn-nav-bar/cn-nav-bar";
 import { SeasonFolder } from "../podcast-season-folder/season-folder";
+import "./layout.css";
 
 export function Layout({ children }) {
 	return (
@@ -10,7 +10,7 @@ export function Layout({ children }) {
 			<HeaderCN />
 			<CNNavigationBar />
 			<div className='main-layout'>
-				<main className='posts'>{children}</main>
+				<main className='main-column'>{children}</main>
 				<aside className='sidebar'>
 					<SeasonFolder seasonTitle={"1"}></SeasonFolder>
 				</aside>
