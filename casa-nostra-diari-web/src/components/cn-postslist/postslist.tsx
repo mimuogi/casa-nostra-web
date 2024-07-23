@@ -1,10 +1,9 @@
 import "./cn-postslist.css";
 import { Post } from "../cn-post/post";
 
-export function PostList({ title, postlist }) {
+export function PostList({ postlist }) {
 	return (
 		<div className='postlist'>
-			<h1 className='title'>{title}</h1>
 			{postlist.length &&
 				postlist.map((post, i) => (
 					<Post

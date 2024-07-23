@@ -8,9 +8,7 @@ export function Home() {
 	return (
 		<div>
 			<Layout>
-				<PostList
-					title={"Els nostres posts"}
-					postlist={postlist}></PostList>
+				<PostList postlist={postlist}></PostList>
 			</Layout>
 		</div>
 	);
