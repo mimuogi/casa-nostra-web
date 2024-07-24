@@ -5,9 +5,9 @@ export function PostList({ postlist }) {
 	return (
 		<div className='postlist'>
 			{postlist.length &&
-				postlist.map((post, i) => (
+				postlist.map((post) => (
 					<Post
-						key={i}
+						key={post.title}
 						post={post}></Post>
 				))}
 		</div>

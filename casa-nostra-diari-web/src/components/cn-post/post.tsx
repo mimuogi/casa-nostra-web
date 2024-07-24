@@ -11,23 +11,25 @@ export function Post({ post }) {
 		<Link
 			to={`/post/${post.id}`}
 			className='post-card-link'>
-			<div className='post-card'>
-				<h2 className='post-title'> {post.title}</h2>
-				<small>
-					<img
-						src='/assets/images/casaNostra.jpg'
-						alt={`${post.author}'s picture`}
-						className='author-image'
-					/>{" "}
-					{post.author},{" "}
-				</small>
-				<small>{post.date}</small>
-				<hr />
-				<ReactMarkdown
-					rehypePlugins={[rehypeRaw]}
-					children={contentSummary.concat("", "...")}
-				/>
-				<div className='read-more'>Llig el post complet</div>
+			<div className='newspaper'>
+				<div className='post-card'>
+					<h2 className='post-title'> {post.title}</h2>
+					<small>
+						<img
+							src='/assets/images/casaNostra.jpg'
+							alt={`${post.author}'s picture`}
+							className='author-image'
+						/>{" "}
+						{post.author},{" "}
+					</small>
+					<small>{post.date}</small>
+					<hr />
+					<ReactMarkdown
+						rehypePlugins={[rehypeRaw]}
+						children={contentSummary.concat("", "...")}
+					/>
+					<div className='read-more'>Llig el post complet</div>
+				</div>
 			</div>
 		</Link>
 	);
