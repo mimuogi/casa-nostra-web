@@ -1,18 +1,28 @@
 import ReactMarkdown from "react-markdown";
 import { Link } from "react-router-dom";
 
-import "./cn-post.css";
+import "./cn-podcast-preview.css";
 import rehypeRaw from "rehype-raw";
 
-export function Post({ post }) {
-	const contentSummary = post.content.split(" ").slice(0, 50).join(" ");
+export function PodcastPreviewCard({ post }) {
+	const trimedTitle = post.title.split("|")[0].trim();
+	const contentSummary = post.content.split(" ").slice(0, 30).join(" ");
 
 	return (
 		<Link
 			to={`/post/${post.id}`}
-			className='post-card-link'>
-			<div className='post-card'>
-				<h2 className='post-title'> {post.title}</h2>
+			className='podcast-preview-card-link'>
+			<div className='podcast-preview-card'>
+				{post.imageUrl && (
+					<div className='image-container'>
+						<img
+							src={post.imageUrl}
+							alt={`${trimedTitle} preview`}
+							className='podcast-preview-image'
+						/>
+					</div>
+				)}
+				<h2 className='podcast-preview-title'>{trimedTitle}</h2>
 				<small>
 					<img
 						src='/assets/images/casaNostra.jpg'
@@ -32,5 +42,3 @@ export function Post({ post }) {
 		</Link>
 	);
 }
-
-//<img src='assetsweb/Contingut_Web/4.Logo_Noticies/logodiari320x320.png' />

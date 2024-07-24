@@ -1,8 +1,9 @@
 ---
 title: UNS NADALS MÀGICS amb GENT ESPECIAL | Casa Nostra 1x12
 author: Casa Nostra
-date: 27-Desembre-2023
-tags: podcast
+date: 27/12/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol12_1920x1080.jpg
 ---
 
 <p>Migue 🥸 i Vicente 😎 us duen un especial de Nadal 🎄🎅 amb dos convidats que... Bé, dos convidats no, amb dos amics de tota la vida 💫 amb els quals hem tingut la sort de poder compartir molts dels nostres millors moments. 🤩 

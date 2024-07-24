@@ -1,8 +1,9 @@
 ---
 title: L'EDUCACIÓ A LLÍRIA | Casa Nostra 1x03
 author: Casa Nostra
-date: 25-Octubre-2023
-tags: podcast
+date: 25/10/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto03_1920x1080.jpg
 ---
 
 <p> Migue 🥸 i Vicente 😎 estan de viatge i han passat d&#39;escriure la descripció del capítol.<br>Malgrat la irresponsabilitat dels nostres co-patrons.<br>Sibilino 👽 mai falla a la cita amb vosaltres i vos porta el capítol d&#39;avui on debatran sobre l&#39;estat de les escoles al poble. 🙌 🆕<br>Sed felices! ❤️🫶 </p>

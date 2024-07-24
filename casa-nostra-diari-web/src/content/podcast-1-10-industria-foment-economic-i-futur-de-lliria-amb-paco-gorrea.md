@@ -1,8 +1,9 @@
 ---
 title: INDÚSTRIA, FOMENT ECONÒMIC I FUTUR DE LLÍRIA amb PACO GORREA | Casa Nostra 1x10
 author: Casa Nostra
-date: 13-Desembre-2023
-tags: podcast
+date: 13/12/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol10_1920x1080.jpg
 ---
 
 <p>🏗️🔨👷 El so dels martells i les rodes aplega a Llíria sense estar-se de res al nou episodi de Casa Nostra. 🚧🏭⚙️

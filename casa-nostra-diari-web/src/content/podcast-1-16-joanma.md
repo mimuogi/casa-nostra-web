@@ -1,8 +1,9 @@
 ---
 title: JOVENTUT, FESTES, I SER POBLE amb JOANMA MIGUEL LEÓN | Casa Nostra 1x16
 author: Casa Nostra
-date: 29-Gener-2024
-tags: podcast
+date: 29/01/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol16_1920x1080.jpg
 ---
 
 <p>👔👔 Casa Nostra té el gust de presentar, amb tots vostés, el capítol més institucional de la temporada: una entrevista amb ni més ni menys que Joanma Miguel León! 🧑🏻‍⚖️

@@ -1,8 +1,9 @@
 ---
 title: UNA NOVA DEMOCRÀCIA A LLÍRIA? | Casa Nostra 1x18
 author: Casa Nostra
-date: 26-Febrer-2024
-tags: podcast
+date: 26/02/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol18_1920x1080.jpg
 ---
 
 <p>🏠 Casa Nostra vos porta avui un capítol que no pot ser més filosòfic... 🤔 Ni més polític... 🗳️ Almenys no és (molt) revolucionari. ✊🏻✊🏻

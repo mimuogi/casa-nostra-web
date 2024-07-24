@@ -1,8 +1,9 @@
 ---
 title: ELS CLUBS D'ESPORTS | Casa Nostra 1x17
 author: Casa Nostra
-date: 12-Febrer-2024
-tags: podcast
+date: 12/02/2024
+tags: podcast, T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol17_1920x1080.jpg
 ---
 
 <p>🏠 Casa nostra ve aquesta setmana amb un capítol d&#39;allò més esportiu! ⚽🏀🥅🥋

@@ -1,8 +1,9 @@
 ---
 title: FESTES DE SANT VICENT amb MARÍA JOSÉ LLOPIS | Casa Nostra 1x23
 author: Casa Nostra
-date: 22-Abril-2024
-tags: podcast
+date: 22/04/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol23_1920x1080.jpg
 ---
 
 <p>✨🆕 Casa Nostra vos du aquest xicotet especial dedicat a les festes de Sant Vicent que tots els edetans tinguérem la sort de gaudir a principi d&#39;aquest mes. 😇

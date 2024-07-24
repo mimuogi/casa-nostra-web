@@ -1,8 +1,9 @@
 ---
 title: MOLTA MÉS CASA NOSTRA! | Casa Nostra 1x15
 author: Casa Nostra
-date: 17-Gener-2023
-tags: podcast
+date: 17/01/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol15_1920x1080.jpg
 ---
 
 <p>El capítol d&#39;avui és molt més curt de l&#39;habitual i el dediquem a tots aquells que ens recolzen dia a dia en el nostre camí. 🥰😇

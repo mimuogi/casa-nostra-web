@@ -1,8 +1,9 @@
 ---
 title: DEMOCRÀCIA A LLÍRIA amb LLÍRIA AL DETALL | Casa Nostra 1x13
 author: Casa Nostra
-date: 03-Gener-2024
+date: 03/01/2024
 tags: podcast
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol13_1920x1080.jpg
 ---
 
 <p>🆕​✨Aplega el<em> crossover</em> més esperat de la temporada amb la segona part del vot a Llíria. 🗳️

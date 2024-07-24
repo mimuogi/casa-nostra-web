@@ -7,7 +7,6 @@ export function PostPage() {
 
 	return (
 		<>
-			<div>{post.id}</div>
 			<Layout>
 				<PostView post={post}></PostView>
 			</Layout>

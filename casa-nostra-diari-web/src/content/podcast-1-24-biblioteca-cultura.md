@@ -1,8 +1,9 @@
 ---
 title: TERTÚLIA CULTURAL I FORMACIÓ CIUTADANA amb DOLORES LÓPEZ ASENSI | Casa Nostra 1x24
 author: Casa Nostra
-date: 29-Abril-2024
-tags: podcast
+date: 29/04/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol24_1920x1080.jpg
 ---
 
 <p>✨🆕 Casa Nostra us deixa ací la gravació del programa que férem en directe el dia 5 d&#39;abril. Contàrem amb la convidada (o millor dit els convidats fórem nosaltres) Dolores López Asensi, bibliotecària de Llíria amb qui comentàrem temes com el futur de les biblioteques, la llibertat de la informació i la difusió del coneixement i la lectura.

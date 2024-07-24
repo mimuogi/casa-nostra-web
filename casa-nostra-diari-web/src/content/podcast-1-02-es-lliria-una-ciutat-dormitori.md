@@ -1,8 +1,9 @@
 ---
 title: ÉS LLÍRIA UNA CIUTAT DORMITORI? | Casa Nostra 1x02
 author: Casa Nostra
-date: 18-Octubre-2023
-tags: podcast
+date: 18/10/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto02_1920x1080.jpg
 ---
 
 <p>✨🆕Ens desplacem ➡️ cap a temes més seriosos en aquest segon capítol de Casa Nostra.

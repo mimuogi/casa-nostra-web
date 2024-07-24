@@ -1,8 +1,9 @@
 ---
 title: LLÍRIA CIUTAT DE XALETERS | Casa Nostra 1x08
 author: Casa Nostra
-date: 29-Novembre-2023
-tags: podcast
+date: 29/11/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol08_1920x1080.jpg
 ---
 
 <p>Migue 🥸 i Vicente 😎 abandonen hui el centre del poble per endinsar-se en el terreny pantanós 🪷 i d&#39;extramurs 🧱 que tot el món sol passar per alt... ELS XALETS. 🏡 

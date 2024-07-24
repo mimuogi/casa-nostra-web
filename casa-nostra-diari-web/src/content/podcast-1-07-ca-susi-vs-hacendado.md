@@ -1,8 +1,9 @@
 ---
 title: CA SUSI vs. HACENDADO | Casa Nostra 1x07
 author: Casa Nostra
-date: 22-Novembre-2023
-tags: podcast
+date: 22/11/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto07_1920x1080.jpg
 ---
 
 <p>Migue 🥸 i Vicente 😎 vos han aconseguit entrades 🎟️ per al combat més intens de la temporada. 🥊👊💥

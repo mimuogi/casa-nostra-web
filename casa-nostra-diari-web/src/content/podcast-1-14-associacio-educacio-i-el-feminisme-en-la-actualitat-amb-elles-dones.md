@@ -1,8 +1,9 @@
 ---
 title: L'ASSOCIACIÓ, L'EDUCACIÓ I EL FEMINISME EN L'ACTUALITAT amb ELLES DONES | Casa Nostra 1x14
 author: Casa Nostra
-date: 10-Gener-2023
-tags: podcast
+date: 10/01/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol14_1920x1080.jpg
 ---
 
 <p>🆕✨Casa Nostra entra de ple en el capítol de hui en el tema d&#39;actualitat per excel·lència: el feminisme. ♀️⚔️<br>

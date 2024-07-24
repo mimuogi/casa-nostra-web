@@ -1,8 +1,9 @@
 ---
 title: ALTERNATIVES DE FUTUR I PROJECTE DE POBLE amb REME MAZZOLARI | Casa Nostra 1x20
 author: Casa Nostra
-date: 11-Març-2024
-tags: podcast
+date: 11/03/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol20_1920x1080.jpg
 ---
 
 <p>🏠 Casa Nostra es desplaça hui des de terres edetanes fins a la capital del Túria, al centre del mateixíssim ajuntament d&#39;ajuntaments: la Diputació de València. 🏤

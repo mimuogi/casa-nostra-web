@@ -1,8 +1,9 @@
 ---
 title: L'OCI NOCTURN A LLÍRIA | Casa Nostra 1x01
 author: Casa Nostra
-date: 11-Octubre-2023
-tags: podcast
+date: 11/10/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto01_1920x1080.jpg
 ---
 
 <p>✨🆕 Comencem el nostre periple en el món del pòdcast 🎙️ en el tema més important possible: La Festa. 💃</p> <p>Miguel 🥸 i Vicente 😎 ens parlaran de com està actualment el món de l&#39;oci nocturn al poble 🌃, d&#39;algunes de les seues experiències personals (totalment abstèmies 😜), i la proposta d&#39;una idea molt radical: més festa. 🥳🎉🎊</p> <p>Esperem que us agrade...🥹

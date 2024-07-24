@@ -1,8 +1,9 @@
 ---
 title: CAPÍTOL DE PRESENTACIÓ | Casa Nostra 1x00
 author: Casa Nostra
-date: 09-Octubre-2023
-tags: podcast
+date: 09/10/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto00_1920x1080.jpg
 ---
 
 <p>✨🆕 Casa Nostra és un podcast fet per gent de Llíria per queixar-se de Llíria, fet per dos edetans de tota la vida que tenen ganes de contribuir a fer de la nostra llar el lloc que pot aplegar a ser. 🎙️</p>

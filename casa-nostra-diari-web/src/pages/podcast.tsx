@@ -1,35 +1,19 @@
-import React, { useEffect, useState } from "react";
 import "./pages.css";
-import { Layout } from "../components/layout/layout";
-import PodcastEpisodeTag from "../components/podcast-episode-tag/podcastEpisodeTag";
-import { getPodcastEpisodes } from "../scripts/create-podcast-items";
-import { PodcastEpisode } from "../types/PodcastEpisode";
+import { LayoutPodcast } from "../components/layout-podcast/layout-podcast";
+import { PodcastPreviewCard } from "../components/cn-podcast-preview/cn-podcast-preview";
+import postlist from "../data/posts.json";
 
 export function PodcastPage() {
-	const [podcastEpisodes, setPodcastEpisodes] = useState<PodcastEpisode[]>([]);
-	const xmlFile = "https://anchor.fm/s/ead1a8e0/podcast/rss";
-
-	useEffect(() => {
-		getPodcastEpisodes(xmlFile)
-			.then((episodes) => {
-				setPodcastEpisodes(episodes);
-			})
-			.catch((error) => {
-				console.error("An error occurred:", error);
-			});
-	}, []);
-
 	return (
 		<div>
-			<Layout>
-				<h1>Podcast</h1>
-				{podcastEpisodes.map((episode, index) => (
-					<PodcastEpisodeTag
+			<LayoutPodcast>
+				{postlist.map((post, index) => (
+					<PodcastPreviewCard
 						key={index}
-						episode={episode}
+						post={post}
 					/>
 				))}
-			</Layout>
+			</LayoutPodcast>
 		</div>
 	);
 }

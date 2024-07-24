@@ -1,8 +1,9 @@
 ---
 title: ELECCIONS EUROPEES? | Casa Nostra 1x27
 author: Casa Nostra
-date: 10-Juny-2024
-tags: podcast
+date: 10/06/2024
+tags: podcast, T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol27_1920x1080.jpg
 ---
 
 <p>🏠 Casa Nostra 1x27.

@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs";
 import { kebabCase } from "./utils/kebabCase.js";
+import { sortNewestPosts } from "./utils/sorts.js";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -71,13 +72,17 @@ const getPosts = async () => {
 				date: metadata.date ? metadata.date : "Atemporal",
 				content: content ? content : "",
 				id: kebabCase(metadata.title),
+				tags: metadata.tags
+					? metadata.tags.split(",").map((tag) => tag.trim())
+					: [], // Tags coma separated
+				imageUrl: metadata.imageUrl ? metadata.imageUrl : "",
 			};
 			postlist.push(post);
 		}
 
-		const sortedList = postlist.sort((a, b) => b.timestamp - a.timestamp);
+		const sortedList = sortNewestPosts(postlist);
 
-		let contentdata = JSON.stringify(sortedList);
+		let contentdata = JSON.stringify(sortedList, null, 2);
 		fs.writeFileSync(path.join(dataDir, "posts.json"), contentdata);
 	} catch (err) {
 		console.error("Error processing posts:", err);

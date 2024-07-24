@@ -1,8 +1,9 @@
 ---
 title: LA UNIÓ MUSICAL amb VICENTE BALAGUER | Casa Nostra 1x25
 author: Casa Nostra
-date: 13-Maig-2024
-tags: podcast
+date: 13/05/2024
+tags: podcast, T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol25_1920x1080.jpg
 ---
 
 <p>🏡 Casa Nostra 1x25

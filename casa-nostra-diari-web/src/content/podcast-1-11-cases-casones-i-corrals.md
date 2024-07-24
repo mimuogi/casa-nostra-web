@@ -1,8 +1,9 @@
 ---
 title: CASES, 'CASONES' I CORRALS | Casa Nostra 1x11
 author: Casa Nostra
-date: 20-Desembre-2023
+date: 20/12/2023
 tags: podcast
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol11_1920x1080.jpg
 ---
 
 <p>Migue ​🥸 i Vicente 😎 deixen apartat un segon el periodisme 📰 per dedicar-se a la bona vida del rendista 🏠​ al nou episodi de Casa Nostra. 

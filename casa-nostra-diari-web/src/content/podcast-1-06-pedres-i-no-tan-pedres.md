@@ -1,8 +1,9 @@
 ---
 title: PEDRES I NO TAN PEDRES | Casa Nostra 1x06
 author: Casa Nostra
-date: 15-Novembre-2023
-tags: podcast
+date: 15/11/2023
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto06_1920x1080.jpg
 ---
 
 <p>Migue 🥸 i Vicente 😎 no vos han volgut traure el típic episodi sobre el patrimoni de Llíria. 🪨🥶

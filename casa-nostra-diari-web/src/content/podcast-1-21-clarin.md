@@ -1,8 +1,9 @@
 ---
 title: BANDA PRIMITIVA amb PEDRO VICENTE ALAMÀ | Casa Nostra 1x21
 author: Casa Nostra
-date: 25-Març-2024
-tags: podcast
+date: 25/03/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol21_1920x1080.jpg
 ---
 
 <p>🏠 Casa Nostra 1x21

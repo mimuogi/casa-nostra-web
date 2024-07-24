@@ -1,5 +1,9 @@
 .post-card {
-	background: rgba(255, 255, 255, 0.8);
+	text-align: left;
+	border: 1px solid lightblue;
+	margin-bottom: 20px;
+	padding: 0 20px;
+	background: white;
 	padding: 20px;
 	border-radius: 8px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -15,9 +19,12 @@
 }
 
 .post-card:hover {
-	transform: translateY(-4px) rotate(-1deg);
+	transform: rotate(-1deg);
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-	background-color: rgba(255, 255, 255, 0.9);
+}
+
+.post-title {
+	font-family: "Gilroy-Medium";
 }
 
 .author-image {
@@ -38,4 +45,44 @@
 .read-more:hover {
 	text-decoration: none;
 	color: #0056b3;
+}
+
+.post-card {
+	background: white;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	margin: 26px auto 0;
+	max-width: 550px;
+	min-height: 300px;
+	position: relative;
+	width: 80%;
+}
+.post-card:before,
+.post-card:after {
+	content: "";
+	height: 98%;
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+}
+
+.post-card:before {
+	background: whitesmoke;
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+	left: -5px;
+	top: 4px;
+	transform: rotate(-2.5deg);
+}
+.post-card:after {
+	background: #f6f6f6;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+	right: -3px;
+	top: 1px;
+	transform: rotate(1.4deg);
+}
+
+.post-card:hover:before {
+	z-index: -1;
+}
+.post-card:hover:after {
+	z-index: -1;
 }

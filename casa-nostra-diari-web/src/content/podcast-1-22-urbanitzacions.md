@@ -1,8 +1,9 @@
 ---
 title: URBANITZACIONS A LLÍRIA amb MOVE | Casa Nostra 1x22
 author: Casa Nostra
-date: 08-Abril-2024
-tags: podcast
+date: 08/04/2024
+tags: podcast,T1
+imageUrl: /assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol22_1920x1080.jpg
 ---
 
 <p>🏠 Casa Nostra 1x22
