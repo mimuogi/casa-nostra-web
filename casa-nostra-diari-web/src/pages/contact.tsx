@@ -66,7 +66,7 @@ export function ContactPage() {
 	}
 
 	return (
-		<Layout>
+		<div>
 			<div className='contact-form'>
 				<h2>Envia'ns un missatge</h2>
 				<form
@@ -116,7 +116,7 @@ export function ContactPage() {
 					/>
 				</form>
 			</div>
-		</Layout>
+		</div>
 	);
 }
 

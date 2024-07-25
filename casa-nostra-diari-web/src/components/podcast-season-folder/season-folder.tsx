@@ -1,23 +1,15 @@
-import React, { useEffect, useState } from "react";
+// components/podcast-season-folder/season-folder.tsx
+import React, { useState } from "react";
 import "./season-folder.css";
 import PodcastEpisodeTag from "../podcast-episode-tag/podcastEpisodeTag";
-import { getPodcastEpisodes } from "../../scripts/create-podcast-items";
 import { PodcastEpisode } from "../../types/PodcastEpisode";
 
-export function SeasonFolder({ seasonTitle }) {
-	const [podcastEpisodes, setPodcastEpisodes] = useState<PodcastEpisode[]>([]);
-	const xmlFile = "https://anchor.fm/s/ead1a8e0/podcast/rss";
+interface SeasonFolderProps {
+	seasonTitle: string;
+	episodes: PodcastEpisode[];
+}
 
-	useEffect(() => {
-		getPodcastEpisodes(xmlFile)
-			.then((episodes) => {
-				setPodcastEpisodes(episodes);
-			})
-			.catch((error) => {
-				console.error("An error occurred:", error);
-			});
-	}, []);
-
+export function SeasonFolder({ seasonTitle, episodes }: SeasonFolderProps) {
 	const [isOpen, setIsOpen] = useState(false);
 
 	const toggleOpen = () => {
@@ -33,7 +25,7 @@ export function SeasonFolder({ seasonTitle }) {
 				<button className='toggle-button'>{isOpen ? "−" : "+"}</button>
 			</div>
 			<div className={`season-episodes ${isOpen ? "open" : "closed"}`}>
-				{podcastEpisodes.map((episode) => (
+				{episodes.map((episode) => (
 					<PodcastEpisodeTag
 						key={episode.episodeNumber}
 						episode={episode}
