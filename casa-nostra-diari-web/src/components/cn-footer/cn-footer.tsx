@@ -13,6 +13,7 @@ import {
 	SiSpotify,
 	SiYoutubemusic,
 } from "react-icons/si";
+import { CASA_NOSTRA_SOCIALS } from "../../dev/constants.js";
 
 export function FooterCN() {
 	return (
@@ -22,35 +23,35 @@ export function FooterCN() {
 				<div className='social-icons'>
 					<a
 						className='social-a'
-						href='https://open.spotify.com/show/3eBLAu72smJr1GYHHEdanN?si=5ea4ea401d494953&nd=1&dlsi=0f31c92a1bd4490a'
+						href={CASA_NOSTRA_SOCIALS.SPOTIFY}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiSpotify />
 					</a>
 					<a
 						className='social-a'
-						href='https://podcasts.apple.com/us/podcast/casa-nostra/id1724181171?ign-itscg=30200&ign-itsct=lt_p'
+						href={CASA_NOSTRA_SOCIALS.APPLE_PODCAST}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiApplepodcasts />
 					</a>
 					<a
 						className='social-a'
-						href='https://music.amazon.es/podcasts/edbda4a8-2813-4f9a-bb6c-53f6fdba13bf/casa-nostra'
+						href={CASA_NOSTRA_SOCIALS.AMAZON_MUSIC}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiAmazonmusic />
 					</a>
 					<a
 						className='social-a'
-						href='https://music.youtube.com/playlist?list=PLSd-24aOoJHGAsvqxG_SV12geT5TaagdN'
+						href={CASA_NOSTRA_SOCIALS.YOUTUBE_MUSIC}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiYoutubemusic />
 					</a>
 					<a
 						className='social-a'
-						href='https://www.ivoox.com/podcast-casa-nostra_sq_f12354445_1.html'
+						href={CASA_NOSTRA_SOCIALS.IVOOX}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<img
@@ -64,35 +65,35 @@ export function FooterCN() {
 				<div className='social-icons'>
 					<a
 						className='social-a'
-						href='https://x.com/CasaNostraPod'
+						href={CASA_NOSTRA_SOCIALS.TWITTER}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaSquareXTwitter />
 					</a>
 					<a
 						className='social-a'
-						href='https://www.tiktok.com/@casanostra_lliria'
+						href={CASA_NOSTRA_SOCIALS.TIKTOK}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaTiktok />
 					</a>
 					<a
 						className='social-a'
-						href='https://www.facebook.com/profile.php?id=61554899325515'
+						href={CASA_NOSTRA_SOCIALS.FACEBOOK}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaSquareFacebook />
 					</a>
 					<a
 						className='social-a'
-						href='https://www.instagram.com/lliria.casanostra'
+						href={CASA_NOSTRA_SOCIALS.INSTAGRAM}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaInstagram />
 					</a>
 					<a
 						className='social-a'
-						href='https://www.youtube.com/channel/UCokSBFzdENFsuj_dKhcuKnA'
+						href={CASA_NOSTRA_SOCIALS.YOUTUBE}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaYoutube />

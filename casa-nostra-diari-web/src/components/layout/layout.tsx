@@ -20,7 +20,6 @@ export function Layout() {
 			.then((episodes) => {
 				const groupedEpisodes: Record<string, PodcastEpisode[]> = {};
 
-				// Group episodes by season
 				episodes.forEach((episode) => {
 					const season = episode.episodeSeason;
 					if (!groupedEpisodes[season]) {
@@ -32,7 +31,7 @@ export function Layout() {
 				setEpisodesBySeason(groupedEpisodes);
 			})
 			.catch((error) => {
-				console.error("An error occurred:", error);
+				console.error("Algo va malament..:", error);
 			});
 	}, []);
 

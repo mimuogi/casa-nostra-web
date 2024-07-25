@@ -4,39 +4,15 @@ import rehypeRaw from "rehype-raw";
 import { FaFacebook, FaWhatsapp, FaLinkedin } from "react-icons/fa";
 import "./post-view.css";
 import { FaLink, FaXTwitter } from "react-icons/fa6";
+import {
+	copyToClipboard,
+	shareOnWhatsapp,
+	shareOnFacebook,
+} from "../../scripts/utils/shares.js";
+
+import { getAuthorImage } from "../../scripts/utils/author-info.js";
 
 export function PostView({ post }) {
-	// Function to get image source based on author
-	const getAuthorImage = (author) => {
-		switch (author) {
-			case "Carlos Castillo":
-				return "assetsweb/Contingut_Web/1.Targetes_Autor/Carlos250x250.png";
-			case "Quique":
-				return "assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png";
-			default:
-				return "/assets/images/casaNostra.jpg";
-		}
-	};
-
-	const copyToClipboard = () => {
-		navigator.clipboard.writeText(window.location.href);
-		alert("Link copied to clipboard");
-	};
-
-	const shareOnWhatsapp = () => {
-		const whatsappUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(
-			window.location.href
-		)}`;
-		window.open(whatsappUrl, "_blank");
-	};
-
-	const shareOnFacebook = () => {
-		const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-			window.location.href
-		)}`;
-		window.open(facebookUrl, "_blank");
-	};
-
 	return (
 		<div className='post-read'>
 			<h1>{post.title}</h1>
