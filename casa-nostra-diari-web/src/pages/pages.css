@@ -71,3 +71,9 @@
 	border-color: #30a0e0;
 	box-shadow: 0 0 5px rgba(48, 160, 224, 0.5);
 }
+
+.error-text {
+	color: whitesmoke;
+	background-color: red;
+	border-radius: 2%;
+}
