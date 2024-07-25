@@ -13,9 +13,11 @@ import {
 	SiSpotify,
 	SiYoutubemusic,
 } from "react-icons/si";
-import { CASA_NOSTRA_SOCIALS } from "../../dev/constants.js";
+import { AUTHOR_SOCIALS } from "../../dev/socials.js";
 
 export function FooterCN() {
+	const CASA_NOSTRA_SOCIALS = AUTHOR_SOCIALS["Casa Nostra"];
+
 	return (
 		<footer className='footer'>
 			<hr />
@@ -23,35 +25,35 @@ export function FooterCN() {
 				<div className='social-icons'>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.SPOTIFY}
+						href={CASA_NOSTRA_SOCIALS.spotify}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiSpotify />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.APPLE_PODCAST}
+						href={CASA_NOSTRA_SOCIALS.apple_podcast}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiApplepodcasts />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.AMAZON_MUSIC}
+						href={CASA_NOSTRA_SOCIALS.amazon_music}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiAmazonmusic />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.YOUTUBE_MUSIC}
+						href={CASA_NOSTRA_SOCIALS.youtube_music}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<SiYoutubemusic />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.IVOOX}
+						href={CASA_NOSTRA_SOCIALS.ivoox}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<img
@@ -65,35 +67,35 @@ export function FooterCN() {
 				<div className='social-icons'>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.TWITTER}
+						href={CASA_NOSTRA_SOCIALS.twitter}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaSquareXTwitter />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.TIKTOK}
+						href={CASA_NOSTRA_SOCIALS.tiktok}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaTiktok />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.FACEBOOK}
+						href={CASA_NOSTRA_SOCIALS.facebook}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaSquareFacebook />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.INSTAGRAM}
+						href={CASA_NOSTRA_SOCIALS.instagram}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaInstagram />
 					</a>
 					<a
 						className='social-a'
-						href={CASA_NOSTRA_SOCIALS.YOUTUBE}
+						href={CASA_NOSTRA_SOCIALS.youtube}
 						target='_blank'
 						rel='noopener noreferrer'>
 						<FaYoutube />

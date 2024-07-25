@@ -1,10 +1,9 @@
+import { AUTHOR_NAME, AUTHOR_IMAGES, AUTHOR_SOCIALS } from "../../dev/socials";
+
 export function getAuthorImage(author) {
-	switch (author) {
-		case "Carlos Castillo":
-			return "assetsweb/Contingut_Web/1.Targetes_Autor/Carlos250x250.png";
-		case "Quique":
-			return "assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png";
-		default:
-			return "/assets/images/casaNostra.jpg";
-	}
+	return AUTHOR_IMAGES[author] || AUTHOR_IMAGES["Casa Nostra"];
+}
+
+export function getAuthorSocials(author) {
+	return AUTHOR_SOCIALS[author] || {};
 }

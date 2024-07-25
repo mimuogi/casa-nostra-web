@@ -2,17 +2,21 @@ import React from "react";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import { FaFacebook, FaWhatsapp, FaLinkedin } from "react-icons/fa";
-import "./post-view.css";
 import { FaLink, FaXTwitter } from "react-icons/fa6";
 import {
 	copyToClipboard,
 	shareOnWhatsapp,
 	shareOnFacebook,
-} from "../../scripts/utils/shares.js";
-
-import { getAuthorImage } from "../../scripts/utils/author-info.js";
+} from "../../scripts/utils/shares";
+import {
+	getAuthorImage,
+	getAuthorSocials,
+} from "../../scripts/utils/author-info";
+import "./post-view.css";
 
 export function PostView({ post }) {
+	const authorSocials = getAuthorSocials(post.author);
+
 	return (
 		<div className='post-read'>
 			<h1>{post.title}</h1>
@@ -30,20 +34,23 @@ export function PostView({ post }) {
 							}}
 						/>
 					</span>
-
 					<div className='author-socials'>
-						<a
-							href={`https://twitter.com/intent/tweet?text=Check this out! ${window.location.href}`}
-							target='_blank'
-							rel='noopener noreferrer'>
-							<FaXTwitter />
-						</a>
-						<a
-							href={`https://www.linkedin.com/sharing/share-offsite/?url=${window.location.href}`}
-							target='_blank'
-							rel='noopener noreferrer'>
-							<FaLinkedin />
-						</a>
+						{authorSocials.twitter && (
+							<a
+								href={authorSocials.twitter}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaXTwitter />
+							</a>
+						)}
+						{authorSocials.linkedin && (
+							<a
+								href={authorSocials.linkedin}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaLinkedin />
+							</a>
+						)}
 					</div>
 				</div>
 				<div className='share-buttons'>
