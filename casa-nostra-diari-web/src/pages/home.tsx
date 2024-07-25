@@ -1,30 +1,19 @@
-import React, { useState } from "react";
+// src/pages/Home.js
+import React from "react";
 import "./pages.css";
 import { PostList } from "../components/cn-postslist/postslist";
 import postlist from "../data/posts.json";
+import { usePagination } from "../customHooks/usePagination";
 
 const POSTS_PER_PAGE = 10;
 
 export function Home() {
-	const [currentPage, setCurrentPage] = useState(1);
-
-	const totalPages = Math.ceil(postlist.length / POSTS_PER_PAGE);
-
-	const getPaginatedPosts = () => {
-		const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
-		const endIndex = startIndex + POSTS_PER_PAGE;
-		return postlist.slice(startIndex, endIndex);
-	};
-
-	const handlePageChange = (page) => {
-		if (page >= 1 && page <= totalPages) {
-			setCurrentPage(page);
-		}
-	};
+	const { currentPage, totalPages, getPaginatedItems, handlePageChange } =
+		usePagination(postlist, POSTS_PER_PAGE);
 
 	return (
 		<div>
-			<PostList postlist={getPaginatedPosts()} />
+			<PostList postlist={getPaginatedItems()} />
 			<div className='pagination'>
 				<button
 					onClick={() => handlePageChange(currentPage - 1)}
