@@ -3,8 +3,8 @@ name: Build and Deploy
 on:
   push:
     paths:
-      - "casa-nostra-diari-web/src/content/**"
-      - "casa-nostra-diari-web/src/pages/content/**"
+      - "/src/content/**"
+      - "/src/pages/content/**"
   workflow_dispatch:
 
 jobs:
@@ -15,40 +15,27 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: List directory contents
-        run: |
-          ls -la
-          ls -la casa-nostra-diari-web
-
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Install dependencies
-        run: |
-          cd casa-nostra-diari-web
-          npm install
+        run: npm install
 
       - name: Run get-posts script
-        run: |
-          cd casa-nostra-diari-web
-          npm run get-posts
+        run: npm run get-posts
 
       - name: Run get-pages script
-        run: |
-          cd casa-nostra-diari-web
-          npm run get-pages
+        run: npm run get-pages
 
       - name: Build production code
-        run: |
-          cd casa-nostra-diari-web
-          npm run build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: casa-nostra-diari-web/dist
+          folder: /dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

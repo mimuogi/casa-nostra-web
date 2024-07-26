@@ -7,9 +7,10 @@ export function About() {
 			<h1 style={{ textAlign: `center`, marginBottom: `40px` }}>
 				Qui som nosaltres?
 			</h1>
-			<div className='page-content'>
-				<ReactMarkdown children={pagesText[0].content} />
-			</div>
+			<ReactMarkdown
+				className='markdown-content'
+				children={pagesText[0].content}
+			/>
 		</div>
 	);
 }

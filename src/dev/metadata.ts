@@ -1,7 +1,8 @@
 export const availableTags = [
 	"podcast",
+	"noticia",
 	"article",
 	"divulgació",
-	"entreteniment",
-	"carta",
+	"cultura",
+	"esport",
 ];

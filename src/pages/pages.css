@@ -5,16 +5,19 @@
 }
 
 .filter-container {
+	display: inline-block;
 	margin-bottom: 20px;
 	text-align: left;
+	padding: 10px;
+	width: fit-content;
 }
 
 .filter-container label {
+	display: flex;
 	font-size: 18px;
-	color: #333;
+	color: black;
 	margin-bottom: 10px;
-	display: block;
-	font-family: "Gilroy-Light", sans-serif;
+	font-family: "Gilroy-Black", sans-serif;
 }
 
 .filter-container select {
@@ -133,4 +136,48 @@
 	color: whitesmoke;
 	background-color: red;
 	border-radius: 2%;
+}
+
+/* Markdown Content Styles */
+.markdown-content {
+	font-family: "Gilroy-Light", sans-serif;
+	line-height: 1.5;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6 {
+	font-family: "Gilroy-Medium", sans-serif;
+}
+
+.markdown-content img,
+.markdown-content iframe {
+	display: block;
+	max-width: 80%;
+	margin: 20px auto;
+}
+
+.markdown-content p,
+.markdown-content ul,
+.markdown-content ol,
+.markdown-content blockquote,
+.markdown-content pre {
+	margin: 1em 0;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+	padding-left: 20px;
+}
+
+.markdown-content a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.markdown-content a:hover {
+	text-decoration: underline;
 }
