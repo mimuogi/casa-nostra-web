@@ -50,3 +50,5 @@ jobs:
         with:
           branch: gh-pages
           folder: casa-nostra-diari-web/dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
