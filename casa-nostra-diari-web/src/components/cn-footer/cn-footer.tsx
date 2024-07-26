@@ -1,4 +1,3 @@
-import React from "react";
 import "./cn-footer.css";
 import {
 	FaInstagram,
@@ -13,7 +12,7 @@ import {
 	SiSpotify,
 	SiYoutubemusic,
 } from "react-icons/si";
-import { AUTHOR_SOCIALS } from "../../dev/socials.js";
+import { AUTHOR_SOCIALS } from "../../dev/socials";
 
 export function FooterCN() {
 	const CASA_NOSTRA_SOCIALS = AUTHOR_SOCIALS["Casa Nostra"];

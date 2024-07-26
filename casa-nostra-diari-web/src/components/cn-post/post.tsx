@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 import rehypeRaw from "rehype-raw";
 import "./cn-post.css";
 import { getAuthorImage } from "../../scripts/utils/author-info";
+import { PostType } from "../../types/Post";
 
-export function Post({ post }) {
+export function Post({ post }: { post: PostType }) {
 	const contentSummary = post.content.split(" ").slice(0, 50).join(" ");
 	const authorImage = getAuthorImage(post.author);
 
@@ -21,8 +22,9 @@ export function Post({ post }) {
 							alt={`${post.author}'s picture`}
 							className='author-image'
 							onError={(e) => {
-								e.target.onerror = null;
-								e.target.src = "/assets/images/casaNostra.jpg"; // Fallback image
+								const target = e.target as HTMLImageElement;
+								target.onerror = null;
+								target.src = "/assets/images/casaNostra.jpg"; // Fallback image
 							}}
 						/>{" "}
 						{post.author},{" "}

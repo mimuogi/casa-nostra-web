@@ -1,4 +1,3 @@
-import React from "react";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import { FaFacebook, FaWhatsapp, FaLinkedin } from "react-icons/fa";
@@ -13,8 +12,9 @@ import {
 	getAuthorSocials,
 } from "../../scripts/utils/author-info";
 import "./post-view.css";
+import { PostType } from "../../types/Post";
 
-export function PostView({ post }) {
+export function PostView({ post }: { post: PostType }) {
 	const authorSocials = getAuthorSocials(post.author);
 
 	return (
@@ -29,8 +29,9 @@ export function PostView({ post }) {
 							alt={post.author}
 							className='author-image'
 							onError={(e) => {
-								e.target.onerror = null;
-								e.target.src = "/assets/images/casaNostra.jpg"; // Fallback image
+								const target = e.target as HTMLImageElement;
+								target.onerror = null;
+								target.src = "/assets/images/casaNostra.jpg"; // Fallback image
 							}}
 						/>
 					</span>

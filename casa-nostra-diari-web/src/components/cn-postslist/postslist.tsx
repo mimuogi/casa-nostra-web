@@ -1,7 +1,8 @@
 import "./cn-postslist.css";
 import { Post } from "../cn-post/post";
+import { PostType } from "../../types/Post";
 
-export function PostList({ postlist }) {
+export function PostList({ postlist }: { postlist: PostType[] }) {
 	return (
 		<div className='postlist'>
 			{postlist.length &&

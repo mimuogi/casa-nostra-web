@@ -1,4 +1,3 @@
-import React from "react";
 import "./pages.css";
 import { PostList } from "../components/cn-postslist/postslist";
 import postlist from "../data/posts.json";

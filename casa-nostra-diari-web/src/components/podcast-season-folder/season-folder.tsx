@@ -1,5 +1,4 @@
-// components/podcast-season-folder/season-folder.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import "./season-folder.css";
 import PodcastEpisodeTag from "../podcast-episode-tag/podcastEpisodeTag";
 import { PodcastEpisode } from "../../types/PodcastEpisode";

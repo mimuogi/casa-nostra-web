@@ -3,8 +3,9 @@ import { Link } from "react-router-dom";
 
 import "./cn-podcast-preview.css";
 import rehypeRaw from "rehype-raw";
+import { PostType } from "../../types/Post";
 
-export function PodcastPreviewCard({ post }) {
+export function PodcastPreviewCard({ post }: { post: PostType }) {
 	const trimedTitle = post.title.split("|")[0].trim();
 	const contentSummary = post.content.split(" ").slice(0, 30).join(" ");
 

@@ -1,8 +1,7 @@
 import { useRef, useState } from "react";
-import { Layout } from "../components/layout/layout";
 import emailjs from "@emailjs/browser";
 import "./pages.css";
-//import { EMAILJS } from "../dev/variables.js";
+//import { EMAILJS } from "../dev/variables";
 
 interface FormErrors {
 	name?: string;

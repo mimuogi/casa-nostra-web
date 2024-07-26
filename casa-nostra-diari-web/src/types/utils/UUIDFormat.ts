@@ -1,1 +1,0 @@
-export type UUIDFormat = `${string}-${string}-${string}-${string}-${string}`;

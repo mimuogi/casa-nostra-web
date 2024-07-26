@@ -62,11 +62,8 @@ const getPosts = async () => {
 			const metadataIndexes = lines.reduce(getMetadataIndexes, []);
 			const metadata = parseMetadata({ metadataIndexes, lines });
 			const content = parseContent({ metadataIndexes, lines });
-			const dateStamp = new Date(metadata.date);
-			const timeStamp = dateStamp.getTime() / 1000;
 
 			const post = {
-				timestamp: timeStamp,
 				title: metadata.title ? metadata.title : "Post sense títol",
 				author: metadata.author ? metadata.author : "Anònim",
 				date: metadata.date ? metadata.date : "Atemporal",

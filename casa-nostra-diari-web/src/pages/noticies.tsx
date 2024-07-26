@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./pages.css";
 import { PostList } from "../components/cn-postslist/postslist";
 import postlist from "../data/posts.json";
 import { usePagination } from "../customHooks/usePagination";
 import { filterPosts } from "../scripts/utils/filterPosts";
-import { availableTags } from "../dev/metadata.js";
+import { availableTags } from "../dev/metadata";
 
 const POSTS_PER_PAGE = 10;
 
@@ -17,7 +17,7 @@ export function News() {
 		usePagination(filteredPosts, POSTS_PER_PAGE);
 
 	const filteredTags = availableTags.filter(
-		(tag) => tag.toLowerCase() !== "podcast"
+		(tag: string) => tag.toLowerCase() !== "podcast"
 	);
 
 	return (
@@ -29,7 +29,7 @@ export function News() {
 					value={selectedTag}
 					onChange={(e) => setSelectedTag(e.target.value)}>
 					<option value=''>Tot</option>
-					{filteredTags.map((tag) => (
+					{filteredTags.map((tag: string) => (
 						<option
 							key={tag}
 							value={tag}>
