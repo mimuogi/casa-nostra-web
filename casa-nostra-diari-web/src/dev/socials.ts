@@ -3,8 +3,10 @@ import { SocialNetworkSet } from "../types/SocialNetworkSet";
 export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Carlos Castillo":
 		"assetsweb/Contingut_Web/1.Targetes_Autor/Carlos250x250.png",
-	"Quique Cognom": "assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png",
-	"Leire Cognom": "assetsweb/Contingut_Web/1.Targetes_Autor/Leire250x250.png",
+	"Quique Monfort":
+		"assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png",
+	"Leire Juan Checa":
+		"assetsweb/Contingut_Web/1.Targetes_Autor/Leire250x250.png",
 	"Casa Nostra": "/assets/images/casaNostra.jpg",
 };
 
@@ -18,11 +20,11 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		twitter: "https://twitter.com/carloscastillo",
 		linkedin: "https://linkedin.com/in/carloscastillo",
 	},
-	"Quique Cognom": {
+	"Quique Monfort": {
 		twitter: "https://twitter.com/quique",
 		linkedin: "https://linkedin.com/in/quique",
 	},
-	"Leire Cognom": {
+	"Leire Juan Checa": {
 		twitter: "https://twitter.com/leire",
 		linkedin: "https://linkedin.com/in/leire",
 	},

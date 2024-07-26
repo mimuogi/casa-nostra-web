@@ -1,11 +1,3 @@
-body {
-	margin: 0;
-	font-family: Arial, sans-serif;
-	background-color: #f4f4f4;
-	margin: 0;
-	padding: 0;
-}
-
 .layout {
 	display: flex;
 	flex-direction: column;
@@ -30,6 +22,14 @@ body {
 
 .main-column {
 	grid-column: 2 / 3;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.aside-left {
+	grid-column: 1 / 2;
 	width: 100%;
 	display: flex;
 	flex-direction: column;

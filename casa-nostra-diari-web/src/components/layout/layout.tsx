@@ -24,7 +24,7 @@ export function Layout() {
 					if (episode.episodeSeason === 0) {
 						season = "Presentació";
 					} else {
-						season = episode.episodeSeason.toString();
+						season = "Temporada " + episode.episodeSeason.toString();
 					}
 
 					if (!groupedEpisodes[season]) {
@@ -45,6 +45,7 @@ export function Layout() {
 			<HeaderCN />
 			<CNNavigationBar />
 			<div className='main-layout'>
+				<aside className='aside-left'></aside>
 				<main className='main-column'>
 					<Outlet /> {/* Renders the nested route components */}
 				</main>

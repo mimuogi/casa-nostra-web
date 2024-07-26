@@ -1,5 +1,6 @@
 import "./cn-footer.css";
 import {
+	FaCircleInfo,
 	FaInstagram,
 	FaSquareFacebook,
 	FaSquareXTwitter,
@@ -55,11 +56,7 @@ export function FooterCN() {
 						href={CASA_NOSTRA_SOCIALS.ivoox}
 						target='_blank'
 						rel='noopener noreferrer'>
-						<img
-							src='/assets/social-icons/ivoox.svg'
-							alt='Ivoox'
-							className='ivoox-icon'
-						/>
+						<FaCircleInfo />
 					</a>
 				</div>
 				<p>&copy; mimuogi {new Date().getFullYear()}</p>

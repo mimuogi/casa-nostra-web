@@ -1,6 +1,8 @@
 body {
 	margin: 0;
+	padding: 0;
 	background-color: #f4f4f4;
+	width: 100%;
 }
 
 @media (prefers-color-scheme: light) {

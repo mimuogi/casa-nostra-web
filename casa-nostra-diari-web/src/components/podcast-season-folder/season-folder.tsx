@@ -20,7 +20,7 @@ export function SeasonFolder({ seasonTitle, episodes }: SeasonFolderProps) {
 			<div
 				className='season-header'
 				onClick={toggleOpen}>
-				<h3>Temporada {seasonTitle}</h3>
+				<h3>{seasonTitle}</h3>
 				<button className='toggle-button'>{isOpen ? "−" : "+"}</button>
 			</div>
 			<div className={`season-episodes ${isOpen ? "open" : "closed"}`}>
