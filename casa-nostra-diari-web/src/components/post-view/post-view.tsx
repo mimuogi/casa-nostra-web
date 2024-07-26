@@ -1,7 +1,13 @@
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
 import { FaFacebook, FaWhatsapp, FaLinkedin } from "react-icons/fa";
-import { FaLink, FaXTwitter } from "react-icons/fa6";
+import {
+	FaInstagram,
+	FaLink,
+	FaTiktok,
+	FaXTwitter,
+	FaYoutube,
+} from "react-icons/fa6";
 import {
 	copyToClipboard,
 	shareOnWhatsapp,
@@ -42,6 +48,38 @@ export function PostView({ post }: { post: PostType }) {
 								target='_blank'
 								rel='noopener noreferrer'>
 								<FaXTwitter />
+							</a>
+						)}
+						{authorSocials.tiktok && (
+							<a
+								href={authorSocials.tiktok}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaTiktok />
+							</a>
+						)}
+						{authorSocials.facebook && (
+							<a
+								href={authorSocials.facebook}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaFacebook />
+							</a>
+						)}
+						{authorSocials.instagram && (
+							<a
+								href={authorSocials.instagram}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaInstagram />
+							</a>
+						)}
+						{authorSocials.youtube && (
+							<a
+								href={authorSocials.youtube}
+								target='_blank'
+								rel='noopener noreferrer'>
+								<FaYoutube />
 							</a>
 						)}
 						{authorSocials.linkedin && (

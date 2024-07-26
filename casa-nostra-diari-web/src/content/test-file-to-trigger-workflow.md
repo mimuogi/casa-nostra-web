@@ -1,6 +1,6 @@
 ---
 title: Article de prova
-author: Miguel Alejandro Muñoz
+author: Miguel Alejandro Muñoz Gil
 date: 26/07/2024
 tags: article
 imageUrl:

@@ -19,6 +19,7 @@
 	flex-wrap: wrap;
 }
 
+/* Share Buttons */
 .share-buttons {
 	display: flex;
 	gap: 10px;
@@ -36,6 +37,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	aspect-ratio: 1;
 }
 
 .share-buttons button:hover {
@@ -83,7 +85,8 @@
 
 	.share-buttons button {
 		font-size: 0.8em;
-		padding: 5px;
+		width: 30px;
+		height: 30px;
 	}
 
 	.author-socials a {
@@ -97,14 +100,14 @@
 	}
 
 	.share-buttons {
-		justify-content: center;
+		justify-content: left;
 		width: 100%;
 	}
 
 	.share-buttons button {
-		flex: 1 1 30%;
-		min-width: 80px;
-		padding: 5px;
+		font-size: 0.8em;
+		width: 30px;
+		height: 30px;
 	}
 
 	.author-info {

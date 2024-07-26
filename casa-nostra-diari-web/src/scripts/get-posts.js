@@ -21,10 +21,16 @@ const getPosts = async () => {
 		let postlist = [];
 
 		for (const file of files) {
-			const fileContent = await fs.promises.readFile(
-				`${dirPathContent}/${file}`,
-				"utf-8"
-			);
+			const filePath = path.join(dirPathContent, file);
+			const fileStat = await fs.promises.stat(filePath);
+
+			// Check if the current item is a file
+			if (!fileStat.isFile()) {
+				console.log(`Skipping directory or non-file item: ${filePath}`);
+				continue;
+			}
+
+			const fileContent = await fs.promises.readFile(filePath, "utf-8");
 			const lines = fileContent.split("\n");
 
 			const getMetadataIndexes = (indexArray, lineContent, index) => {
@@ -71,7 +77,7 @@ const getPosts = async () => {
 				id: kebabCase(metadata.title),
 				tags: metadata.tags
 					? metadata.tags.split(",").map((tag) => tag.trim())
-					: [], // Tags coma separated
+					: [], // Tags comma separated
 				imageUrl: metadata.imageUrl ? metadata.imageUrl : "",
 			};
 			postlist.push(post);

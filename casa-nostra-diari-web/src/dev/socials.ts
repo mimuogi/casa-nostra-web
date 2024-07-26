@@ -9,6 +9,11 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 };
 
 export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
+	"Miguel Alejandro Muñoz Gil": {
+		twitter: "https://x.com/Joliverte",
+		linkedin: "https://www.linkedin.com/in/miguel-alejandro-mu%C3%B1oz-gil/",
+		instagram: "https://www.instagram.com/alejandrito.jolivert/",
+	},
 	"Carlos Castillo": {
 		twitter: "https://twitter.com/carloscastillo",
 		linkedin: "https://linkedin.com/in/carloscastillo",

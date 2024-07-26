@@ -1,6 +1,16 @@
 [
   {
-    "timestamp": null,
+    "title": "Article de prova",
+    "author": "Miguel Alejandro Muñoz Gil",
+    "date": "26/07/2024",
+    "content": "\n## Projecte Blog Casa Nostra\n\nBenvinguts al projecte **Blog Casa Nostra**! Aquest projecte proporciona una manera poderosa i eficient de crear i gestionar un diari digital transformant fitxers Markdown en publicacions de blog bellament formatades. Amb la nostra plataforma, pots publicar articles sense esforç i mantenir una presència en línia actualitzada per al teu diari.\n\n## 📖 Visió General\n\nEl Blog Casa Nostra està dissenyat per convertir fitxers Markdown en publicacions de blog ben estructurades i visualment atractives. Aquesta eina és perfecta per a periodistes, bloggers i creadors de contingut que volen optimitzar el seu procés de publicació i centrar-se en produir contingut de gran qualitat.\n",
+    "id": "article-de-prova",
+    "tags": [
+      "article"
+    ],
+    "imageUrl": ""
+  },
+  {
     "title": "FINAL DE TEMPORADA | Casa Nostra 1x28",
     "author": "Casa Nostra",
     "date": "15/07/2024",
@@ -13,7 +23,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol28_1920x1080.jpg"
   },
   {
-    "timestamp": 1728165600,
     "title": "ELECCIONS EUROPEES? | Casa Nostra 1x27",
     "author": "Casa Nostra",
     "date": "10/06/2024",
@@ -26,7 +35,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol27_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "PLAQUES SOLARS amb JOSÉ LUIS ARCE | Casa Nostra 1x26",
     "author": "Casa Nostra",
     "date": "27/05/2024",
@@ -39,7 +47,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol26_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "LA UNIÓ MUSICAL amb VICENTE BALAGUER | Casa Nostra 1x25",
     "author": "Casa Nostra",
     "date": "13/05/2024",
@@ -52,7 +59,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol25_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "TERTÚLIA CULTURAL I FORMACIÓ CIUTADANA amb DOLORES LÓPEZ ASENSI | Casa Nostra 1x24",
     "author": "Casa Nostra",
     "date": "29/04/2024",
@@ -65,7 +71,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol24_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "FESTES DE SANT VICENT amb MARÍA JOSÉ LLOPIS | Casa Nostra 1x23",
     "author": "Casa Nostra",
     "date": "22/04/2024",
@@ -78,7 +83,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol23_1920x1080.jpg"
   },
   {
-    "timestamp": 1722722400,
     "title": "URBANITZACIONS A LLÍRIA amb MOVE | Casa Nostra 1x22",
     "author": "Casa Nostra",
     "date": "08/04/2024",
@@ -91,7 +95,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol22_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "BANDA PRIMITIVA amb PEDRO VICENTE ALAMÀ | Casa Nostra 1x21",
     "author": "Casa Nostra",
     "date": "25/03/2024",
@@ -104,7 +107,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol21_1920x1080.jpg"
   },
   {
-    "timestamp": 1730588400,
     "title": "ALTERNATIVES DE FUTUR I PROJECTE DE POBLE amb REME MAZZOLARI | Casa Nostra 1x20",
     "author": "Casa Nostra",
     "date": "11/03/2024",
@@ -117,7 +119,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol20_1920x1080.jpg"
   },
   {
-    "timestamp": 1722636000,
     "title": "DIA DE LA DONA: FEMINISME I PODER amb ELLES DONES | Casa Nostra 1x19",
     "author": "Casa Nostra",
     "date": "08/03/2024",
@@ -130,7 +131,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol19_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "UNA NOVA DEMOCRÀCIA A LLÍRIA? | Casa Nostra 1x18",
     "author": "Casa Nostra",
     "date": "26/02/2024",
@@ -143,7 +143,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol18_1920x1080.jpg"
   },
   {
-    "timestamp": 1733094000,
     "title": "ELS CLUBS D'ESPORTS | Casa Nostra 1x17",
     "author": "Casa Nostra",
     "date": "12/02/2024",
@@ -156,7 +155,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol17_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "JOVENTUT, FESTES, I SER POBLE amb JOANMA MIGUEL LEÓN | Casa Nostra 1x16",
     "author": "Casa Nostra",
     "date": "29/01/2024",
@@ -169,7 +167,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol16_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "MOLTA MÉS CASA NOSTRA! | Casa Nostra 1x15",
     "author": "Casa Nostra",
     "date": "17/01/2024",
@@ -182,7 +179,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol15_1920x1080.jpg"
   },
   {
-    "timestamp": 1727733600,
     "title": "L'ASSOCIACIÓ, L'EDUCACIÓ I EL FEMINISME EN L'ACTUALITAT amb ELLES DONES | Casa Nostra 1x14",
     "author": "Casa Nostra",
     "date": "10/01/2024",
@@ -195,7 +191,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol14_1920x1080.jpg"
   },
   {
-    "timestamp": 1709247600,
     "title": "DEMOCRÀCIA A LLÍRIA amb LLÍRIA AL DETALL | Casa Nostra 1x13",
     "author": "Casa Nostra",
     "date": "03/01/2024",
@@ -207,7 +202,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol13_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "UNS NADALS MÀGICS amb GENT ESPECIAL | Casa Nostra 1x12",
     "author": "Casa Nostra",
     "date": "27/12/2023",
@@ -220,7 +214,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol12_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "CASES, 'CASONES' I CORRALS | Casa Nostra 1x11",
     "author": "Casa Nostra",
     "date": "20/12/2023",
@@ -232,7 +225,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol11_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "INDÚSTRIA, FOMENT ECONÒMIC I FUTUR DE LLÍRIA amb PACO GORREA | Casa Nostra 1x10",
     "author": "Casa Nostra",
     "date": "13/12/2023",
@@ -245,7 +237,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol10_1920x1080.jpg"
   },
   {
-    "timestamp": 1686520800,
     "title": "SOM NOTÍCIA | Casa Nostra 1x09",
     "author": "Casa Nostra",
     "date": "06/12/2023",
@@ -258,7 +249,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol09_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "LLÍRIA CIUTAT DE XALETERS | Casa Nostra 1x08",
     "author": "Casa Nostra",
     "date": "29/11/2023",
@@ -271,7 +261,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capítol08_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "CA SUSI vs. HACENDADO | Casa Nostra 1x07",
     "author": "Casa Nostra",
     "date": "22/11/2023",
@@ -284,7 +273,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto07_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "PEDRES I NO TAN PEDRES | Casa Nostra 1x06",
     "author": "Casa Nostra",
     "date": "15/11/2023",
@@ -297,7 +285,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto06_1920x1080.jpg"
   },
   {
-    "timestamp": 1691704800,
     "title": "EL VOT A LLÍRIA | Casa Nostra 1x05",
     "author": "Casa Nostra",
     "date": "08/11/2023",
@@ -310,7 +297,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto05_1920x1080.jpg"
   },
   {
-    "timestamp": 1673391600,
     "title": "LES ASSOCIACIONS MUSICALS | Casa Nostra 1x04",
     "author": "Casa Nostra",
     "date": "01/11/2023",
@@ -323,7 +309,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto04_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "L'EDUCACIÓ A LLÍRIA | Casa Nostra 1x03",
     "author": "Casa Nostra",
     "date": "25/10/2023",
@@ -336,7 +321,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto03_1920x1080.jpg"
   },
   {
-    "timestamp": null,
     "title": "ÉS LLÍRIA UNA CIUTAT DORMITORI? | Casa Nostra 1x02",
     "author": "Casa Nostra",
     "date": "18/10/2023",
@@ -349,7 +333,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto02_1920x1080.jpg"
   },
   {
-    "timestamp": 1699570800,
     "title": "L'OCI NOCTURN A LLÍRIA | Casa Nostra 1x01",
     "author": "Casa Nostra",
     "date": "11/10/2023",
@@ -362,7 +345,6 @@
     "imageUrl": "/assetsweb/Contingut_Web/0.Miniatures_Podcast/Temporada_1_(1920x1080)/CASANOSTRA_Capíto01_1920x1080.jpg"
   },
   {
-    "timestamp": 1694296800,
     "title": "CAPÍTOL DE PRESENTACIÓ | Casa Nostra 1x00",
     "author": "Casa Nostra",
     "date": "09/10/2023",
