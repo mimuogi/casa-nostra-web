@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     paths:
-      - "src/content/posts**"
+      - "src/content/**"
       - "src/pages/content/**"
 
 jobs:
@@ -14,8 +14,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.0.3
         with:
           node-version: "20"
 
