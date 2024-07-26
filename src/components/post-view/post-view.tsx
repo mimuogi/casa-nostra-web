@@ -19,6 +19,7 @@ import {
 } from "../../scripts/utils/author-info";
 import "./post-view.css";
 import { PostType } from "../../types/Post";
+import { getEnvironmentPath } from "../../scripts/utils/asset-paths";
 
 export function PostView({ post }: { post: PostType }) {
 	const authorSocials = getAuthorSocials(post.author);
@@ -37,7 +38,9 @@ export function PostView({ post }: { post: PostType }) {
 							onError={(e) => {
 								const target = e.target as HTMLImageElement;
 								target.onerror = null;
-								target.src = "/assets/images/casaNostra.jpg"; // Fallback image
+								target.src = getEnvironmentPath(
+									"/assets/images/casaNostra.jpg"
+								); // Fallback image
 							}}
 						/>
 					</span>

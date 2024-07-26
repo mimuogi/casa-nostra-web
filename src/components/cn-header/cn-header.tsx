@@ -10,13 +10,3 @@ export function HeaderCN() {
 		</header>
 	);
 }
-
-/*
-
-<img
-				src='/assets/images/casaNostra.jpg'
-				alt={`Logo de Llíria es casa nostra.`}
-				className='logo-header'
-			/>
-
-*/

@@ -1,3 +1,4 @@
+import { getEnvironmentPath } from "../scripts/utils/asset-paths";
 import { SocialNetworkSet } from "../types/SocialNetworkSet";
 
 export const AUTHOR_IMAGES: { [key: string]: string } = {
@@ -7,7 +8,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 		"assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png",
 	"Leire Juan Checa":
 		"assetsweb/Contingut_Web/1.Targetes_Autor/Leire250x250.png",
-	"Casa Nostra": "/assets/images/casaNostra.jpg",
+	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
 export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {

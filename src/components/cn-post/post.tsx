@@ -4,6 +4,7 @@ import rehypeRaw from "rehype-raw";
 import "./cn-post.css";
 import { getAuthorImage } from "../../scripts/utils/author-info";
 import { PostType } from "../../types/Post";
+import { getEnvironmentPath } from "../../scripts/utils/asset-paths";
 
 export function Post({ post }: { post: PostType }) {
 	const contentSummary = post.content.split(" ").slice(0, 50).join(" ");
@@ -24,7 +25,9 @@ export function Post({ post }: { post: PostType }) {
 							onError={(e) => {
 								const target = e.target as HTMLImageElement;
 								target.onerror = null;
-								target.src = "/assets/images/casaNostra.jpg"; // Fallback image
+								target.src = getEnvironmentPath(
+									"/assets/images/casaNostra.jpg"
+								); // Fallback image
 							}}
 						/>{" "}
 						{post.author},{" "}

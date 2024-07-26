@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import "./cn-podcast-preview.css";
 import rehypeRaw from "rehype-raw";
 import { PostType } from "../../types/Post";
+import { getEnvironmentPath } from "../../scripts/utils/asset-paths";
 
 export function PodcastPreviewCard({ post }: { post: PostType }) {
 	const trimedTitle = post.title.split("|")[0].trim();
@@ -26,7 +27,7 @@ export function PodcastPreviewCard({ post }: { post: PostType }) {
 				<h2 className='podcast-preview-title'>{trimedTitle}</h2>
 				<small>
 					<img
-						src='/assets/images/casaNostra.jpg'
+						src={getEnvironmentPath("/assets/images/casaNostra.jpg")}
 						alt={`${post.author}'s picture`}
 						className='author-image'
 					/>{" "}
