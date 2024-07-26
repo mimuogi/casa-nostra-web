@@ -32,22 +32,3 @@ export function CNNavigationBar() {
 		</div>
 	);
 }
-
-/*
-
-			<Link
-				className='links'
-				to='/divulgacio'>
-				Divulgació
-			</Link>
-			<Link
-				className='links'
-				to='/cultura'>
-				Cultura
-			</Link>
-			<Link
-				className='links'
-				to='/altres'>
-				Altres
-			</Link>
-*/

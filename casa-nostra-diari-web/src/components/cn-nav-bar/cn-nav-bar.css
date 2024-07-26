@@ -2,6 +2,9 @@
 	background-color: black;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
+	padding: 10px;
+	flex-wrap: wrap; /* Allow links to wrap on smaller screens */
 }
 
 .links {
@@ -9,11 +12,35 @@
 	text-decoration: none;
 	color: whitesmoke;
 	font-size: 24px;
+	padding: 10px;
+	transition: font-size 0.3s, color 0.3s;
 }
 
 .links:hover {
-	font-family: "Gilroy-Bold", sans-serif;
 	color: whitesmoke;
 	font-size: 28px;
-	transition-duration: 1000ms;
+}
+
+/* Media query for medium screens */
+@media (max-width: 800px) {
+	.cnavbar {
+		flex-direction: column; /* Stack links vertically */
+	}
+
+	.links {
+		font-size: 20px;
+		padding: 8px;
+	}
+}
+
+/* Media query for smaller screens */
+@media (max-width: 500px) {
+	.cnavbar {
+		padding: 5px;
+	}
+
+	.links {
+		font-size: 18px;
+		padding: 6px;
+	}
 }
