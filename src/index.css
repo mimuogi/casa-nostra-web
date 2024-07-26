@@ -21,23 +21,23 @@ body {
 @font-face {
 	font-family: "Gilroy-Bold";
 	src: local("Gilroy-Bold"),
-		url(./public/fonts/gilroy/Gilroy-Bold.ttf) format("truetype");
+		url(/fonts/gilroy/Gilroy-Bold.ttf) format("truetype");
 }
 
 @font-face {
 	font-family: "Gilroy-Medium";
 	src: local("Gilroy-Medium"),
-		url(./public/fonts/gilroy/Gilroy-Medium.ttf) format("truetype");
+		url(/fonts/gilroy/Gilroy-Medium.ttf) format("truetype");
 }
 
 @font-face {
 	font-family: "Gilroy-Light";
 	src: local("Gilroy-Light"),
-		url(./public/fonts/gilroy/Gilroy-Light.ttf) format("truetype");
+		url(/fonts/gilroy/Gilroy-Light.ttf) format("truetype");
 }
 
 @font-face {
 	font-family: "Gilroy-Black";
 	src: local("Gilroy-Black"),
-		url(./public/fonts/gilroy/Gilroy-Black.ttf) format("truetype");
+		url(/fonts/gilroy/Gilroy-Black.ttf) format("truetype");
 }
