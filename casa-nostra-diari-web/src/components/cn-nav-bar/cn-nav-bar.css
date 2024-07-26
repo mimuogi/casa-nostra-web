@@ -5,6 +5,8 @@
 	align-items: center;
 	padding: 10px;
 	flex-wrap: wrap; /* Allow links to wrap on smaller screens */
+	width: 100%;
+	box-sizing: border-box;
 }
 
 .links {

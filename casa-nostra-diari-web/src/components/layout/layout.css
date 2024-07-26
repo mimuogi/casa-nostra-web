@@ -2,12 +2,15 @@ body {
 	margin: 0;
 	font-family: Arial, sans-serif;
 	background-color: #f4f4f4;
+	margin: 0;
+	padding: 0;
 }
 
 .layout {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
+	width: 100%;
 }
 
 .header,
@@ -39,7 +42,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
-	align-items: left;
 }
 
 /* Media query for medium screens */
