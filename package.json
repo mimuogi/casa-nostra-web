@@ -1,7 +1,7 @@
 {
 	"name": "casa-nostra-diari-web",
 	"private": true,
-	"homepage": "https://mimuogi.github.io/casa-nostra-web",
+	"homepage": "https://mimuogi.github.io",
 	"version": "0.1.0",
 	"type": "module",
 	"scripts": {
