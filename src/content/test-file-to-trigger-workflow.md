@@ -48,8 +48,6 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
 
-# Títol nivell 1
-
 ## Títol nivell 2
 
 ### Títol nivell 3
