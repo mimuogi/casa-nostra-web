@@ -6,7 +6,7 @@ tags: article
 imageUrl:
 ---
 
-# Projecte del Blog Casa Nostra
+## Projecte Blog Casa Nostra
 
 Benvinguts al projecte **Blog Casa Nostra**! Aquest projecte proporciona una manera poderosa i eficient de crear i gestionar un diari digital transformant fitxers Markdown en publicacions de blog bellament formatades. Amb la nostra plataforma, pots publicar articles sense esforç i mantenir una presència en línia actualitzada per al teu diari.
 
