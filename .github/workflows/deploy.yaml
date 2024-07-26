@@ -1,15 +1,9 @@
 name: Build and Deploy
 
 on:
-  push:
-    paths:
-      - "src/content/**"
-      - "src/pages/content/**"
-  pull_request:
-    paths:
-      - "src/content/**"
-      - "src/pages/content/**"
-  workflow_dispatch:
+  - push
+  - pull_request
+  - workflow_dispatch
 
 jobs:
   build:
