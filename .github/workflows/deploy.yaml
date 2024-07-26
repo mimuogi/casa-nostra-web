@@ -3,9 +3,8 @@ name: Build and Deploy
 on:
   push:
     paths:
-      - "src/content/**"
-      - "src/pages/content/**"
-
+      - "casa-nostra-diari-web/src/content/**"
+      - "casa-nostra-diari-web/src/pages/content/**"
   workflow_dispatch:
 
 jobs:
