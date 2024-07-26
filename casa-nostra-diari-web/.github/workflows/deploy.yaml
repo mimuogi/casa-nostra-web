@@ -6,6 +6,8 @@ on:
       - "src/content/**"
       - "src/pages/content/**"
 
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
