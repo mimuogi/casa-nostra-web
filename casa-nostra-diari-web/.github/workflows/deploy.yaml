@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          path: casa-nostra-diari-web
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.0.3
@@ -20,19 +22,27 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          cd casa-nostra-diari-web
+          npm install
 
       - name: Run get-posts script
-        run: npm run get-posts
+        run: |
+          cd casa-nostra-diari-web
+          npm run get-posts
 
       - name: Run get-pages script
-        run: npm run get-pages
+        run: |
+          cd casa-nostra-diari-web
+          npm run get-pages
 
       - name: Build production code
-        run: npm run build
+        run: |
+          cd casa-nostra-diari-web
+          npm run build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: dist
+          folder: casa-nostra-diari-web/dist
