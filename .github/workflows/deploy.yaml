@@ -15,6 +15,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: List directory contents
+        run: |
+          ls -la
+          ls -la casa-nostra-diari-web
+
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
@@ -22,26 +27,26 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd casa-nostra-web/casa-nostra-diari-web
+          cd casa-nostra-diari-web
           npm install
 
       - name: Run get-posts script
         run: |
-          cd casa-nostra-web/casa-nostra-diari-web
+          cd casa-nostra-diari-web
           npm run get-posts
 
       - name: Run get-pages script
         run: |
-          cd casa-nostra-web/casa-nostra-diari-web
+          cd casa-nostra-diari-web
           npm run get-pages
 
       - name: Build production code
         run: |
-          cd casa-nostra-web/casa-nostra-diari-web
+          cd casa-nostra-diari-web
           npm run build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: casa-nostra-web/casa-nostra-diari-web/dist
+          folder: casa-nostra-diari-web/dist
