@@ -19,7 +19,7 @@ body {
 	display: grid;
 	grid-template-columns: 1fr 3fr 1fr;
 	gap: 20px;
-	max-width: 1200px;
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 20px;
 	flex-grow: 1;
@@ -39,6 +39,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
+	align-items: left;
 }
 
 /* Media query for medium screens */

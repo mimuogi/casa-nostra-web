@@ -20,7 +20,13 @@ export function Layout() {
 				const groupedEpisodes: Record<string, PodcastEpisode[]> = {};
 
 				episodes.forEach((episode) => {
-					const season = episode.episodeSeason;
+					let season = "";
+					if (episode.episodeSeason === 0) {
+						season = "Presentació";
+					} else {
+						season = episode.episodeSeason.toString();
+					}
+
 					if (!groupedEpisodes[season]) {
 						groupedEpisodes[season] = [];
 					}

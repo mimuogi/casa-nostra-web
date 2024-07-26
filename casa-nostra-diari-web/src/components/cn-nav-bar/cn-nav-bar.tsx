@@ -21,13 +21,13 @@ export function CNNavigationBar() {
 			</Link>
 			<Link
 				className='links'
-				to='/contacte'>
-				Contacte
+				to='/podcast'>
+				Pòdcast
 			</Link>
 			<Link
 				className='links'
-				to='/podcast'>
-				Pòdcast
+				to='/contacte'>
+				Contacte
 			</Link>
 		</div>
 	);
