@@ -1,9 +1,6 @@
 name: Build and Deploy
 
-on:
-  - push
-  - pull_request
-  - workflow_dispatch
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
@@ -34,6 +31,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: dist
+          folder: ./dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
