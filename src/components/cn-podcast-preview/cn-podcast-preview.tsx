@@ -18,7 +18,7 @@ export function PodcastPreviewCard({ post }: { post: PostType }) {
 				{post.imageUrl && (
 					<div className='image-container'>
 						<img
-							src={post.imageUrl}
+							src={getEnvironmentPath(post.imageUrl)}
 							alt={`${trimedTitle} preview`}
 							className='podcast-preview-image'
 						/>
