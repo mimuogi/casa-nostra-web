@@ -1,0 +1,38 @@
+name: Build and Deploy
+
+on:
+  push:
+    paths:
+      - "src/content/posts**"
+      - "src/pages/content/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run get-posts script
+        run: npm run get-posts
+
+      - name: Run get-pages script
+        run: npm run get-pages
+
+      - name: Build production code
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist
