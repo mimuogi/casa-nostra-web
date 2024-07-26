@@ -4,6 +4,36 @@
 	text-align: center;
 }
 
+.filter-container {
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.filter-container label {
+	font-size: 18px;
+	color: #333;
+	margin-bottom: 10px;
+	display: block;
+	font-family: "Gilroy-Light", sans-serif;
+}
+
+.filter-container select {
+	font-size: 16px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: white;
+	color: #333;
+	cursor: pointer;
+	transition: border-color 0.3s ease, box-shadow 0.3s ease;
+	font-family: "Gilroy-Light", sans-serif;
+}
+
+.filter-container select:focus {
+	border-color: #30a0e0;
+	box-shadow: 0 0 5px rgba(48, 160, 224, 0.5);
+}
+
 .pagination {
 	display: flex;
 	justify-content: center;

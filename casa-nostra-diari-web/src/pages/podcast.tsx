@@ -1,4 +1,3 @@
-// src/pages/PodcastPage.js
 import React from "react";
 import "./pages.css";
 import { LayoutPodcast } from "../components/layout-podcast/layout-podcast";
@@ -9,8 +8,12 @@ import { usePagination } from "../customHooks/usePagination";
 const POSTS_PER_PAGE = 9;
 
 export function PodcastPage() {
+	const podcastPosts = postlist.filter(
+		(post) => post.tags && post.tags.includes("podcast")
+	);
+
 	const { currentPage, totalPages, getPaginatedItems, handlePageChange } =
-		usePagination(postlist, POSTS_PER_PAGE);
+		usePagination(podcastPosts, POSTS_PER_PAGE);
 
 	return (
 		<div>

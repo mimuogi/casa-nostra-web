@@ -1,10 +1,10 @@
-// main.tsx
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
+import { News } from "./pages/noticies.tsx";
 import { PostPage } from "./pages/post.tsx";
 import postlist from "./data/posts.json";
 import { ContactPage } from "./pages/contact.tsx";
@@ -23,6 +23,10 @@ const router = createBrowserRouter([
 			{
 				path: "/nosaltres",
 				element: <About />,
+			},
+			{
+				path: "/noticies",
+				element: <News />,
 			},
 			{
 				path: "/podcast",

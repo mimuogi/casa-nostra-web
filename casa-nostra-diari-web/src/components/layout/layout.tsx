@@ -1,4 +1,3 @@
-// components/layout/layout.tsx
 import React, { useEffect, useState } from "react";
 import { Outlet } from "react-router-dom";
 import { HeaderCN } from "../cn-header/cn-header";
