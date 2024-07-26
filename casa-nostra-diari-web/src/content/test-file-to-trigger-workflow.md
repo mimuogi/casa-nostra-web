@@ -1,6 +1,6 @@
 ---
 title: Article de prova
-author: Casa Nostra
+author: Miguel Alejandro Muñoz
 date: 26/07/2024
 tags: article
 imageUrl:
