@@ -1,6 +1,7 @@
 import { useState } from "react";
+import { PostType } from "../types/Post";
 
-export const usePagination = (items, itemsPerPage) => {
+export function usePagination(items: PostType[], itemsPerPage: number) {
 	const [currentPage, setCurrentPage] = useState(1);
 
 	const totalPages = Math.ceil(items.length / itemsPerPage);
@@ -11,7 +12,7 @@ export const usePagination = (items, itemsPerPage) => {
 		return items.slice(startIndex, endIndex);
 	}
 
-	function handlePageChange(page) {
+	function handlePageChange(page: number): void {
 		if (page >= 1 && page <= totalPages) {
 			setCurrentPage(page);
 		}
@@ -23,4 +24,4 @@ export const usePagination = (items, itemsPerPage) => {
 		getPaginatedItems,
 		handlePageChange,
 	};
-};
+}
