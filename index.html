@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="cat">
 	<head>
 		<meta charset="UTF-8" />
@@ -10,7 +11,16 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0" />
 		<title>Casa Nostra - Diari digital</title>
-		<script type="module" crossorigin src="./assets/index-br3qkK9M.js"></script>
+		<script type="text/javascript">
+			(function () {
+				var l = window.location;
+				if (l.search.startsWith("/?/")) {
+					var newPath = l.search.slice(3).replace(/~and~/g, "&");
+					l.replace(l.protocol + "//" + l.host + newPath + l.hash);
+				}
+			})();
+		</script>
+		<script type="module" crossorigin src="./assets/index-DSNrRC1Y.js"></script>
 		<link rel="stylesheet" crossorigin href="./assets/index-DZMbwMRI.css">
 	</head>
 	<body>
