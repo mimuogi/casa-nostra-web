@@ -14,7 +14,7 @@
 	display: grid;
 	grid-template-columns: 1fr 3fr 1fr;
 	gap: 20px;
-	max-width: 100%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 20px;
 	flex-grow: 1;
@@ -22,7 +22,6 @@
 
 .main-column {
 	grid-column: 2 / 3;
-	width: 100%;
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
@@ -30,7 +29,6 @@
 
 .aside-left {
 	grid-column: 1 / 2;
-	width: 100%;
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
@@ -38,7 +36,6 @@
 
 .sidebar {
 	grid-column: 3 / 4;
-	width: 100%;
 	display: flex;
 	flex-direction: column;
 	gap: 20px;

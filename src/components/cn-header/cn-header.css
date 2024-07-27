@@ -28,3 +28,25 @@
 	text-align: center;
 	line-height: 0.8;
 }
+
+@media (max-width: 768px) {
+	.header-title {
+		font-size: 52px;
+	}
+
+	.logo-header {
+		width: 80px;
+		height: 80px;
+	}
+}
+
+@media (max-width: 480px) {
+	.header-title {
+		font-size: 38px;
+	}
+
+	.logo-header {
+		width: 60px;
+		height: 60px;
+	}
+}
