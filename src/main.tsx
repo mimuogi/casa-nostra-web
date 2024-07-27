@@ -11,6 +11,14 @@ import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
 
+(function () {
+	const l = window.location;
+	if (l.search.startsWith("/?/")) {
+		const newPath = l.search.slice(3).replace(/~and~/g, "&");
+		l.replace(l.protocol + "//" + l.host + newPath + l.hash);
+	}
+})();
+
 const router = createBrowserRouter(
 	[
 		{
