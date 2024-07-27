@@ -56,7 +56,7 @@ const router = createHashRouter(
 		},
 	],
 	{
-		basename: "/casa-nostra-web",
+		basename: "/casa-nostra-web/#",
 	}
 );
 
