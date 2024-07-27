@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="cat">
 	<head>
 		<meta charset="UTF-8" />
@@ -10,6 +11,15 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0" />
 		<title>Casa Nostra - Diari digital</title>
+		<script type="text/javascript">
+			(function () {
+				var l = window.location;
+				if (l.search.startsWith("/?/")) {
+					var newPath = l.search.slice(3).replace(/~and~/g, "&");
+					l.replace(l.protocol + "//" + l.host + newPath + l.hash);
+				}
+			})();
+		</script>
 	</head>
 	<body>
 		<div id="root"></div>

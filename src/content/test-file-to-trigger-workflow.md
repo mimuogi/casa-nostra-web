@@ -24,8 +24,6 @@ Pots trobar el codi de la pagina web al meu repositoi de [GitHub](https://github
 
 <mimuogi@gmail.com>
 
-Tornem a [`Projecte`](#Projecte).
-
 **Negreta**, _cursiva_ , <mark>resaltador</mark>, **_Negreta i cursiva_**
 
 H<sub>2</sub>O
