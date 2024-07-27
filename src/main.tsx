@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
 import { News } from "./pages/noticies.tsx";
@@ -11,7 +11,7 @@ import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
 
-const router = createHashRouter(
+const router = createBrowserRouter(
 	[
 		{
 			path: "/",
@@ -56,7 +56,7 @@ const router = createHashRouter(
 		},
 	],
 	{
-		basename: "/casa-nostra-web/#",
+		basename: "/casa-nostra-web",
 	}
 );
 
