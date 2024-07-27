@@ -10,6 +10,7 @@ import postlist from "./data/posts.json";
 import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
+import URLHandler from "./components/urlhandler/urlhandler";
 
 const router = createBrowserRouter(
 	[
@@ -62,6 +63,7 @@ const router = createBrowserRouter(
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
 	<React.StrictMode>
+		<URLHandler />
 		<RouterProvider router={router} />
 	</React.StrictMode>
 );
