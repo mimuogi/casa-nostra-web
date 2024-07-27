@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
 import { News } from "./pages/noticies.tsx";
@@ -11,7 +11,7 @@ import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
 
-const router = createBrowserRouter(
+const router = createHashRouter(
 	[
 		{
 			path: "/",
