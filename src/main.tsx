@@ -39,7 +39,7 @@ const router = createBrowserRouter([
 				element: <ContactPage />,
 			},
 			{
-				path: "/post/:id",
+				path: "/:id",
 				element: <PostPage />,
 				loader: ({ params }) => {
 					const post = allcontentlist.find((post) => post.id === params.id);
