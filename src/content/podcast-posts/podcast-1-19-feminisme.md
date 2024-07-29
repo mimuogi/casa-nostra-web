@@ -3,7 +3,7 @@ title: DIA DE LA DONA: FEMINISME I PODER amb ELLES DONES | Casa Nostra 1x19
 author: Casa Nostra
 date: 08/03/2024
 tags: podcast,T1
-imageUrl: /temporada-1-(1920x1080)/CASANOSTRA_Capítol19_1920x1080.jpg
+imageUrl: /temporada-1-(1920x1080)/CASANOSTRA_Capítol19.jpg
 ---
 
 <p>🚺♀️ Dia de la dona: feminisme i poder.
