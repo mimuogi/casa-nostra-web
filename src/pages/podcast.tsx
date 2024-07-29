@@ -1,14 +1,14 @@
 import "./pages.css";
 import { LayoutPodcast } from "../components/layout-podcast/layout-podcast";
 import { PodcastPreviewCard } from "../components/cn-podcast-preview/cn-podcast-preview";
-import postlist from "../data/posts.json";
+import podcastpostlist from "../data/podcast-posts.json";
 import { usePagination } from "../customHooks/usePagination";
 import { PostType } from "../types/Post";
 
 const POSTS_PER_PAGE = 9;
 
 export function PodcastPage() {
-	const podcastPosts = postlist.filter(
+	const podcastPosts = podcastpostlist.filter(
 		(post) => post.tags && post.tags.includes("podcast")
 	);
 

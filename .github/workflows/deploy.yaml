@@ -18,8 +18,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run get-posts script
-        run: npm run get-posts
+      - name: Run get-content script
+        run: npm run get-content
 
       - name: Run get-pages script
         run: npm run get-pages

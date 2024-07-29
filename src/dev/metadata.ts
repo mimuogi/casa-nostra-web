@@ -5,4 +5,5 @@ export const availableTags = [
 	"divulgació",
 	"cultura",
 	"esport",
+	"altres",
 ];

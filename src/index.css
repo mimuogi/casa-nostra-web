@@ -1,8 +1,12 @@
+html,
+body {
+}
 body {
 	margin: 0;
 	padding: 0;
 	background-color: #f4f4f4;
 	width: 100%;
+	overflow-x: hidden;
 }
 
 @media (prefers-color-scheme: light) {

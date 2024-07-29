@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./pages.css";
 import { PostList } from "../components/cn-postslist/postslist";
 import postlist from "../data/posts.json";
+import altreslist from "../data/altres.json";
 import { usePagination } from "../customHooks/usePagination";
 import { filterPosts } from "../scripts/utils/filterPosts";
 import { availableTags } from "../dev/metadata";
@@ -11,10 +12,13 @@ const POSTS_PER_PAGE = 10;
 export function News() {
 	const [selectedTag, setSelectedTag] = useState("");
 
-	const filteredPosts = filterPosts(postlist, "podcast", selectedTag);
+	const activePostList =
+		selectedTag.toLowerCase() === "altres" ? altreslist : postlist;
+
+	const filterPodcast = filterPosts(activePostList, "podcast", selectedTag);
 
 	const { currentPage, totalPages, getPaginatedItems, handlePageChange } =
-		usePagination(filteredPosts, POSTS_PER_PAGE);
+		usePagination(filterPodcast, POSTS_PER_PAGE);
 
 	const filteredTags = availableTags.filter(
 		(tag: string) => tag.toLowerCase() !== "podcast"

@@ -2,12 +2,9 @@ import { getEnvironmentPath } from "../scripts/utils/asset-paths";
 import { SocialNetworkSet } from "../types/SocialNetworkSet";
 
 export const AUTHOR_IMAGES: { [key: string]: string } = {
-	"Carlos Castillo":
-		"assetsweb/Contingut_Web/1.Targetes_Autor/Carlos250x250.png",
-	"Quique Monfort":
-		"assetsweb/Contingut_Web/1.Targetes_Autor/Quique250x250.png",
-	"Leire Juan Checa":
-		"assetsweb/Contingut_Web/1.Targetes_Autor/Leire250x250.png",
+	"Carlos Castillo": "assets/web/targetes-autor-noticies/Carlos250x250.png",
+	"Quique Monfort": "assets/web/targetes-autor-noticies/Quique250x250.png",
+	"Leire Juan Checa": "assets/web/targetes-autor-noticies/Leire250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -18,16 +15,20 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		instagram: "https://www.instagram.com/alejandrito.jolivert/",
 	},
 	"Carlos Castillo": {
-		twitter: "https://twitter.com/carloscastillo",
-		linkedin: "https://linkedin.com/in/carloscastillo",
+		instagram:
+			"https://www.instagram.com/carloscastiiillo?igsh=MXJlbGR3Z2pscHE1NA%3D%3D",
 	},
 	"Quique Monfort": {
-		twitter: "https://twitter.com/quique",
-		linkedin: "https://linkedin.com/in/quique",
+		instagram: "https://www.instagram.com/q.monfort/",
+		linkedin:
+			"https://es.linkedin.com/in/enrique-monfort-03ba781bb?trk=people-guest_people_search-card",
+		twitter: "https://x.com/q_monfort",
 	},
-	"Leire Juan Checa": {
-		twitter: "https://twitter.com/leire",
-		linkedin: "https://linkedin.com/in/leire",
+	"Leire Juan": {
+		facebook: "https://www.facebook.com/leire.juan.9",
+		linkedin: "https://es.linkedin.com/in/leire-juan-292bb1276",
+		twitter: "https://x.com/leirejuanch",
+		instagram: "https://www.instagram.com/leireetaa/",
 	},
 	"Casa Nostra": {
 		spotify:

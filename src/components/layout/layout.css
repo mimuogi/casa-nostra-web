@@ -39,6 +39,7 @@
 	display: flex;
 	flex-direction: column;
 	gap: 20px;
+	margin: 30px;
 }
 
 /* Media query for medium screens */

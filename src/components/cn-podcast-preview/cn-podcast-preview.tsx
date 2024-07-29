@@ -5,6 +5,7 @@ import "./cn-podcast-preview.css";
 import rehypeRaw from "rehype-raw";
 import { PostType } from "../../types/Post";
 import { getEnvironmentPath } from "../../scripts/utils/asset-paths";
+import { setPodcastPreviewPath } from "../../scripts/utils/podcast-preview-path";
 
 export function PodcastPreviewCard({ post }: { post: PostType }) {
 	const trimedTitle = post.title.split("|")[0].trim();
@@ -18,7 +19,7 @@ export function PodcastPreviewCard({ post }: { post: PostType }) {
 				{post.imageUrl && (
 					<div className='image-container'>
 						<img
-							src={getEnvironmentPath(post.imageUrl)}
+							src={getEnvironmentPath(setPodcastPreviewPath() + post.imageUrl)}
 							alt={`${trimedTitle} preview`}
 							className='podcast-preview-image'
 						/>

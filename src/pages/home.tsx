@@ -1,13 +1,19 @@
 import "./pages.css";
 import { PostList } from "../components/cn-postslist/postslist";
 import postlist from "../data/posts.json";
+import podcastpostlist from "../data/podcast-posts.json";
 import { usePagination } from "../customHooks/usePagination";
+import { filterPosts } from "../scripts/utils/filterPosts";
 
 const POSTS_PER_PAGE = 10;
 
 export function Home() {
+	const combinedPosts = [...postlist, ...podcastpostlist];
+
+	const filteredPosts = filterPosts(combinedPosts, "altres");
+
 	const { currentPage, totalPages, getPaginatedItems, handlePageChange } =
-		usePagination(postlist, POSTS_PER_PAGE);
+		usePagination(filteredPosts, POSTS_PER_PAGE);
 
 	return (
 		<div>
