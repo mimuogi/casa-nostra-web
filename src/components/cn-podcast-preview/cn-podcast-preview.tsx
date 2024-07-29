@@ -13,7 +13,7 @@ export function PodcastPreviewCard({ post }: { post: PostType }) {
 
 	return (
 		<Link
-			to={post.id}
+			to={`/${post.id}`}
 			className='podcast-preview-card-link'>
 			<div className='podcast-preview-card'>
 				{post.imageUrl && (

@@ -12,7 +12,7 @@ export function Post({ post }: { post: PostType }) {
 
 	return (
 		<Link
-			to={post.id}
+			to={`/${post.id}`}
 			className='post-card-link'>
 			<div className='newspaper'>
 				<div className='post-card'>
