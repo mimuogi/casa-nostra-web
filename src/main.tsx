@@ -6,14 +6,12 @@ import { Home } from "./pages/home.tsx";
 import { About } from "./pages/about.tsx";
 import { News } from "./pages/noticies.tsx";
 import { PostPage } from "./pages/post.tsx";
-import postlist from "./data/posts.json";
-import podcastlist from "./data/posts.json";
-import altreslist from "./data/altres.json";
+import { allcontentlist } from "./scripts/utils/content-list.ts";
 import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
 
-const contentlist = [...postlist, ...podcastlist, ...altreslist];
+console.log("Final Content List:", allcontentlist);
 
 const router = createBrowserRouter([
 	{
@@ -44,7 +42,7 @@ const router = createBrowserRouter([
 				path: "/post/:id",
 				element: <PostPage />,
 				loader: ({ params }) => {
-					const post = contentlist.find((post) => post.id === params.id);
+					const post = allcontentlist.find((post) => post.id === params.id);
 					if (!post) {
 						throw new Error("Post not found");
 					}
