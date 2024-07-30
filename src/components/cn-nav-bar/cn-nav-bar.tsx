@@ -26,6 +26,11 @@ export function CNNavigationBar() {
 			</Link>
 			<Link
 				className='links'
+				to='/participa'>
+				Participa
+			</Link>
+			<Link
+				className='links'
 				to='/contacte'>
 				Contacte
 			</Link>

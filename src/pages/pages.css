@@ -138,6 +138,13 @@
 	border-radius: 2%;
 }
 
+.form-group {
+	border: 1px solid black;
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+
 .markdown-content {
 	font-family: "Gilroy-Light", sans-serif;
 	line-height: 1.5;

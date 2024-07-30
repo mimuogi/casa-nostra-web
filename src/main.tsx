@@ -10,8 +10,7 @@ import { allcontentlist } from "./scripts/utils/content-list.ts";
 import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
-
-console.log("Final Content List:", allcontentlist);
+import { CollaboratePage } from "./pages/collaborate.tsx";
 
 const router = createBrowserRouter([
 	{
@@ -33,6 +32,10 @@ const router = createBrowserRouter([
 			{
 				path: "/podcast",
 				element: <PodcastPage />,
+			},
+			{
+				path: "/participa",
+				element: <CollaboratePage />,
 			},
 			{
 				path: "/contacte",

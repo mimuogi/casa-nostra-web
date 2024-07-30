@@ -1,7 +1,7 @@
-import { useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
-import "./pages.css";
-//import { EMAILJS } from "../dev/variables";
+import "./pages.css"; // Existing styles
+import Modal from "../components/cn-modal/cn-modal";
 
 interface FormErrors {
 	name?: string;
@@ -12,6 +12,9 @@ interface FormErrors {
 export function ContactPage() {
 	const form = useRef<HTMLFormElement>(null);
 	const [formErrors, setFormErrors] = useState<FormErrors>({});
+	const [modalVisible, setModalVisible] = useState(false);
+	const [modalMessage, setModalMessage] = useState("");
+	const [isError, setIsError] = useState(false);
 
 	const validateForm = (): FormErrors => {
 		const errors: FormErrors = {};
@@ -42,37 +45,49 @@ export function ContactPage() {
 		return errors;
 	};
 
-	function sendEmail(e: React.FormEvent) {
+	const sendEmail = (e: React.FormEvent) => {
 		e.preventDefault();
 
 		const errors = validateForm();
 		if (Object.keys(errors).length === 0) {
 			emailjs
 				.sendForm("service_cnll", "template_casa-nosrtra", form.current!, {
-					publicKey: "Y7ZtRJHk8uWxOr--H",
+					publicKey: "bHMgqcFm22Z_Ox2X7",
 				})
 				.then(
 					() => {
-						console.log("SUCCESS!");
+						setModalMessage("El teu missatge s'ha enviat amb èxit!");
+						setIsError(false);
+						setModalVisible(true);
+						if (form.current) form.current.reset();
 					},
 					(error) => {
+						setModalMessage("Hi ha hagut un error al enviar el missatge.");
+						setIsError(true);
+						setModalVisible(true);
 						console.log("FAILED...", error.text);
 					}
 				);
 		} else {
 			setFormErrors(errors);
 		}
-	}
+	};
 
 	return (
 		<div>
+			<Modal
+				isVisible={modalVisible}
+				onClose={() => setModalVisible(false)}
+				message={modalMessage}
+				isError={isError}
+			/>
 			<div className='contact-form'>
 				<h2>Envia'ns un missatge</h2>
 				<form
 					ref={form}
 					onSubmit={sendEmail}>
 					<div>
-						<label>Nom</label>
+						<label htmlFor='name'>Nom</label>
 						{formErrors.name && (
 							<span className='error-text'>{formErrors.name}</span>
 						)}
@@ -85,7 +100,7 @@ export function ContactPage() {
 					</div>
 
 					<div>
-						<label>Email</label>
+						<label htmlFor='email'>Email</label>
 						{formErrors.email && (
 							<span className='error-text'>{formErrors.email}</span>
 						)}
@@ -98,7 +113,7 @@ export function ContactPage() {
 					</div>
 
 					<div>
-						<label>Missatge</label>
+						<label htmlFor='message'>Missatge</label>
 						{formErrors.message && (
 							<span className='error-text'>{formErrors.message}</span>
 						)}
