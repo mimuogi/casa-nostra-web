@@ -5,6 +5,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Carlos Castillo": "assets/web/targetes-autor-noticies/Carlos250x250.png",
 	"Quique Monfort": "assets/web/targetes-autor-noticies/Quique250x250.png",
 	"Leire Juan Checa": "assets/web/targetes-autor-noticies/Leire250x250.png",
+	"Sibilino" : "assets/web/targetes-autor-noticies/Sibilino250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -13,6 +14,13 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		twitter: "https://x.com/Joliverte",
 		linkedin: "https://www.linkedin.com/in/miguel-alejandro-mu%C3%B1oz-gil/",
 		instagram: "https://www.instagram.com/alejandrito.jolivert/",
+	},
+	"Sibilino":{
+		twitter: "https://x.com/CasaNostraPod",
+		tiktok: "https://www.tiktok.com/@casanostra_lliria",
+		facebook: "https://www.facebook.com/profile.php?id=61554899325515",
+		instagram: "https://www.instagram.com/lliria.casanostra",
+		youtube: "https://www.youtube.com/channel/UCokSBFzdENFsuj_dKhcuKnA"
 	},
 	"Carlos Castillo": {
 		instagram:
