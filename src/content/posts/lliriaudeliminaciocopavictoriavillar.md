@@ -24,13 +24,13 @@ La primera part va estar molt disputada, amb un **Atlètic Villar** molt seriós
 
 A la segona part, els locals van sortir decidits a ampliar el marcador. Al minut 60, **Cristofer (dorsal 90)** va fer el 2-0 amb una gran definició després d’una jugada col·lectiva que va descol·locar la defensa rival. Aquest segon gol va donar encara més confiança al Llíria U.D., que va controlar el ritme del partit i no va donar opcions al Villar de tornar a entrar al joc.
 
-![Cristofer celebra el gol](/casa-nostra-web/assets/continguts/recursos/150924CristoferCelebraVillar.jpg "Cristofer celebra el 2-0")
+![Cristofer celebra el gol del 2-0 contra el Villar](/assets/continguts/recursos/150924CristoferCelebraVillar.jpg "Cristofer celebra el gol del 2-0 contra el Villar")
 
 La sentència definitiva va arribar al minut 80, quan **Guillot (dorsal 20)** va aprofitar una bona centrada des de la banda dreta per marcar el 3-0 amb una rematada precisa. Aquest gol va acabar d'enfonsar les esperances del Villar i va certificar la victòria clara per als locals.
 
 Amb esta victòria, el **Llíria U.D.** suma els seus primers tres punts de la temporada després de l’empat en la primera jornada, col·locant-se en una posició favorable a la classificació.
 
-![Festa al vestidor](/casa-nostra-web/assets/continguts/recursos/150924LliriaUdVictoriaVillar.jpg "Els nostres celebren la victòria")
+![Festa al vestidor del Llíria U.D.](/assets/continguts/recursos/150924LliriaUdVictoriaVillar.jpg "Els nostres jugadors del Llíria U.D. celebren la victòria")
 
 Per la seua banda, **l'Atlètic Villar** continua sense marcar i és junt al *San Antonio de Benagéber* els únics dos equips que encara no han vist porteria a la categoria.
 
