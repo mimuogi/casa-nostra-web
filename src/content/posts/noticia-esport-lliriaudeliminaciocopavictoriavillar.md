@@ -32,7 +32,7 @@ Amb esta victòria, el **Llíria U.D.** suma els seus primers tres punts de la t
 
 ![Festa al vestidor del Llíria U.D.](/assets/continguts/recursos/150924LliriaUdVictoriaVillar.jpg "Els nostres jugadors del Llíria U.D. celebren la victòria")
 
-Per la seua banda, **l'Atlètic Villar** continua sense marcar i és junt al *San Antonio de Benagéber* els únics dos equips que encara no han vist porteria a la categoria.
+Per la seua banda, **l'Atlètic Villar** continua sense marcar i és junt al **San Antonio de Benagéber** els únics dos equips que encara no han vist porteria a la categoria.
 
 ## 🏥🤕 L'ensurt
 

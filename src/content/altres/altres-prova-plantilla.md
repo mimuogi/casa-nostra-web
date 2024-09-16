@@ -2,23 +2,23 @@
 title: Article de prova
 author: Miguel Alejandro Muñoz Gil
 date: 26/07/2024
-tags: article, cultura, altres
+tags: article, altres
 imageUrl:
 ---
 
-## Projecte Blog Casa Nostra
+## Projecte Diari Casa Nostra
 
-Benvinguts al projecte **Blog Casa Nostra**! Aquest projecte proporciona una manera poderosa i eficient de crear i gestionar un diari digital transformant fitxers Markdown en publicacions de blog bellament formatades. Amb la nostra plataforma, pots publicar articles sense esforç i mantenir una presència en línia actualitzada per al teu diari.
+Benvinguts al projecte **Diari Casa Nostra**! Aquest projecte proporciona una manera eficient de crear i gestionar un diari digital transformant fitxers Markdown en publicacions de blog. Amb aquesta plataforma, és possible publicar articles de manera ràpida i mantenir una presència en línia actualitzada per al nostre diari.
 
 ![Este es el nostre logo!](/assets/continguts/recursos/casaNostra.jpg "Logo Casa Nostra")
 
-[![Logo amb enllaç](/assets/continguts/recursos/casaNostra.jpg "Logo de casa nostra amb enllaç")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+[![Logo amb enllaç](/assets/continguts/recursos/casaNostra.jpg "Logo de casa nostra amb enllaç")](https://casa-nostra-q0q5kcl6d-mimuogis-projects.vercel.app/)
 
 ### 📖 Visió General
 
-El Blog Casa Nostra està dissenyat per convertir fitxers Markdown en publicacions de blog ben estructurades i visualment atractives. Aquesta eina és perfecta per a periodistes, bloggers i creadors de contingut que volen optimitzar el seu procés de publicació i centrar-se en produir contingut de gran qualitat.
+El Blog Casa Nostra està dissenyat per convertir fitxers Markdown en publicacions de blog estructurades i visualment atractives. Aquesta eina és perfecta per a periodistes, bloggers i creadors de contingut que volen optimitzar el seu procés de publicació i centrar-se en produir contingut de gran qualitat.
 
-Pots trobar el codi de la pagina web al meu repositoi de [GitHub](https://github.com/mimuogi/casa-nostra-web).
+Pots trobar el codi de la pàgina web al meu repositoi de [GitHub](https://github.com/mimuogi/casa-nostra-web), proposar millores i actualitzacions o adaptar-lo per altres projectes.
 
 <https://github.com/mimuogi/casa-nostra-web>
 
