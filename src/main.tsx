@@ -10,7 +10,7 @@ import { allcontentlist } from "./scripts/utils/content-list.ts";
 import { ContactPage } from "./pages/contact.tsx";
 import { PodcastPage } from "./pages/podcast.tsx";
 import { Layout } from "./components/layout/layout";
-import { CollaboratePage } from "./pages/collaborate.tsx";
+//import { CollaboratePage } from "./pages/collaborate.tsx";
 
 const router = createBrowserRouter([
 	{
