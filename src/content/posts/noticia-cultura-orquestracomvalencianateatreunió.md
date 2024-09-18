@@ -1,6 +1,6 @@
 ---
 title: El poble de Llíria rep a l'Orquestra de la Comunitat Valenciana amb un magnífic concert
-autor: Carlos Castillo
+author: Carlos Castillo
 date: 17/09/2024
 tags: noticia, cultura
 ---
