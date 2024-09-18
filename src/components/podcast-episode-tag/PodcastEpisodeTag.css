@@ -1,4 +1,5 @@
 .podcast-episode {
+	box-sizing: border-box;
 	display: flex;
 	border: 1px solid #ddd;
 	padding: 16px;

@@ -1,4 +1,5 @@
 .newspaper {
+	box-sizing: border-box;
 	isolation: isolate;
 	position: relative;
 	z-index: 0;

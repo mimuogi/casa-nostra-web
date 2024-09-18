@@ -1,4 +1,5 @@
 .post-read {
+	box-sizing: border-box;
 	max-width: 90%;
 	margin: 0 auto;
 	padding: 20px;
