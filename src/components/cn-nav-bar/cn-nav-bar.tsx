@@ -24,7 +24,6 @@ export function CNNavigationBar() {
 				to='/podcast'>
 				Pòdcast
 			</Link>
-			
 			<Link
 				className='links'
 				to='/contacte'>
@@ -40,4 +39,4 @@ export function CNNavigationBar() {
 				to='/participa'>
 				Participa
 			</Link>
-*/
+*/			
