@@ -7,5 +7,5 @@ Busca ser un espai on tots els habitants del nostre municipi, sense distinció, 
 
 **Un capítol nou de pòdcast cada dues setmanes.** No us perdeu cap episodi de Casa Nostra: un espai on Llíria es fa sentir més forta que mai.
 
-Descobriu més sobre nosaltres a les ([nostres xarxes](https://linktr.ee/CasaNostraLliria)).
+Descobriu més sobre nosaltres a les [nostres xarxes](https://linktr.ee/CasaNostraLliria).
 Esperem que disfruteu moltíssim, una abraçada molt forta i recordeu sempre... 'sed felices'
