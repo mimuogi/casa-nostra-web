@@ -1,10 +1,12 @@
 .page-content {
+	box-sizing: border-box;
 	width: 60%;
 	margin: auto;
 	text-align: center;
 }
 
 .filter-container {
+	box-sizing: border-box;
 	display: inline-block;
 	margin-bottom: 20px;
 	text-align: left;
@@ -65,6 +67,7 @@
 }
 
 .contact-form {
+	box-sizing: border-box;
 	width: 100%;
 	max-width: 500px;
 	margin: 0 auto;
