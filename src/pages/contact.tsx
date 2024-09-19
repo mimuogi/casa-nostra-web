@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
-import "./pages.css"; // Existing styles
+import "./pages.css"; 
 import Modal from "../components/cn-modal/cn-modal";
 
 interface FormErrors {
