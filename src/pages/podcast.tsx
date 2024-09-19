@@ -5,7 +5,7 @@ import podcastpostlist from "../data/podcast-posts.json";
 import { usePagination } from "../customHooks/usePagination";
 import { PostType } from "../types/Post";
 
-const POSTS_PER_PAGE = 9;
+const POSTS_PER_PAGE = 8;
 
 export function PodcastPage() {
 	const podcastPosts = podcastpostlist.filter(
