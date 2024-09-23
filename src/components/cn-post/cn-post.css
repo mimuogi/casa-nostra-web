@@ -3,11 +3,8 @@
 	isolation: isolate;
 	position: relative;
 	z-index: 0;
-	margin: 20px;
 	width: 80%;
-	max-width: 550px;
-	min-height: 300px;
-	margin: 40px auto 0;
+	margin: 10px;
 }
 
 .post-card {

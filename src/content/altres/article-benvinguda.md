@@ -14,6 +14,6 @@ Benvinguts al projecte **Diari Casa Nostra**! Aquest projecte proporciona una ma
 
 ### 📖 Visió General
 
-El Blog Casa Nostra està dissenyat per convertir fitxers Markdown en publicacions de blog estructurades i visualment atractives. Aquesta eina és perfecta per a periodistes, bloggers i creadors de contingut que volen optimitzar el seu procés de publicació i centrar-se en produir contingut de gran qualitat.
+El Blog Casa Nostra està dissenyat per convertir fitxers Markdown en publicacions de blog estructurades i adaptades a les necessitats del pódcast de Casa Nostra. Aquesta eina és perfecta per a periodistes, bloggers i creadors de contingut que volen optimitzar o automatitzar el seu procés de publicació i centrar-se en produir contingut de gran qualitat.
 
 Pots trobar el codi de la pàgina web al meu repositoi de [GitHub](https://github.com/mimuogi/casa-nostra-web), proposar millores i actualitzacions o adaptar-lo per altres projectes.
