@@ -1,5 +1,4 @@
 .layout {
-	box-sizing: border-box;
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -16,7 +15,6 @@
 	grid-template-columns: 1fr 3fr 1fr;
 	gap: 10px;
 	width: 100%;
-	margin: 0 auto;
 	padding: 20px;
 	flex-grow: 1;
 }
@@ -25,7 +23,11 @@
 	grid-column: 2 / 3;
 	display: flex;
 	flex-direction: column;
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
 	gap: 10px;
+	
 }
 
 .aside-left {

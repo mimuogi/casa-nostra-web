@@ -70,7 +70,6 @@
 	box-sizing: border-box;
 	width: 100%;
 	max-width: 500px;
-	margin: 0 auto;
 	padding: 20px;
 	background-color: #37b3fe;
 	color: black;
@@ -78,6 +77,7 @@
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	background-size: cover;
 	background-blend-mode: multiply;
+	text-align: left;
 }
 
 .contact-form h2 {
@@ -87,7 +87,9 @@
 	-webkit-text-stroke-color: black;
 	font-family: "Gilroy-Black", sans-serif;
 	text-align: center;
-	margin-bottom: 20px;
+	padding: 5px;
+  	background-color: transparent;
+  	border-radius: 25px;
 }
 
 .contact-form label {
@@ -165,8 +167,7 @@
 .markdown-content img,
 .markdown-content iframe {
 	display: block;
-	max-width: 80%;
-	margin: 20px auto;
+	max-width: 100%;
 }
 
 .markdown-content p,
