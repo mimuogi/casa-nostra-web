@@ -1,5 +1,5 @@
 ---
-title: El Nou Gallardo guanya la 4ta edició de l'Esmorzaret Llirià
+title: El Nou Gallardo guanya la 4a edició de l'Esmorzaret Llirià
 author: Sibilino
 date: 02/10/2024
 tags: noticia
@@ -16,7 +16,7 @@ Este any, la competició ha comptat amb la participació de **9 bars i cafeterie
 
 L'entrepà guanyador del **Bar Nou Gallardo** oferia una experiència gastronòmica única i irrepetible. Amb una combinació exquisida de **pasteta de botifarra amb figatells**, el sabor intens del **formatge d’ovella**, la dolçor natural de la **carabassa lliriana**, la sofisticada **maionesa de tòfona** i el toc cruixent del **ibèric**, este entrepà ha captivat el jurat amb la seua complexitat de sabors i textures. Una autèntica delícia que destaca per la seua creativitat i ús de productes locals, elevant l'esmorzar valencià a una nova dimensió.
 
-![Entrepà Nou Gallardo](/assets/continguts/recursos/021024EntrepaNouGallardo.jpg "Guanyador 4ta edición Esmorzaret Llirià")
+![Entrepà Nou Gallardo](/assets/continguts/recursos/021024EntrepaNouGallardo.jpg "Guanyador 4a edición Esmorzaret Llirià")
 
 ## El jurat 🤵
 
@@ -34,4 +34,4 @@ La cerimònia de lliurament de premis va tindre lloc **el dimarts 1 d'octubre a 
 
 Amb esta victòria, el **Bar Nou Gallardo** reafirma la seua posició com a referent gastronòmic a Llíria.
 
-![Bar Nou Gallardo rep el premi](/assets/continguts/recursos/021024BarNouGallardoCampio.jpg "Premi 4ta edición Esmorzaret Llirià")
+![Bar Nou Gallardo rep el premi](/assets/continguts/recursos/021024BarNouGallardoCampio.jpg "Premi 4a edición Esmorzaret Llirià")
