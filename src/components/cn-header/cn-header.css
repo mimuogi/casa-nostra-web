@@ -34,8 +34,9 @@
 }
 
 @media (max-width: 768px) {
-	.header-title {
+	.header h1{
 		font-size: 52px;
+		-webkit-text-stroke-width: 1px;
 	}
 
 	.logo-header {
@@ -45,8 +46,9 @@
 }
 
 @media (max-width: 480px) {
-	.header-title {
+	.header h1{
 		font-size: 38px;
+		-webkit-text-stroke-width: 1px;
 	}
 
 	.logo-header {
