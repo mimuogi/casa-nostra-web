@@ -14,18 +14,24 @@ A partir del divendres dia 4, començaran com a tal els festejos de "bous al car
 
 HORARIS
 
-Matins: -Dissabte 5  a les 14:00 h
-	-Diumenge 6  a les 11:00 h
-	-Dimecres 9  a les 12:00 h 
-	-Dissabte 12 a les 14:00 h
+Matins:
+	<ul>
+	<li> Dissabte 5  a les 14:00h.
+	<li> Diumenge 6  a les 11:00h.
+	<li> Dimecres 9  a les 12:00h.
+	<li> Dissabte 12 a les 14:00h.
+	</ul>
 
-Vesprades: Totes a les 17:00 h
+Vesprades: Totes a les 17:00h.
 
-Nits:   -Divendres 4  a les 00:01 h
-	-Dissabte  5  a les 23:30 h
-	-Diumenge  6  a les 22:30 h
-	-Dimecres  9  a les 22:30 h
-	-Divendres 11 a les 00:01h
+Nits:   
+	<ul>
+	<li> Divendres 4  a les 00:01h.
+	<li> Dissabte  5  a les 23:30h.
+	<li> Diumenge  6  a les 22:30h.
+	<li> Dimecres  9  a les 22:30h.
+	<li> Divendres 11 a les 00:01h.
+	</ul>
 
 La setmana Taurina 2024 està organitzada per la Federació Taurina de Penyes de Llíria i la Unió d'Associacions Culturals Taurines Ciutat de Llíria, amb la col·laboració de l'Ajuntament de la localitat, i junt amb les tretze penyes del municipi: Associació Cultural Taurina de Llíria, Penya Miura, Penya La Tenalla, Penya El Quiebro, Penya B.A.C, Penya El Raval, Penya "Centauros Edetanos", Penya Estafeta, Penya Pla de l'Arc, Penya V.A.C., Associacions de Cavallistes de Llíria, Penya El Cerril i Penya Guarisme 4.
 
