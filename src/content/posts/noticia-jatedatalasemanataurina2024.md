@@ -1,7 +1,7 @@
 ---
 title: Ja té data la Setmana Taurina 2024
 author: Carlos Castillo
-date: 2/10/2024
+date: 02/10/2024
 tags: noticia
 ---
 
