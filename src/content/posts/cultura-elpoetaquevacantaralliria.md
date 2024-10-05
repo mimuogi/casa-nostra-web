@@ -1,7 +1,7 @@
 ---
 title: El poeta que va cantar a Llíria
 author: Carlos Castillo
-date: 03/10/24
+date: 03/10/2024
 tags: noticia, cultura
 ---
 
