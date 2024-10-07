@@ -8,11 +8,11 @@ imageUrl:
 
 ## 🗣️ VA LLÍRIA VA 
 
-![Titulars davant la U.D. Anna](/assets/continguts/recursos/071024AlineacioVsAnna.jpg "Equip titular Llíria U.D.")
-
 Ahir vam poder viure a **El Canó** un dels partits més emocionants dels últims mesos, on el **Llíria U.D.** va aconseguir imposar-se per un ajustat **6-5** a la **U.D. Anna** en un enfrontament ple de gols i canvis constants al marcador.
 
 L'encontre començava de manera immillorable per al conjunt local, quan al minut 2 **Cristofer** va rematar amb encert al primer pal un centre des de la banda dreta, avançant així al Llíria.
+
+![Titulars davant la U.D. Anna](/assets/continguts/recursos/071024AlineacioVsAnna.jpg "Equip titular Llíria U.D.")
 
 Tanmateix, la resposta visitant no es va fer esperar, i només un minut després, la **U.D. Anna** va aprofitar un baló filtrat a l'esquena de la defensa local. Malgrat la bona parada del nostre porter, **Brio Levitt**, els rivals van empatar aprofitant el retruc.
 
