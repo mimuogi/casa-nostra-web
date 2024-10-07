@@ -3,6 +3,7 @@ title: L'OMBRA DIGITAL | Casa Nostra 2x02
 author: Casa Nostra
 date: 07/10/2024
 tags: podcast
+imageUrl: /temporada-2-(1920x1080)/CASANOSTRA_Capitol02.jpg
 ---
 
 <p>🏡 Casa Nostra 2x02: L&#39;Ombra Digital.</p>
