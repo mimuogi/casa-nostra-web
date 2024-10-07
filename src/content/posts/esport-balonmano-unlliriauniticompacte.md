@@ -1,5 +1,5 @@
 ---
-title: Un Llíria unit i compacte asegura els dos punts en una gran actuació d'equip
+title: Un Llíria unit i compacte assegura els dos punts en una gran actuació d'equip
 author: Sibilino
 date: 06/10/2024
 tags: noticia, esport
