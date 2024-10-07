@@ -14,4 +14,4 @@ Els participants del concurs havien de realitzar entre les 8:00 h i les 13:30 h 
 A més d'aquest primer premi, dotat amb 700 euros, el jurat va atorgar el segon premi, de 500 euros, a **José Antonio Campos**, de Vilamarxant, i el tercer premi, de 300 euros, a **Miguel Cárdenas**, de Requena. Així mateix, es van concedir dues mencions d'honor per la qualitat de les seues obres als pintors **Francisco López** i **Mrudul Mankame**.
 
 
-![Rubén Paricio junt a la seua obra](/assets/continguts/recursos/07102024rubenpariciocasusi.jpg "Ruben" posa junt a la seua composició)
+![Rubén Paricio junt a la seua obra](/assets/continguts/recursos/07102024rubenpariciocasusi.jpg "Ruben posa junt a la seua composició")
