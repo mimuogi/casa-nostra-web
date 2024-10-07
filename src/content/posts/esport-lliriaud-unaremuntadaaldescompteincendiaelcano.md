@@ -10,6 +10,8 @@ imageUrl:
 
 Ahir vam poder viure a **El Canó** un dels partits més emocionants dels últims mesos, on el **Llíria U.D.** va aconseguir imposar-se per un ajustat **6-5** a la **U.D. Anna** en un enfrontament ple de gols i canvis constants al marcador.
 
+La victòria no només va ser important pel resultat, sinó també per l'actitud de l'equip al llarg dels 90 minuts, demostrant una resiliència admirable davant les ocasions rivals. L'afició, entregada des del primer minut, va saber reconéixer l'esforç dels jugadors, que van lluitar fins a l'últim instant per emportar-se tres punts crucials. 
+
 ![Titulars davant la U.D. Anna](/assets/continguts/recursos/071024AlineacioVsAnna.jpg "Equip titular Llíria U.D.")
 
 L'encontre començava de manera immillorable per al conjunt local, quan al minut 2 **Cristofer** va rematar amb encert al primer pal un centre des de la banda dreta, avançant així al Llíria.
