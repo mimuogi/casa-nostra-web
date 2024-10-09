@@ -1,7 +1,7 @@
 ---
 title: Turia Music Festival presenta la seua nova edició
 author: Carlos Castillo
-date: 07/10/2024
+date: 09/10/2024
 tags: noticia
 ---
 
