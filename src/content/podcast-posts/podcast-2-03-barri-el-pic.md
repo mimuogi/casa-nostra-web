@@ -3,6 +3,7 @@ title: BARRI DEL PICH amb CARMEN MEJÍAS | Casa Nostra 2x03
 author: Casa Nostra
 date: 21/10/2024
 tags: podcast
+imageUrl: /temporada-2-(1920x1080)/CASANOSTRA_Capitol03.jpg
 ---
 
 <p>🏡 Casa Nostra 2x03: Barri del Pich amb Carmen Mejías.</p>
