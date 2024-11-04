@@ -6,6 +6,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Quique Monfort": "assets/web/targetes-autor-noticies/Quique250x250.png",
 	"Leire Juan": "assets/web/targetes-autor-noticies/Leire250x250.png",
 	"Sibilino" : "assets/web/targetes-autor-noticies/Sibilino250x250.png",
+	"Sergi Rodilla Alamà" : "assets/web/targetes-autor-noticies/Sergi250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
