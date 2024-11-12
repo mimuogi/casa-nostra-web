@@ -1,6 +1,6 @@
 ---
 title: S'impulsa un programa d'obres per millorar els accessos a les urbanitzacions
-autor: Carlos Castillo 
+author: Carlos Castillo 
 date: 11/11/2024
 tags: noticia
 ---
