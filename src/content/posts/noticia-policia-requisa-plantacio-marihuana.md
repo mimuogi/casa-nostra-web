@@ -2,8 +2,8 @@
 title: La policia requisa una plantació de marihuana després d'acudir a un avís d'incendi
 author: Carlos Castillo
 date: 11/11/2024
-tags: noticies
---- 
+tags: noticia
+--- s
 
 ## El propietari de la vivenda incendiada va ser detingut posteriorment per la Guàrdia Civil
 
