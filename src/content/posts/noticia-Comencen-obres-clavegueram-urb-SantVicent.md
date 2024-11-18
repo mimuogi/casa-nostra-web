@@ -20,4 +20,4 @@ L'alcalde de Llíria, **Joanma Miguel**, que ha realitzat una visita a les obres
 El primer edil ha afirmat que aquesta “era una reivindicació que ve de lluny en el temps, i que ara l’actual equip de govern ha fet realitat, i en la qual continuarà treballant perquè altres urbanitzacions i nuclis de població es puguen acollir, buscant les fórmules de finançament i instruments urbanístics que siguen adequats en cada moment i situació per millorar la qualitat de vida i els serveis de la ciutadania de Llíria”.
 
 
-![Obres en la urbanització sant Vicent](/assets/continguts/recursos/20241118-obres.clavegueram-urb-santvicent.jpg "obres en la urbanització Sant Vicent")
+![Obres en la urbanització sant Vicent](/assets/continguts/recursos/20241118-obres-clavegueram-ubr-santvicent.jpg "obres en la urbanització Sant Vicent")
