@@ -1,7 +1,7 @@
 ---
 title: Llíria recupera la porta medieval de la ciutat
 author: Carlos Castillo
-Date: 18/11/2024
+date: 18/11/2024
 tags: noticia, cultura
 ---
 
