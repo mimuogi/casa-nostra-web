@@ -20,4 +20,4 @@ Una volta les muralles de les ciutats varen perdre el seu paper militar, i com v
 Presenta un estat de conservació regular, encara que l'estructura original es conserva prou bé. Per a la seua conversió en casa es varen haver de realitzar importants remodelacions que varen afectar a la fisonomia natural de la construcció, elements impropis que s'enderrocaran a futur per alliberar el bé per complet i restaurar la seua forma original.  D'aquesta manera els edetans i edetanes podran contemplar i visitar de nou l'antiga porta de la seua ciutat.
 
 
-![ Restes de l'antic portal dins del habitatge ](/assets/continguts/recursos/20241118portal-medieval-lliria.jpg "Restes del portal de valència")
+![ Restes de l'antic portal dins del habitatge ](/assets/continguts/recursos/20241118-portal-medieval-Llíria.jpg "Restes del portal de valència")
