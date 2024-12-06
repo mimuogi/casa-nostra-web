@@ -1,6 +1,6 @@
 ---
 title: Llíria acull una jornada de presentació del projecte València Biovaloritza
-autor: Carlos Castillo
+author: Carlos Castillo
 date: 06/12/2024
 tags: noticia
 ---
