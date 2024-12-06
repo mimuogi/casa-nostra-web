@@ -18,6 +18,6 @@ Les inscripcions per a tots els concursos estaran obertes fins al pròxim **12 d
 
 
 
-![Publicitat ajuntament 2024](/assets/continguts/recursos/20261206-cartell-nadal.jpg "Publicitat ajuntament nadal 2024")
+![Publicitat ajuntament 2024](/assets/continguts/recursos/20241206-cartell-nadal.jpg "Publicitat ajuntament nadal 2024")
 
 
