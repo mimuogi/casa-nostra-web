@@ -6,7 +6,7 @@ tags: podcast
 imageUrl: /temporada-2-(1920x1080)/CASANOSTRA_Capitol04.jpg
 ---
 
-<p>El poble de Pedralba va ser un dels municipis afectats per la infame DANA del passat 29 d'octubre, i ha sigut exemple durant un duríssim més de fortalesa i resiliència reconstruint quasi en solitari les conseqüències de l'aigua i el fang.</p>
+<p>El poble de Pedralba va ser un dels municipis afectats per la infame DANA del passat 29 d'octubre, i ha sigut exemple durant un duríssim mes de fortalesa i resiliència reconstruint quasi en solitari les conseqüències de l'aigua i el fang.</p>
 
 <p>Casa Nostra s'ha desplaçat fins al seu ajuntament on ens ha rebut Javi Pons, un dels tinents alcalde de la localitat, coordinador durant la DANA i testimoni de primera mà de com segon a segon aquest succés va marcar la seua localitat.</p>
 
