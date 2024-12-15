@@ -21,4 +21,4 @@ València BioValoriza compta amb el suport de la Fundació Biodiversitat del Min
 
 Per a això, s’avaluaran i quantificaran els recursos forestals de la Mancomunitat Interior Terra del Vi i del Camp de Túria, i es desenvoluparan els seus plans d’aprofitament de biomassa. D’altra banda, es pretén millorar tot el procés de producció de la fusta, fent-lo més eficient i provant nous usos per a ella. A més, s’implementaran millores en la gestió dels boscos, tant públics com privats. També es capacitarà les persones que treballen en el sector forestal per a la prevenció d’incendis mitjançant l’ús de biomassa. Finalment, es realitzaran activitats perquè tots comprenguen la importància d’usar productes que provenen d’una gestió sostenible dels boscos.
 
-![Joanma Miguel presentant el projecte](/assets/continguts/recursos/20241215-presentacio-vaencia-biovaloriza.jpg "Joanma Miguel presentant el projecte")
+![Joanma Miguel presentant el projecte](/assets/continguts/recursos/20241215-Presentación-Valencia-Biovaloriza.jpg "Joanma Miguel presentant el projecte")
