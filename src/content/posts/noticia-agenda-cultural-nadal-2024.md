@@ -24,5 +24,5 @@ Les diverses entitats culturals del municipi tamb茅 participen activament en l鈥
 
 Tota l鈥檃genda est脿 disponible a la web municipal.
 
-![Programaci贸 nadalenca](/assets/continguts/recursos/20241215-agenda-navidad-Ll铆ria-2024.jpg "Programaci贸 nadalenca")
+![Programaci贸 nadalenca](/assets/continguts/recursos/20241215-Agenda-Navidad-Ll铆ria-2024.jpg "Programaci贸 nadalenca")
 
