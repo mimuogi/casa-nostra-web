@@ -41,7 +41,7 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 	},
 	"Sergi Rodilla Alamà":{
 		instagram:"https://www.instagram.com/sergirodilla/",
-		linkedin: "https://es.linkedin.com/sergirodilla",
+		linkedin: "https://es.linkedin.com/in/sergirodilla",
 	},
 	"Casa Nostra": {
 		spotify:
