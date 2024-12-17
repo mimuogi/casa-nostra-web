@@ -39,6 +39,10 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		twitter: "https://x.com/leirejuanch",
 		instagram: "https://www.instagram.com/leireetaa/",
 	},
+	"Sergi Rodilla Alamà":{
+		instagram:"https://www.instagram.com/sergirodilla/",
+		linkedin: "https://es.linkedin.com/sergirodilla",
+	},
 	"Casa Nostra": {
 		spotify:
 			"https://open.spotify.com/show/3eBLAu72smJr1GYHHEdanN?si=5ea4ea401d494953&nd=1&dlsi=0f31c92a1bd4490a",
