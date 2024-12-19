@@ -1,6 +1,6 @@
 # Casa Nostra Blog Project
 
-Welcome to the **Casa Nostra Blog** project! This project provides a powerful and efficient way to create and manage a digital newspaper by transforming Markdown files into beautifully formatted blog posts. With our platform, you can effortlessly publish articles and maintain an up-to-date online presence for your newspaper.
+Welcome to the **Casa Nostra Blog** project! This project provides a powerful and efficient way to create and manage a digital newspaper by transforming Markdown files into formatted blog posts. With our platform, you can effortlessly publish articles and maintain an up-to-date online presence for your newspaper. This repo currently hosts the "Llíria Casa Nostra" news.
 
 ## 📖 Overview
 
