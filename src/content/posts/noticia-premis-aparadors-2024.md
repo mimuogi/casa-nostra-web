@@ -20,11 +20,11 @@ D’altra banda, el premi al millor aparador comercial de Llíria 2024 va ser pe
 
 Cada premi té una dotació econòmica de 200 euros i un val de 50 euros de la Federació del Comerç de Llíria per comprar als establiments associats.
 
-![Guanyadors els premis a millor façana, aparador comercial i decoració col·lectiva](/assets/continguts/recursos/20241219-premio-concurs-escaparates-fachadas.jpg "Guanyadors dels premis")
+![Guanyadors els premis a millor façana, aparador comercial i decoració col·lectiva](/assets/continguts/recursos/20241219-premio-concurso-escaparates-fachadas.jpg "Guanyadors dels premis")
 
 Pots veure les decoracions participants a:
 
-##APARADORS COMERCIALS
+## APARADORS COMERCIALS
 
 - Q-Casa (C/ Duc de Llíria, 50-52) 
 - Viatges Llíria (C/ Duc de Llíria, 47)
@@ -35,7 +35,7 @@ Pots veure les decoracions participants a:
 - Centre Auditiu i Òptic Anna Cervera (C/ Duc de Llíria, 72)
 - Centre Òptic Llíria (C/ Sant Vicent Ferrer, 37)
 
-##FAÇANA, BALCÓ O FINESTRA
+## FAÇANA, BALCÓ O FINESTRA
 
 - C/ Sertori, 7
 - C/ Lope de Vega, 11
@@ -45,7 +45,7 @@ Pots veure les decoracions participants a:
 - C/ Alpelic, 3
 - C/ Mestre August Roca, 1
 
-##COL·LECTIU
+## COL·LECTIU
 
 - Falla Avinguda dels Furs i voltants (Av. dels Furs, 17)
 - Falla Pla de l'Arc (C/ Pla de l'Arc, 91)
