@@ -20,7 +20,7 @@ The Casa Nostra Blog is designed to convert Markdown files into well-structured,
 
 Before getting started, ensure you have the following installed:
 
-- **Node.js** (LTS version recommended)
+- **Node.js** 
 - **npm** (comes with Node.js)
 
 ### Installation
