@@ -7,6 +7,7 @@ import { SeasonFolder } from "../podcast-season-folder/season-folder";
 import { getPodcastEpisodes } from "../../scripts/create-podcast-items";
 import { PodcastEpisode } from "../../types/PodcastEpisode";
 import "./layout.css";
+import { Analytics } from '@vercel/analytics/next';
 
 export function Layout() {
 	const [episodesBySeason, setEpisodesBySeason] = useState<
@@ -60,6 +61,7 @@ export function Layout() {
 				</aside>
 			</div>
 			<FooterCN />
+			<Analytics />
 		</div>
 	);
 }
