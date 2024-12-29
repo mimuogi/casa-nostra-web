@@ -15,7 +15,7 @@ El pernil va ser **passejat per tot el carrer** de la Unió mentre els "confrare
 
 La resta de la festa va prosseguir sense cap incident i amb normalitat fins a l'hora de sopar, on a poc a poc la gent va anar dispersant-se per anar a passar la nit de Nadal amb els seus amics i familiars.
 
-![Processó del pernil](/assets/continguts/recursos/20241228-Enterro-pernil.jpg "Processó del pernil")
+![Processó del pernil](/assets/continguts/recursos/20241228-Enterro-pernil.jpeg "Processó del pernil")
 
 
 
