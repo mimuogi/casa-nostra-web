@@ -1,7 +1,7 @@
 ---
 title: Els Reis Mags arriben a Llíria
 author: Carlos Castillo
-date: 5/01/2025
+date: 05/01/2025
 tags: noticia
 ---
 
