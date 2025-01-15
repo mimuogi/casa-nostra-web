@@ -17,6 +17,6 @@ Lluny de rendir-se, la **selecció valenciana** va demostrar la seua capacitat d
 
 Aquest èxit també suposa una gran notícia per a **Antonio Cotanda** i l'handbol edetà demostrant que el treball en equip i la passió per l’handbol són claus per aconseguir grans fites.
 
-Des de la redacció de **Casa Nostra** volem donar-te l’enhorabona, **Antonio**. Els teus èxits són també fan gran la ciutat i ens omplin d’orgull. Per molts més triomfs junts!
+Des de la redacció de **Casa Nostra** volem donar-te l’enhorabona, **Antonio**. Els teus èxits també fan gran la ciutat i ens omplin d’orgull. Per molts més triomfs junts!
 
 ![Antonio Cotanda amb la medalla de bronze](/assets/continguts/recursos/2025-01-15-Antonio-amb-la-medalla.jpg "Antonio amb la medalla")
