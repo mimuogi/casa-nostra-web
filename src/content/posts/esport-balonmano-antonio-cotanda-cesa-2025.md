@@ -15,7 +15,7 @@ Lluny de rendir-se, la **selecció valenciana** va demostrar la seua capacitat d
 
 ![Selecció Comunitat Valenciana Cadet Masculina](/assets/continguts/recursos/2025-01-15-La-seleccio-celebra-el-bronze.jpg "La selecció celebra el bronze")
 
-Aquest èxit també suposa una gran notícia per a **Antonio Cotanda** i l'handbol edetà demostrant que el treball en equip i la passió per l’handbol són claus per aconseguir grans fites.
+Aquest èxit també suposa una gran notícia per a **Antonio Cotanda** i l'handbol edetà. Demostrant que el treball en equip i la passió per l’handbol són claus per aconseguir grans fites.
 
 Des de la redacció de **Casa Nostra** volem donar-te l’enhorabona, **Antonio**. Els teus èxits també fan gran la ciutat i ens omplin d’orgull. Per molts més triomfs junts!
 
