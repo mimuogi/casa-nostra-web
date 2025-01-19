@@ -7,7 +7,7 @@ import { SeasonFolder } from "../podcast-season-folder/season-folder";
 import { getPodcastEpisodes } from "../../scripts/create-podcast-items";
 import { PodcastEpisode } from "../../types/PodcastEpisode";
 import "./layout.css";
-import { Analytics } from '@vercel/analytics/next';
+import { Analytics } from '@vercel/analytics/react';
 
 export function Layout() {
 	const [episodesBySeason, setEpisodesBySeason] = useState<
