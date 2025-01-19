@@ -17,7 +17,7 @@ Després d’aquests moments plens d’il·lusió per als més menuts, **Melcior
 
 Aquesta espectacular cavalcada, organitzada per la **Regidoria de Festes**, ha estat possible, una vegada més, gràcies a la col·laboració de l’Arxiconfraria de la Cort de Maria, la Confraria de la Mare de Déu del Remei i de la Santíssima Trinitat, la Parròquia de Maria Mare, les bandes juvenils de la Primitiva i de la Unió Musical, la Penya Arre, el grup de dansa Al-Hilal, el Grup de Danses “El Tossal”, el club de patinatge Edeta, el grup de tabal i dolçaina Colla Pastrana i la Junta Local Fallera juntament amb les comissions de Plaça Pedralba, Avinguda dels Furs, Alpelic, Pla de l’Arc i Colón-Sant Vicent de Paül.
 
-![Imatge de la Cavalcada dels Reis Mags 2025](/assets/continguts/recursos/20250107-cabagata-reyes-magos.jpg "Imatge de la Cavalcada dels Reis Mags 2025")
+![Imatge de la Cavalcada dels Reis Mags 2025](/assets/continguts/recursos/20250107-cabalgata-reyes-magos.jpg "Imatge de la Cavalcada dels Reis Mags 2025")
 
 
 
