@@ -3,7 +3,7 @@ title: Entre la MEMÒRIA i el FUTUR amb CARMINA MARTÍNEZ | Casa Nostra 2x08
 author: Casa Nostra
 date: 03/02/2025
 tags: podcast
-imageUrl: /temporada-2-(1920x1080)/CASANOSTRA_Capitol08jpg
+imageUrl: /temporada-2-(1920x1080)/CASANOSTRA_Capitol08.jpg
 ---
 
 <p>🏡 Casa Nostra 2x08: Barri de la Vila Vella amb Carmina Martínez </p>
