@@ -1,0 +1,20 @@
+---
+title: El Consell Escolar de Llíria reclama la retirada de l'orde sobre l'elecció de llengua per al curs 2025-26
+author: Carlos Castillo
+date: 19/02/2025
+tags: noticia
+---
+
+## La comunitat educativa mostra la seua repulsa i apunta que genera més conflicte, i és una norma sense cap criteri pedagògic ni cap aportació dels professionals de l'educació
+
+El **Consell Escolar Municipal de Llíria**, en la sessió celebrada el passat 5 de febrer, va aprovar, per majoria absoluta dels seus membres, la proposta presentada per **l’STEPV** de retirada del projecte de l'orde de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual es convoca el procediment de consulta als representants legals de l'alumnat per a triar la llengua base aplicable a partir del curs acadèmic 2025-2026, de conformitat amb el qual estableix la disposició transitòria segona de la Llei 1/2024, de 27 de juny, de la Generalitat, per la qual es regula la llibertat educativa.
+
+En la seua proposta, el sindicat posa de manifest que la consulta “**promou el conflicte lingüístic**, ja que situa el debat en l'elecció entre valencià o castellà en lloc de situar-lo en l'àmbit de la pedagogia. **És ineficient**, perquè es posa l'èmfasi en la llibertat d'elecció de llengua per part de les famílies; però no es garanteix que es faça efectiva eixa llibertat d'elecció. **No conté les garanties democràtiques** de processos de participació, deliberació i decisió individuals perquè no existeixen òrgans de supervisió, més enllà de la mateixa administració. **Tampoc existeixen meses electorals participades per la comunitat educativa**. **No s'han considerat situacions que podrien distorsionar els resultats** en el procés d'assignació d'unitats en una llengua base. No hi ha un quòrum mínim de participació en la consulta perquè siga vàlida. Les famílies de l'alumnat de sext de Primària dels centres públics votaran a pesar que no hauran manifestat en quin institut continuaran els estudis els seus fills i filles”.
+
+La majoria dels membres de Consell Escolar de Llíria han manifestat la seua absoluta repulsa a la consulta plantejada per la Conselleria d'Educació, que **no ha tingut en compte cap criteri pedagògic, ni cap aportació dels professionals de l'educació**.
+    
+El **Consell Escolar Municipal (CEM)** considera que tant l'esmentada Orde com la mateixa Llei 1/2024, **“fomenten divisions innecessàries entre l'alumnat, les famílies i la comunitat educativa** i **no garanteix** que els estudiants acaben la seua escolarització dominant **les dues llengües oficials**, tal com preveu l'Estatut d'Autonomia. Així, en lloc de fomentar la igualtat d'oportunitats, objectiu de l'educació, **la nova llei generarà segregació educativa i social**”.
+
+La regidora d'Educació i presidenta del CEM, **Juani Garcia**, considera que “tant la Llei, com l'Orde que la desenvolupa té defectes de forma i genera moltes incerteses. Per exemple, no s'assegura, ni en les zones de predomini lingüístic castellà ni en les de valencià, el compliment de la llibertat d'elecció; produeix una absoluta desprotecció en cas d'error en l'hora d'emplenar els ítems; i no conté les garanties democràtiques de processos de participació, deliberació i decisió individuals que són vinculants, ja que no existeixen òrgans de supervisió”.
+
+**Llíria i Riba-roja** són els dos municipis de la comarca del Camp de Túria que **han rebutjat la proposta de consulta** que es durà a terme del 25 de febrer al 4 de març. Mentre arriba eixa data, des del col·lectiu Famílies pel Valencià s'han celebrat sessions informatives per a explicar en què consisteix l'esmentada consulta, com la trobada que es realitzarà diumenge que ve dia 23 de febrer a Riba-roja amb la marxa “Caminem en família pel valencià”, on a més de tallers i jocs tradicionals, estaran presents, entre altres, **Dani Miquel, Maria Faubel, Factoria de Sons, Canta Canalla, Jimisue i Tramuntana**.
