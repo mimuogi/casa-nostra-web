@@ -1,5 +1,5 @@
 ---
-Title: L'escultor de Llíria Miguel Silvestre Moros exposa al Museu de la Ciutat de València
+title: L'escultor de Llíria Miguel Silvestre Moros exposa al Museu de la Ciutat de València
 author: Carlos Castillo
 date: 18/02/2025
 tags: cultura
