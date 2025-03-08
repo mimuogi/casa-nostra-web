@@ -29,7 +29,7 @@ En els darrers anys, les cineastes han aconseguit reconeixements destacats en l'
 
 **Kathryn Bigelow** va ser la primera dona a guanyar **l’Oscar** a la millor direcció el 2010 per _The Hurt Locker_. Des d’aleshores, **Chloé Zhao** (_Nomadland_, 2021) i **Jane Campion** (_The Power of the Dog_, 2022) han seguit els seus passos.
 
-La directora espanyola **Carla Simón** va guanyar **l'Oso d'Or** al Festival de Berlín de 2022 per la seva pel·lícula _Alcarràs_, convertint-se en la primera directora espanyola a rebre aquest guardó. 
+La directora espanyola **Carla Simón** va guanyar **l'Ós d'Or** al Festival de Berlín de 2022 per la seva pel·lícula _Alcarràs_, convertint-se en la primera directora espanyola a rebre aquest guardó. 
 
 La directora francesa **Justine Triet** va guanyar la Palma d'Or al Festival de Cannes de 2023 per la seva pel·lícula _Anatomy of a Fall_.
 
