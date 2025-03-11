@@ -15,5 +15,5 @@ Va ser un discurs ple de sentiment en el qual van convidar a participar de la fe
 
 Les comissions de la localitat van acompanyar a les màximes representants de les Falles de Llíria, en un acte que va comptar amb la presència de l'alcalde **Joanma Miguel**, la regidora de Festes **Mª José Llopis** i representants de la Corporació municipal, i la presidenta de Junta Local Fallera **Enri Fitos**. El primer edil que encara va poder entregar la Clau de la Ciutat a les falleres majors del municipi en la part de la plaça Major, va animar a totes les falles “a fer dels casals la casa de tots i sumar a la ciutadania a estes festes per a gaudir-les junts en harmonia”. 
 
-![La Fallera Major donant el seu discurs](/assets/continguts/recursos/20250224-crida.jpg "La Fallera Major donant el seu discurs")
+![La Fallera Major donant el seu discurs](/assets/continguts/recursos29250224-crida.jpg "La Fallera Major donant el seu discurs")
 
