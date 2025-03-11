@@ -1,7 +1,7 @@
 ---
 title: Comença la VII edició del Festival de Patrimoni Històric i Música Antiga “eMe”
 author: Carlos Castillo
-date: 10/02/2025
+date: 10/03/2025
 tags: cultura
 ---
 
