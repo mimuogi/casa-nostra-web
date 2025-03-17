@@ -24,4 +24,4 @@ Esta iniciativa pretén fomentar, en la festa fallera, la defensa de valors d'ig
 
 ![Falla Plaça de Pedralba 2025](/assets/continguts/recursos/20250317-PrimerpremiFallagranPlaçaPedralba.jpg "Falla Plaça de Pedralba 2025")
 
-![Falla Infantil Pla de l'Arc](/assets/continguts/recursos/20250317-PrimerpremiFallainfantilPladel'Arc.jpg "Falla Infantil Pla de l'Arc")
+![Falla Infantil Pla de l'Arc](/assets/continguts/recursos/20250317-PrimerpremiFallainfantilPladel_Arc.jpg "Falla Infantil Pla de l'Arc")
