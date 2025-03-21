@@ -1,6 +1,6 @@
 ---
 title: Es publica el calendari d’admissió i matriculació d’Infantil, Primària, ESO i Batxillerat per al curs 2025-2026
-autor: Carlos Castillo
+author: Carlos Castillo
 date: 20/03/2025
 tags: noticia
 ---
