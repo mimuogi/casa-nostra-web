@@ -7,6 +7,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Leire Juan": "assets/web/targetes-autor-noticies/Leire250x250.png",
 	"Sibilino" : "assets/web/targetes-autor-noticies/Sibilino250x250.png",
 	"Sergi Rodilla Alamà" : "assets/web/targetes-autor-noticies/Sergi250x250.png",
+	"Pablo Pérez": "assets/web/targetes-autor-noticies/Pablo250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -42,6 +43,11 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 	"Sergi Rodilla Alamà":{
 		instagram:"https://www.instagram.com/sergirodilla/",
 		linkedin: "https://es.linkedin.com/in/sergirodilla",
+	},
+	"Pablo Pérez": {
+		twitter: "https://x.com/pablomasero245",
+		instagram: "https://www.instagram.com/pabloperez245/",
+		linkedin: "http://www.linkedin.com/in/pablo-pérez-salas",
 	},
 	"Casa Nostra": {
 		spotify:
