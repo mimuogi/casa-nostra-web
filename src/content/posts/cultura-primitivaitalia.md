@@ -19,5 +19,5 @@ Per a dissabte que ve 29 de març, està programat un gran concert entre els cor
 
 Per a l'edil de Ciutat Creativa UNESCO, “esta és una nova experiència que hem obert dins de la Xarxa de Ciutats Creatives i de Patrimoni de la Humanitat de la UNESCO, per a la internacionalització de la nostra música i els nostres músics, on les melodies edetanes podran ser presents en els millors auditoris del món, com en este cas en un lloc emblemàtic i patrimonialment extraordinari com és la localitat italiana de Matera”.
 
-![ Cartell ](/assets/continguts/recursos/20250327-Cartel actuación Coro Primitiva en Italia.jpg "Cartell")
+![ Cartell ](/assets/continguts/recursos/20250327-cartellcorobandaprimitivaitalia.jpg "Cartell")
 
