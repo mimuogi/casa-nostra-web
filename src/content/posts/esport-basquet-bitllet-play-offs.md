@@ -31,6 +31,6 @@ També cal destacar el paper dels germans **Rivas**, que continuen guanyant prot
 
 Amb l’objectiu del play-off ja assegurat, el **Nadunet Refitel Bàsquet Llíria** afronta ara el repte de recuperar les bones sensacions al **Pla de l’Arc**. Aquest cap de setmana, els edetans rebran la visita del **CB Prat**, **cinqué** classificat. Ambdós equips arriben amb dinàmica ascendent després de dos victòries consecutives.
 
-El **CEB Llíria**, que va signar una primera volta impecable amb un balanç de **6 victòries en 6 partits** com a local, busca trencar la mala ratxa de la segona volta, on acumula **quatre derrotes consecutives** al seu pavelló i encara no coneix la victòria.
+El **CEB Llíria**, que va signar una primera volta pràcticament impecable amb un balanç de **sis victòries en set partits** com a local, busca trencar la mala ratxa de la segona volta, on acumula **quatre derrotes consecutives** al seu pavelló i encara no coneix la victòria.
 
 El camí cap a l’ascens continua i **Llíria** vol continuar somiant en què els mussols alcen el vol.
