@@ -8,6 +8,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Sibilino" : "assets/web/targetes-autor-noticies/Sibilino250x250.png",
 	"Sergi Rodilla Alamà" : "assets/web/targetes-autor-noticies/Sergi250x250.png",
 	"Pablo Pérez": "assets/web/targetes-autor-noticies/Pablo250x250.png",
+	"Rocío Gallardo": "assets/web/targetes-autor-noticies/Rocio250x250.png" ,
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -48,6 +49,9 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		twitter: "https://x.com/pablomasero245",
 		instagram: "https://www.instagram.com/pabloperez245/",
 		linkedin: "http://www.linkedin.com/in/pablo-pérez-salas",
+	},
+	"Rocío Gallardo": {
+		instagram: "https://www.instagram.com/rociogallardogor/"
 	},
 	"Casa Nostra": {
 		spotify:

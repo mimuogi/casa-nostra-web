@@ -11,9 +11,10 @@ export function Home() {
 	const combinedPosts = [...postlist, ...podcastpostlist];
 
 	const filteredPosts = filterPosts(combinedPosts, "altres");
+	const homePosts = filterPosts(filteredPosts, "literatura");
 
 	const { currentPage, totalPages, getPaginatedItems, handlePageChange } =
-		usePagination(filteredPosts, POSTS_PER_PAGE);
+		usePagination(homePosts, POSTS_PER_PAGE);
 
 	return (
 		<div>
