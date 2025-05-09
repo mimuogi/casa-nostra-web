@@ -1,5 +1,5 @@
 ---
-title: TUMU Festival: la experiència definitiva en el cor de Túria
+title: TUMU Festival: la experiència definitiva en el cor del camp del Túria
 author: Carlos Castillo
 date: 30/04/2025
 tags: notícia
