@@ -22,6 +22,6 @@ La regidora de Cultura, **María José Llopis**, va assenyalar que es tracta de 
 
 Per part seua, l'alcalde **Joanma Miguel** va voler destacar que el festival “contribuirà a convertir Llíria en un referent mundial de creativitat i innovació dins de l'instrument del saxofon”.
 
-![ Imatge del compositors, l'alcalde, regidors, presidenta de la mancomunitat i el director del projecte ](/assets/continguts/recursos/20250510-fotossincronisax.jpg "Imatge del compositors, l'alcalde, regidors, presidenta de la mancomunitat i el director del projecte")
+![ Imatge del compositors, l'alcalde, regidors, presidenta de la mancomunitat i el director del projecte ](/assets/continguts/recursos/20250510-fotosincronisax.jpg "Imatge del compositors, l'alcalde, regidors, presidenta de la mancomunitat i el director del projecte")
 
 ![ Cartell oficial del festival ](/assets/continguts/recursos/20250510-cartellsincronisax.jpg "Cartell oficial del festival")
