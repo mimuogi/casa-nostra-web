@@ -3,6 +3,7 @@ title: Emoció i tradició al concert de Tatev Asatryan a la nostra ciutat
 author: Carlos Castillo
 date:24/05/2025
 tags: cultura
+---
 
 ## La cantant armènia Tatev Asatryan va oferir una nit inoblidable al Teatre Unió Musical de Llíria el passat dia 10, on una multitud entusiasta de totes les edats va omplir completament el recinte per gaudir d’un espectacle carregat d’emoció, tradició i orgull cultural
 
