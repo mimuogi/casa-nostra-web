@@ -3,7 +3,7 @@ title: Llíria compta amb projecte per a finalitzar les obres d'urbanització en
 author: Carlos Castillo
 date: 10/06/2025
 tags: noticies
---
+---
 
 ## Es disposa ja de projecte per a finalitzar les obres d'urbanització en la UE14 Es podran construir unes 400 vivendes i locals comercials en esta nova zona residencial de l'entrada de Llíria pel carrer València
 
