@@ -2,7 +2,7 @@
 title: Llíria homenatja jóvens esportistes locals pels seus èxits en karate i handbol
 author: Carlos Castillo
 date: 10/06/2025
-tags: esport
+tags: esports
 ---
 
 ## Es va dur un xicotet acte per reconéixer la seua obtenció diverses medalles en competicions autonòmiques i nacionals
