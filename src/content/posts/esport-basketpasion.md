@@ -2,7 +2,7 @@
 title: Llíria acollirà un torneig 24 hores de bàsquet a benefici de les persones damnificades per la dana
 author: Carlos Castillo
 date: 10/06/2025
-tags: esport
+tags: esports
 ---
 
 ## L'activitat, promoguda per Basket Pasión, se celebrarà els dies 5 i 6 de juliol
