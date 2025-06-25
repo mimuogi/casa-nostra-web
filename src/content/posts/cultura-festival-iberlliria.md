@@ -1,7 +1,7 @@
 ---  
-title:Llíria impulsa de nou el Festival IberLlíria amb activitats arqueològiques fins a l’octubre  
+title: Llíria impulsa de nou el Festival IberLlíria amb activitats arqueològiques fins a l’octubre  
 author: Quique Monfort  
-date: 23/05/2025  
+date: 23/06/2025  
 tags: cultura
 ---
 
