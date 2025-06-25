@@ -1,5 +1,5 @@
 ---  
-title:Llíria reforça la seguretat amb més efectius de la Guàrdia Civil i noves mesures de coordinació policial  
+title: Llíria reforça la seguretat amb més efectius de la Guàrdia Civil i noves mesures de coordinació policial  
 author: Quique Monfort  
 date: 20/05/2025  
 tags: noticia  
