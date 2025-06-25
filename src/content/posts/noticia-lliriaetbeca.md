@@ -15,11 +15,11 @@ Els sol·licitants hauran d'indicar en la sol·licitud quina convocatòria de Be
 
 L'edil de Foment Econòmic, **Paco Gorrea**, ha destacat que “continuem apostant per la formació dels estudiants, amb la finalitat que coneguen l'administració mitjançant un programa de beques”.
 
-(Les bases de la convocatòria estan disponibles en el web municipal)(https://www.lliria.es/va/aviso/convocatoria-practiques-formatives-del-programa-lliria-et-beca-2025-modalitat-estudiants).
+Les bases de la convocatòria estan disponibles en el [web municipal](https://www.lliria.es/va/aviso/convocatoria-practiques-formatives-del-programa-lliria-et-beca-2025-modalitat-estudiants).
 
 A partir de demà es podran presentar les sol·licituds en el següent enllaç:
 
-(https://sede.lliria.es/sta/carpetapublic/doevent?app_code=sta&page_code=pts_catserv&detalle=6269011716185572999500)(https://sede.lliria.es/sta/carpetapublic/doevent?app_code=sta&page_code=pts_catserv&detalle=6269011716185572999500)
+[Llíria et beca](https://sede.lliria.es/sta/carpetapublic/doevent?app_code=sta&page_code=pts_catserv&detalle=6269011716185572999500)
 
 També s'admeten sol·licituds de manera presencial en la OAC.
 
