@@ -2,7 +2,7 @@
 title: Llíria celebrarà la Setmana de l'Esport del 21 al 28 de juny amb més de 20 activitats per a totes les edats
 author: Carlos Castillo
 date: 10/06/2025
-tags: esport
+tags: esports
 ---
 
 ## Conclourà amb una gala en la qual es farà un homenatge a les figures i equips històrics del municipi
