@@ -1,7 +1,7 @@
 ---  
-title:Llíria intensifica el control sobre els solars bruts amb sancions de fins a 750 euros  
+title: Llíria intensifica el control sobre els solars bruts amb sancions de fins a 750 euros  
 author: Quique Monfort  
-date: 20/05/2025  
+date: 20/06/2025  
 tags: noticia  
 ---
 
