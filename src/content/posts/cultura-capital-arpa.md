@@ -1,7 +1,7 @@
 ---  
 title: Llíria esdevé capital de l’arpa amb una nova edició de la Trobada d’Arpes de la Mediterrània  
 author: Quique Monfort  
-date: 25/05/2025  
+date: 25/06/2025  
 tags: cultura
 ---
 
