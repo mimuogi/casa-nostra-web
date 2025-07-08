@@ -9,6 +9,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Sergi Rodilla Alamà" : "assets/web/targetes-autor-noticies/Sergi250x250.png",
 	"Pablo Pérez": "assets/web/targetes-autor-noticies/Pablo250x250.png",
 	"Rocío Gallardo": "assets/web/targetes-autor-noticies/Rocio250x250.png" ,
+	"Loren Rethor": "assets/web/targetes-autor-noticies/Rethor250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
