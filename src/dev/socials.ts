@@ -26,6 +26,9 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 		instagram: "https://www.instagram.com/lliria.casanostra",
 		youtube: "https://www.youtube.com/channel/UCokSBFzdENFsuj_dKhcuKnA"
 	},
+	"Loren Rethor":{
+
+	},
 	"Carlos Castillo": {
 		instagram:
 			"https://www.instagram.com/carloscastiiillo?igsh=MXJlbGR3Z2pscHE1NA%3D%3D",
