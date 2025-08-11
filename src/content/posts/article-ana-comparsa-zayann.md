@@ -1,5 +1,5 @@
 ---
-title: Zayyan: 40 anys fent història.
+title: Zayyan: 40 anys fent història
 author: Ana Damiá Escrig
 date: 09/08/2025
 tags: article
@@ -30,6 +30,7 @@ Serà una nit per donar les gràcies a qui està, recordar a qui falta i mirar a
 Hui, més que mai, podem dir amb orgull: som **Zayyan**. I mentres hi haja algú disposat a sumar hores, a ajudar sense esperar res a canvi i a mantindre viva la flama de la festa, **Zayyan** continuarà escrivint la seua història a **Llíria**.
 
 Per molts anys més, **Zayyan**! Per la nostra **Mare de Déu del Remei**, per la nostra gent i per tot el que està per vindre. Ens veiem el 30 d’agost per brindar per tot el que som i tot el que serem.
+
 
 
 
