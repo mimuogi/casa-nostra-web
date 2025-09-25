@@ -1,21 +1,22 @@
 ---
-title: Arranca la Setmana de la Salut Mental a Llíria
-author: Sibilino
-date: 04/10/2024
+title: S'anuncien les jornades a la salut mental 2025
+author: Carlos Castillo
+date: 25/09/2025
 tags: noticia
-imageUrl:
 ---
 
-## Del 8 al 16 d'octubre s'organitzaran activitats per conscienciar sobre la importància del benestar emocional
+## Amb el lema “Compartim vulnerabilitat, defenem la nostra salut mental”, se celebraran del 3 al 16 d'octubre
 
-L'Associació **Pentagrama**, amb el suport de **l'Ajuntament de Llíria**, ha preparat una nova edició de **la Setmana de la Salut Mental**, que es desenvoluparà **entre el 8 i el 16 d'octubre de 2024**. Enguany, la campanya porta com a lema _“Cuidar la teua ment és millorar la teua vida”_.
 
-El pròxim **dimarts 8 d'octubre** es donarà el tret d'eixida amb la presentació d'aquesta **13a edició** i l'obertura de l'exposició _“ExpresARTE”_, on es mostraran creacions fetes pels usuaris de **Pentagrama** sota la direcció de **Fina García**, una reconeguda artista.
+Llíria celebrarà una nova edició de la Setmana de la Salut Mental, organitzada per l'Associació Pentagrama i l'Ajuntament de la localitat. Amb el lema “Compartim vulnerabilitat, defenem la nostra salut mental”, les jornades se celebraran del 3 al 16 d'octubre, amb l'objectiu de conscienciar a tota la ciutadania sobre la importància d'atendre adequadament el nostre benestar emocional.
 
-El **dijous 10 d'octubre**, coincidint amb el **Dia Mundial de la Salut Mental**, es durà a terme una marxa pels carrers principals de **Llíria**, des de la **plaça Major** fins al **pavelló Pla de l’Arc**. Aquest esdeveniment pretén posar l'accent en la necessitat de cuidar la salut emocional de tota la ciutadania. Al final de la marxa, el públic podrà gaudir de diverses actuacions que completaran la jornada.
+El programa d'esta 14é edició es presentarà el 3 d'octubre, a la plaça Major, amb la lectura del manifest a favor de la salut mental i la inauguració del IV certamen de pintura “BALCOnejARTE” que convertirà els carrers del municipi en un museu a l'aire lliure.
 
-El proper **divendres 11** es celebrarà una jornada de portes obertes al poliesportiu **El Canó**, on es farà una sessió de ground golf inclusiu, convidant a tothom a participar en aquesta activitat esportiva.
+El dimarts 7 es realitzarà una jornada de cinema sobre salut mental i TOC en el teatre de la Llar de les Persones Majors, mentre que dia 8 s'oferirà un taller de cuina.
 
-El **dilluns 14** d'octubre s'organitzarà una **taula redona** per intercanviar experiències i perspectives sobre la salut mental, i el **dimarts 15**, l'alumnat de 1r de Batxillerat de Llíria tindrà l'oportunitat d'escoltar la conferència de **Julián Antón**, terapeuta, qui parlarà sobre estratègies per afrontar els reptes de la salut mental.
+El 14 d'octubre se celebrarà l'octava edició de la Marxa per la Salut Mental, que recorrerà els principals carrers del nucli urbà, des de la plaça Major fins al Pavelló Pla de l’Arc, on tindran lloc diverses actuacions.
 
-La **Setmana de la Salut Mental** culminarà el **dimecres 16** amb una jornada de convivència per a les persones usuàries de **Pentagrama**, que inclourà una **visita cultural** a la ciutat de **Xàtiva**. Així es clourà una setmana plena d'activitats dedicades a sensibilitzar sobre el benestar mental i emocional.
+El dimecres 15 s'estrenarà la cançó “I a tu què t’agrada?’”, composta per a Pentagrama pel cantautor local Marcel·lí García.
+
+Finalment, els usuaris del Taller Pentagrama podran gaudir d'un viatge cultural la jornada del 16 d'octubre.
+
