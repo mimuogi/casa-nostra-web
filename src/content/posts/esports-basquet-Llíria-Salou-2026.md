@@ -1,5 +1,5 @@
 ---
-title: El Pla de l’Arc supera el “partit trampa” amb ofici, paciència i caràcter
+title: El CEB Llíria supera el “partit trampa” amb ofici, paciència i caràcter
 author: Sibilino
 date: 17/01/2026
 tags: esport
@@ -38,5 +38,6 @@ En l’últim minut, amb tot per decidir, els edetans van jugar millor les seues
 ## Més que una victòria
 
 No va ser el partit més brillant, però sí profundament significatiu. El **CEB Llíria** va superar el partit trampa des del treball, va demostrar ofici en els moments delicats i va reforçar la seua identitat com a equip sòlid al **Pla de l’Arc**. En una lliga tan ajustada com la **Segona FEB**, aquestes victòries expliquen molt més del que diu el marcador.
+
 
 El camí continua, amb reptes per davant, però amb la certesa que aquest Llíria sap patir, competir i créixer. I això, a llarg termini, val or.
