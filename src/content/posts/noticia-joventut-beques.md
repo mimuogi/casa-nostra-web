@@ -3,7 +3,7 @@ title: Llíria impulsa una xarxa de joves enllaços informatius amb beques de 15
 author: Quique Monfort  
 date: 27/01/2026  
 tags: noticia  
-----
+---
 
 El **Departament de Joventut de l’Ajuntament de Llíria* ha posat en marxa una nova iniciativa adreçada a l’alumnat dels centres educatius del municipi, amb edats compreses entre els 12 i els 20 anys, amb l’objectiu de crear una xarxa de joves que actuen com a enllaços informatius entre l’administració local i el seu entorn educatiu i social.
 
