@@ -1,5 +1,5 @@
 ---
-title:La DGT activa el registre obligatori de patinets elèctrics: tot el que ha de saber la gent Llíria
+title:La DGT activa el registre obligatori de patinets elèctrics: tot el que ha de saber la gent a Llíria
 author: Carlos Castillo 
 date: 06/02/2026
 tags: noticia
@@ -37,4 +37,5 @@ En el cas dels vehicles no certificats, cal aportar documentació bàsica com la
 Circular sense el segur obligatori pot comportar sancions d’entre 200 i 610 euros, mentre que si el vehicle tampoc està inscrit en el registre, la multa pot arribar fins als 800 euros.
 
 Tot i que el registre és d’àmbit estatal, els ajuntaments continuen tenint competències per regular la circulació dels VMP. A Llíria, com a la resta de municipis, els patinets no poden circular per voreres ni zones exclusivament per a vianants i han de respectar el límit màxim de 25 km/h.
+
 
