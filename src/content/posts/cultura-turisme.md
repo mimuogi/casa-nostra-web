@@ -7,9 +7,6 @@ tags: cultura
 
 ##  La conferència de Joan Vicent Candel Alemany va alertar sobre la destrucció del paisatge, la gentrificació i la fragilitat econòmica d’un sector poc regulat.
 
-
-![ Aula de ciutadania ](/assets/continguts/recursos/20260211-turisme.jpg "Aula de ciutadania")
-
 L’Aula de Ciutadania de l’Escola d’Adults de Llíria va acollir ahir una conferència sota el títol Turismefòbia, impartida per Joan Vicent Candel Alemany, en què es va analitzar de manera crítica el model turístic actual i les seues conseqüències socials, econòmiques i culturals.
 
 La xarrada va tractar una gran quantitat de temes, com la destrucció del paisatge provocada per grans constructores amb la connivència de molts ajuntaments, que prioritzen interessos especulatius per damunt del benestar col·lectiu. També com segons el ponent, el turisme contemporani ha transformat moltes persones visitants en viatgers sense criteri, guiats per modes i tendències globals, sense una relació ni connexió real amb el territori que visiten.
@@ -24,5 +21,8 @@ Entre altres efectes, va destacar també el col·lapse del transport, ja que els
 
 La conclusió ha sigut clara: o es regula el sector, o guanyarà la turismefòbia, el que provocarà la desaparició total de tots els avantatges que proporciona el sector turístic entés com a element positiu per a la societat.
 
-Per finalitzar, Candel va contestar a dues preguntes dels assistents: Què es pot fer com a turistes? Diversificar. Anar a llocs on hi ha poca gent. Llocs que oferisquen pràcticament el mateix que els llocs totalment col·lapsats, però que siguen desconeguts, ajudant així a un repartiment més equitatiu del turisme. Què es pot fer com a ciutadans? L'habitant de la ciutat ha de plantar-se i demanar als seus polítics que, per molt que es neguen els empresaris i els que s'estan aprofitant d'aquesta situació que tant de malestar provoca, cal implantar regulacions que eviten aquesta situació i que legislen perquè Europa no es convertisca en un parc temàtic. 
+Per finalitzar, Candel va contestar a dues preguntes dels assistents: Què es pot fer com a turistes? Diversificar. Anar a llocs on hi ha poca gent. Llocs que oferisquen pràcticament el mateix que els llocs totalment col·lapsats, però que siguen desconeguts, ajudant així a un repartiment més equitatiu del turisme. Què es pot fer com a ciutadans? L'habitant de la ciutat ha de plantar-se i demanar als seus polítics que, per molt que es neguen els empresaris i els que s'estan aprofitant d'aquesta situació que tant de malestar provoca, cal implantar regulacions que eviten aquesta situació i que legislen perquè Europa no es convertisca en un parc temàtic.
+
+![ Aula de ciutadania ](/assets/continguts/recursos/20260211-turisme.jpg "Aula de ciutadania")
+
 
