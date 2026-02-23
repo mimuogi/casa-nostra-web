@@ -1,6 +1,6 @@
 ---
 title: Les falleres majors i el president infantil de Llíria conviden a viure les Falles en la Crida de 2026
-autor: Carlos Castillo
+author: Carlos Castillo
 date: 23/02/2026
 tags: noticia
 ---
@@ -24,5 +24,6 @@ L'alcalde Paco Gorrea ha entregat la Clau de la Ciutat a Mireia, Leire i Edgar, 
 ![ Imatge ](/assets/continguts/recursos/20260223-crida1.jpg "Imatge")
 
 ![ Imatge ](/assets/continguts/recursos/20260223-crida2.jpg "Imatge")
+
 
 ![ Imatge ](/assets/continguts/recursos/20260223-crida3.jpg "Imatge")
