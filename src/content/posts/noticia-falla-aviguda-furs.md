@@ -8,8 +8,8 @@ tags: noticia
 El passat **dissabte 24** de gener, el **Falla Avinguda dels Furs** va celebrar l’acte de presentació de les seues **Falleres Majors 2026** en una gala plena d’emoció i sentiment.
 
 **Fiorella**, Fallera Major, i **Pilar**, Fallera Major Infantil, van ser proclamades oficialment davant d’un teatre ple de familiars, amistats i membres de la comissió, que no van deixar d’aplaudir durant tota la cerimònia.
-
-En el seu parlament, **Fiorella** va destacar: _"Va ser un dia molt important, jo crec que és el millor dia de les falles. Com a Fallera Major és un dia molt emotiu, i jo el vaig viure molt feliç amb la meua família, amb la fallera major infantil i sobretot amb Juanjo que em va ajudar un muntó, sense oblidar-me per descomptat de la meua comissió"_. A més, va assegurar que pensa viure intensament l’exercici: _"És un moment irrepetible. És el moment de disfrutar al màxim cada acte i cada passacarrer"._
+ 
+ **Fiorella** va declarar: _"Va ser un dia molt important, jo crec que és el millor dia de les falles. Com a Fallera Major és un dia molt emotiu, i jo el vaig viure molt feliç amb la meua família, amb la fallera major infantil i sobretot amb Juanjo que em va ajudar un muntó, sense oblidar-me per descomptat de la meua comissió"_. A més, va assegurar que pensa viure intensament l’exercici: _"És un moment irrepetible. És el moment de disfrutar al màxim cada acte i cada passacarrer"._
 
 **Pilar**, per la seua part, també va expressar la seua emoció: _"Molta il·lusió perquè un dia així no tornarà a passar. El vàrem viure amb moltíssima alegria i tenim unes expectatives molt bones, açò sols es viu una volta en la vida"._
 
