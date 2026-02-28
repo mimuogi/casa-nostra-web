@@ -1,0 +1,20 @@
+---  
+title: Setmana Santa en Llíria
+author: Ferran Espinosa Enguídanos  
+date: 27/02/2026  
+tags: article 
+---
+
+## Andes,  Imatges,  música i tradició en la Setmana Santa de Llíria
+
+La **Setmana Santa de Llíria** no és molt coneguda, però, té el seu encant; i malgrat que per a moltes persones siga simple, mereix la pena vore-la.
+
+La **Setmana Santa de Llíria** està composada per la **Confraria de la Santíssima Sang de Nostre Senyor Jesucrist**, la **Confraria dels Serfs de la Santíssima Verge dels Dolors** i la **Confraria de l’Oració de Jesús en l’Hort i el Sant Calze**. La més antiga de les confraries és la de **la Sang** fundada en el **segle XVI** i processona el **Dijous** i el **Divendres Sant**. Una característica d’aquesta confraria és que antigament només podien eixir en processó els homes; va ser recentment, en l’any **2019**, quan les dones van poder apuntar-se com a confrareses adquirint els mateixos drets que els homes dins de la confraria. La **Confraria dels Dolors** es va fundar en l’any **1768** i processona el **Divendres Sant** pel matí. En aquesta confraria tradicionalment les dones només podien eixir a la processó portant ciri i vestides de negre; actualment ja poden desfilar amb la vesta de la confraria. Per últim, la **Confraria de l’Oració en l’Hort** és la més actual, fundada en l’any **2007** i desfila el **Dimecres Sant** per la nit. Aquesta és l’única confraria que obri pocessó amb una banda de cornetes i tambors a diferència de les altres dos que al capdavant porten una fanfàrria de metall i percussió.
+
+Les processons són molt participatives; se podria dir que hi ha més gent participant que mirant. Poden participar tant adults com xiquets. Tot comença el **Diumenge de Rams** amb la processó de les palmes, sense cap anda, només amb la participació dels fidels amb palmes i plens d’alegria. Fins al **Dimecres Sant** per la nit no eixen andes. Aquest dia ix la **Confraria de l’Oració en l’Hort**. Ixen des de la parròquia de **Sant Francesc** acabant en la mateixa. Ix el **Sant Calze** i **l’anda de l’Oració en l’Hort** que té cinc imatges: el **Crist**, **un àngel**, **Sant Joan Evangelista**, **Santiago Apòstol** i **Sant Pere Apòstol**. Al dia següent, **Dijous Sant** per la nit, ix per primera vegada la **Confraria de la Sang** des de **l’Esglèsia de la Sang** fins a la **Basílica de l’Assumpció** amb les andes: **Santa Maria Magdalena**, **San Joan Evangelista**, **San Pere Apòstol** “el del gall”, **l’Ecce Hommo** conegut com “el Cristo de la canyeta”, **la Soletat**, **el Nazareno** i **el Crist de la Sang**. El dia següent, **Divendres Sant**, hi ha que alçar-se ben matí si vols vore la **processó dels Dolors**. Com el nom diu, processona la **Confraria de la Mare de Déu dels Dolors** des de la Basílica fins a aquest mateix temple. Processonen pràcticament les mateixes andes que la nit anterior: **Santa Maria Magdalena**, **Sant Joan Evangelista**, **el Nazareno** i **els Dolors**. Unes hores després, al final de la vesprada, torna a eixir la **Confraria de la Sang** des de la Basílica fins a l’esglèsia de la Sang. Aquesta processó és coneguda com el **Sant Soterrar**. Processonen les mateixes imatges que el **Dijous Sant** a excepció del **Nazareno** i el **Crist**, ja que clausura la processó el **Sant Sepulcre**. Al finalitzar la processó, fan un solemne ritual: els rectors obrin el sepulcre, curen les ferides del Crist i el tapen.
+ 
+Una de les característiques d’aquestes processons és que són acompanyades per les dos bandes de la ciutat, la **Unió Musical de Llíria** i **la Primitiva**. Les marxes destacades d’aquesta processó són **La Madrugá**, **Mater Mea** i **la Marcha Fúnebre nº 2 de Miguel Asensi**, creant així un ambient de silenci i de respecte propi de la **Setmana Santa**.
+
+La matinada entre el **Dissabte Sant** i el **Diumenge de Resurrecció**, es cel•lebra la solemne **Vigília Pasqual** a totes les parròquies i a la Basílica.
+
+Vos convide a tots i totes a gaudir de la Setmana Santa de Llíria.
