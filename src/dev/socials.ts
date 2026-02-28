@@ -9,7 +9,9 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Sergi Rodilla Alamà" : "assets/web/targetes-autor-noticies/Sergi250x250.png",
 	"Pablo Pérez": "assets/web/targetes-autor-noticies/Pablo250x250.png",
 	"Rocío Gallardo": "assets/web/targetes-autor-noticies/Rocio250x250.png" ,
-	"Loren Rhetor": "assets/web/targetes-autor-noticies/Rhetor250x250.png",
+	"Loren Rhetor": "assets/web/targetes-autor-noticies/Rethor250x250.png",
+	"Ferran Espinosa Enguídanos": "assets/web/targetes-autor-noticies/FerranEspinosa250x250.png",
+	"Equip de Comunicació Candidatura Salvador Navarro": "assets/web/targetes-autor-noticies/SalvadorComunicació250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -30,7 +32,7 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 	},
 	"Carlos Castillo": {
 		instagram:
-			"https://www.instagram.com/carloscastiiillo?igsh=MXJlbGR3Z2pscHE1NA%3D%3D",
+			"https://www.instagram.com/carloscastillo_rh",
 	},
 	"Quique Monfort": {
 		instagram: "https://www.instagram.com/q.monfort/",
@@ -56,6 +58,8 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 	"Rocío Gallardo": {
 		instagram: "https://www.instagram.com/rociogallardogor/"
 	},
+	"Ferran Espinosa Enguídanos": {},
+	"Equip de Comunicació Candidatura Salvador Navarro": {},
 	"Casa Nostra": {
 		spotify:
 			"https://open.spotify.com/show/3eBLAu72smJr1GYHHEdanN?si=5ea4ea401d494953&nd=1&dlsi=0f31c92a1bd4490a",
