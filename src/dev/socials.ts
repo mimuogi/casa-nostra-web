@@ -12,6 +12,7 @@ export const AUTHOR_IMAGES: { [key: string]: string } = {
 	"Loren Rhetor": "assets/web/targetes-autor-noticies/Rethor250x250.png",
 	"Ferran Espinosa Enguídanos": "assets/web/targetes-autor-noticies/FerranEspinosa250x250.png",
 	"Equip de Comunicació Candidatura Salvador Navarro": "assets/web/targetes-autor-noticies/SalvadorComunicació250x250.png",
+	"Equip de Comunicació Canidatura Ana Milán": "assets/web/targetes-autor-noticies/AnaMilánComunicació250x250.png",
 	"Casa Nostra": getEnvironmentPath("/assets/images/casaNostra.jpg"),
 };
 
@@ -60,6 +61,7 @@ export const AUTHOR_SOCIALS: { [key: string]: SocialNetworkSet } = {
 	},
 	"Ferran Espinosa Enguídanos": {},
 	"Equip de Comunicació Candidatura Salvador Navarro": {},
+	"Equip de Comunicació Canidatura Ana Milán": {},
 	"Casa Nostra": {
 		spotify:
 			"https://open.spotify.com/show/3eBLAu72smJr1GYHHEdanN?si=5ea4ea401d494953&nd=1&dlsi=0f31c92a1bd4490a",
