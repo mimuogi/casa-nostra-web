@@ -5,7 +5,7 @@ date: 09/03/2026
 tags: article
 ---
 
-Llíria podria viure un moment històric a la seua Banda Primitiva amb la candidatura d’Ana Millán Trujillo, que es presenta com la primera dona que assumiria la presidència d’una de les bandes civils més antigues d’Espanya, la nostra. La seua proposta es basa en la combinació de **respecte pel llegat centenari, impuls de la joventut, innovació i una visió oberta cap al futur.**
+Llíria podria viure un moment històric a la seua Banda Primitiva amb la candidatura d’Ana Millán Trujillo, que es presenta com la primera dona que assumiria la presidència de la banda civil més antiga d’Espanya, la nostra. La seua proposta es basa en la combinació de **respecte pel llegat centenari, impuls de la joventut, innovació i una visió oberta cap al futur.**
 
 *“Quan pense en la Banda Primitiva, sent un orgull que em fa vibrar,  i també una gran responsabilitat: no sols per la seua història, sinó pel que representa per a Llíria, per la nostra cultura i per la música valenciana“*, assegura Millán. La candidata vol portar la banda a noves altures, mantenint la seua identitat però obrint-la a projectes que fomenten la creativitat, la participació i la connexió amb tota la comunitat.
 
