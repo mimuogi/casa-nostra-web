@@ -1,5 +1,5 @@
 ---
-title:Venen les Festes de Sant Vicent! 
+title: Venen les Festes de Sant Vicent! 
 author: Carlos Castillo
 date: 08/04/2026
 tags: cultura
