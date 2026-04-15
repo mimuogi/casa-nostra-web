@@ -21,7 +21,7 @@ Després de la finalització de la rogativa, el dia festiu va continuar amb l'ac
 
 Les festes en honor a Sant Vicent Ferrer 2026 continuaran a Llíria fins diumenge que ve, amb la celebració de diversos actes religiosos i culturals.
 
-!\[ Imatge ](/assets/continguts/recursos/20260415-santvicent1.jpg "Imatge")
+![ Imatge ](/assets/continguts/recursos/20260415-santvicent1.jpg "Imatge")
 
-!\[ Imatge ](/assets/continguts/recursos/20260415-santvicent2.jpg "Imatge")
+![ Imatge ](/assets/continguts/recursos/20260415-santvicent2.jpg "Imatge")
 
