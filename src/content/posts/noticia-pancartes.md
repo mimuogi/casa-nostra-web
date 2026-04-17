@@ -1,6 +1,6 @@
 ---
 title: S'instal·len pancartes contra la violència de gènere i sexual en el pavelló Pla de l'Arc
-autor: Carlos Castillo
+author: Carlos Castillo
 date: 16/04/2026
 tags: noticia
 ---
