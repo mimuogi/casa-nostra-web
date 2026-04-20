@@ -26,4 +26,4 @@ L'esdeveniment es realitzarà el pròxim dia 2 de maig a les 20.30 hores en el t
 
 Les entrades es troben a la venda a través de la [pàgina oficial d'Abraham Cupeiro](https://abrahamcupeiro.com/).
 
-![ Imatge ](/assets/continguts/recursos/20260420abraham.jpg "Imatge")
+![ Imatge ](/assets/continguts/recursos/20260420-abraham.jpg "Imatge")
