@@ -13,9 +13,9 @@ L’inici del duel va ser immillorable per als locals. Amb una defensa intensa i
 
 Després del pas per vestidors, el **Llíria** va fer un pas avant i va aconseguir ampliar la renda fins als **cinc gols** **23-18**, amb una actuació destacada en atac de **José Luis 'Caberno' Aparicio** i **Daniel Rustarazo**. No obstant això, el **Sant Joan** va apostar per situacions de joc sense porter en atac per igualar la superioritat defensiva edetana, una decisió que acabaria sent clau en el desenllaç del partit.
 
-Els extrems del Llíria, especialment **Garry i Salva**, van saber llegir a la perfecció aquestes situacions, castigant reiteradament la porteria buida amb gols ràpids i efectius. Fins i tot **Kike Orts** es va sumar a aquesta dinàmica, anotant des de la seua pròpia porteria en una acció que va fer esclatar el **Pla de l’Arc**.
+Els extrems del Llíria, especialment **Garry i Rafa**, van saber llegir a la perfecció aquestes situacions, castigant reiteradament la porteria buida amb gols ràpids i efectius. Fins i tot **Kike Orts** es va sumar a aquesta dinàmica, anotant des de la seua pròpia porteria en una acció que va fer esclatar el **Pla de l’Arc**.
 
-El partit també va tindre moments tensos. En la segona meitat, una acció disciplinària del conjunt visitant va provocar la lesió de **Salva**, que va haver d’abandonar la pista, deixant el **Llíria** sense una de les seues principals armes al contraatac. Tot i aquest contratemps, els edetans van saber mantindre la concentració i no perdre el control del duel.
+El partit també va tindre moments tensos. En la segona meitat, una acció disciplinària del conjunt visitant va provocar la lesió de **Rafa**, que va haver d’abandonar la pista, deixant el **Llíria** sense una de les seues principals armes al contraatac. Tot i aquest contratemps, els edetans van saber mantindre la concentració i no perdre el control del duel.
 
 El **Sant Joan**, liderat pel seu màxim anotador, va intentar retallar diferències en els últims minuts **31-28, 33-30**, **Llíria** va mostrar la seua maduresa competitiva per gestionar l’avantatge i tancar el partit amb un definitiu **38-34**.
 
