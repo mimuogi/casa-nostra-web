@@ -24,6 +24,6 @@ Este projecte, amb música original composta per Abraham Cupeiro, va ser gravat 
 
 L'esdeveniment es realitzarà el pròxim dia 2 de maig a les 20.30 hores en el teatre de la Banda Primitiva de Llíria, on l'artista oferirà este meravellós espectacle al costat de l'Orquestra Simfònica de la Primitiva de Llíria.
 
-Les entrades es troben a la venda a través de la pàgina oficial d'Abraham Cupeiro (https://abrahamcupeiro.com/).
+Les entrades es troben a la venda a través de la [pàgina oficial d'Abraham Cupeiro](https://abrahamcupeiro.com/).
 
 ![ Imatge ](/assets/continguts/recursos/20260420abraham.jpg "Imatge")
