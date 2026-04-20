@@ -1,5 +1,5 @@
 ---
-title: El CB Llíria s’imposa amb autoritat al Sant Joan i consolida la novena posició
+title: El Club Balonmano Llíria s’imposa amb autoritat al Sant Joan i consolida la novena posició
 author: Sibilino
 date: 20/04/2026
 tags: esport
