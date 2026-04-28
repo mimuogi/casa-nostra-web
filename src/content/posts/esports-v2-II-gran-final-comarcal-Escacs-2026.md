@@ -114,3 +114,18 @@ També el club aposta per noves iniciatives com el programa *“ChessNGo”*, pr
 - Aditya, Aditya  
 - Fernandez Llabres, Matias  
 - El Yazydy, Moumir  
+
+## Galeria d'imatges
+
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto8 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto6 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto4 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto5 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto7 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto1 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto2 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto3 "II Final Comarcal Escolar")
+![Fotografía Torneig Escacs 2026](/assets/continguts/recursos/28042026-esports-escacs-torneig-ii-comarcal-foto9 "II Final Comarcal Escolar")
+
+
+
