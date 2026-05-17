@@ -1,5 +1,5 @@
 ---
-title: Més de 500 aficionats acompanyen al CEB Llíria en la seua eliminación a Castelló
+title: Més de 500 aficionats acompanyen al CEB Llíria en la seua eliminació a Castelló
 author: Sibilino
 date: 17/05/2026
 tags: esport
