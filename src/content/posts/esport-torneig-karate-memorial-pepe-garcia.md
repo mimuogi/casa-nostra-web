@@ -35,6 +35,6 @@ La quota de participació serà de **5 euros** per competidor inscrit i serà ne
 
 L’organització també ha recordat que els competidors de kumite hauran de portar totes les proteccions obligatòries corresponents a la seua categoria.
 
-###Llíria reforça el seu protagonisme esportiu
+### Llíria reforça el seu protagonisme esportiu
 
 Amb este esdeveniment, **Llíria** continua reforçant la seua projecció com a ciutat vinculada a l’esport base i a l’organització de competicions autonòmiques, convertint el **Pavelló Pla de l’Arc** en un punt de trobada per a joves karateques i aficionats a esta disciplina.
