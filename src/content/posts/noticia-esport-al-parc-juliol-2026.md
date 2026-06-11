@@ -7,8 +7,6 @@ tags: noticia
 
 ## La Unitat d’Igualtat promou esta iniciativa al Parc Silvestre d’Edeta per fomentar la salut, el benestar i la participació de les dones a través de l’activitat física
 
-![Cartell Esport Al Parc](/assets/continguts/recursos/11062026-esport-al-parc.jpg "Cartell Esport Al Parc")
-
 La Unitat d’Igualtat de l’Ajuntament de Llíria ha posat en marxa el programa *«Esport al Parc»*, una iniciativa gratuïta que es desenvoluparà durant tot el mes de juliol al **Parc Silvestre d’Edeta (Parc de la Bombilla)** amb l’objectiu de promoure hàbits de vida saludables, el benestar integral i la pràctica regular d’activitat física.
 
 El programa oferirà sessions diàries de **dilluns a divendres**, entre les **8.00 i les 11.00 hores**, en un entorn natural i accessible. Les activitats són **gratuïtes i obertes a tota la ciutadania**, sense necessitat d’inscripció prèvia.
@@ -41,3 +39,5 @@ Des de la Unitat d’Igualtat es destaca que iniciatives com esta contribueixen 
 La participació en totes les activitats és lliure i gratuïta. Les persones interessades només han d’acudir al Parc Silvestre d’Edeta en l’horari corresponent i gaudir d’una proposta que combina esport, salut, natura i convivència.
 
 ![Horaris](/assets/continguts/recursos/11062026-esport-al-parc-horaris.jpg "Horaris")
+
+![Cartell Esport Al Parc](/assets/continguts/recursos/11062026-esport-al-parc.jpg "Cartell Esport Al Parc")
