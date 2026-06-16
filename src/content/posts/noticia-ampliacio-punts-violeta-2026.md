@@ -26,7 +26,7 @@ Des de la Regidoria d’Igualtat i LGTBIQ+ es fa una crida a totes les entitats 
 * **Lloc:** **Centre Multiusos de Llíria**
 * **Inscripció:** gratuïta
 
-Per a més informació o per a confirmar l'assistència, les persones interessades poden contactar amb la **Unitat d'Igualtat** a través del telèfon **661 17 11 15** o del perfil d’Instagram [@unitatigualtat] (https://www.instagram.com/unitatigualtat/).
+Per a més informació o per a confirmar l'assistència, les persones interessades poden contactar amb la **Unitat d'Igualtat** a través del telèfon **661 17 11 15** o del perfil d’Instagram [@unitatigualtat](https://www.instagram.com/unitatigualtat/).
 
 ![Cartell de la formació](/assets/continguts/recursos/punt-violeta-2026-formacio.jpg "Formació punt violeta")
 
