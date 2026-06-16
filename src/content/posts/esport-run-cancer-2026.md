@@ -1,7 +1,7 @@
 ---
 title: Llíria acollirà una nova edició de la marxa solidària RunCàncer el pròxim 28 de juny
 author: Sibilino
-date: 28/05/2026
+date: 16/06/2026
 tags: esport
 --- 
 
