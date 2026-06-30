@@ -19,3 +19,5 @@ Per este motiu, les persones promotores de la recollida de signatures sol·licit
 
 A més, demanen que s'analitzen les necessitats de personal, infraestructures i equipaments que requeriria la posada en funcionament del servici, així com que la Generalitat Valenciana reserve una partida específica en els pròxims pressupostos per a redactar el projecte, adequar els espais i dotar el centre dels recursos necessaris per a recuperar esta prestació assistencial.
 
+✍🏻 [Signa la petició](https://www.change.org/p/recuperar-las-urgencias-pedi%C3%A1tricas-en-el-hospital-de-ll%C3%ADria?recruiter=1420306789&recruited_by_id=5db47620-6fa9-11f1-9f61-4d0e8e7d16b5&utm_source=share_petition&utm_campaign=starter_onboarding_share_personal&utm_medium=copylink&share_id=SqbbgDjJw5)
+
