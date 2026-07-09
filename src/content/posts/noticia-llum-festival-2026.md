@@ -21,7 +21,7 @@ Ara arribaran a Llíria amb un espectacle que combina la sofisticació dels inst
 
 ## Pere Vicalet i l'Orquestra Llíria City of Music protagonitzaran la segona jornada
 
-El **dissabte 25 de juliol**, el festival oferirà una de les seues grans novetats amb l'espectacle **Pere Vicalet Electro Symphonic**, en què el director compartirà escenari amb l'**Orquestra Llíria City of Music**.
+El **dissabte 25 de juliol**, el festival oferirà una de les seues grans novetats amb l'espectacle de **Pere Vicalet**, en què el director compartirà escenari amb l'**Orquestra Llíria City of Music**.
 
 La proposta uneix la producció electrònica en directe amb la interpretació d'una orquestra simfònica. Mentre Pere Vicalet aporta les bases rítmiques, les mescles i els efectes electrònics, els músics en viu incorporen melodies, harmonies i tota la riquesa tímbrica dels instruments orquestrals.
 
