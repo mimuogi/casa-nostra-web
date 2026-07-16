@@ -1,5 +1,6 @@
 ---  
 title: El Racing Llíria CF presenta el projecte "Juguem a Casa" amb un juvenil gratuït per a la temporada 2026-2027
+author: Sibilino
 date: 16/07/2026  
 tags: esport
 ---  
