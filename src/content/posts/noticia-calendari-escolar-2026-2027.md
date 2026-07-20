@@ -1,5 +1,5 @@
 ---  
-title: El Consell Escolar Municipal de Llíria proposa tres dies festius per al curs escolar 2026-2027
+title: El curs 2026-2027 a Llíria ja té proposta de calendari: començarà el 9 de setembre i acabarà el 18 de juny
 author: Sibilino
 date: 20/07/2026  
 tags: noticia
