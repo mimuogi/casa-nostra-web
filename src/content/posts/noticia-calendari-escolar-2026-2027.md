@@ -1,5 +1,5 @@
 ---  
-title: El curs 2026-2027 a Llíria ja té proposta de calendari: començarà el 9 de setembre i acabarà el 18 de juny
+title: El calendari escolar de Llíria 2026-2027: el curs començarà el 9 de setembre i acabarà el 18 de juny
 author: Sibilino
 date: 20/07/2026  
 tags: noticia
