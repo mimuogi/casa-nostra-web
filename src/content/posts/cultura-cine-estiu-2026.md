@@ -29,12 +29,25 @@ Amb esta iniciativa, l'Ajuntament de Llíria continua apostant per **descentrali
 
 ### Calendari del cicle "Cinema a la fresca"
 
-| Data | Hora | Urbanització | Pel·lícula |
-| :--- | :--: | :----------- | :--------- |
-| 25 de juliol | 22.00 h | Puig i Lis | *Top Gun: Maverick* |
-| 1 d'agost | 22.00 h | Clotxa del Cossi | *Superman* |
-| 8 d'agost | 22.00 h | Sant Vicent | *Karate Kid: Legends* |
-| 15 d'agost | 22.00 h | Sant Miquel | *Campeonex* |
+- **25 de juliol**
+  - 🕙 Hora: **22.00 h**
+  - 📍 Urbanització: **Puig i Lis**
+  - 🎬 Pel·lícula: *Top Gun: Maverick*
+
+- **1 d'agost**
+  - 🕙 Hora: **22.00 h**
+  - 📍 Urbanització: **Clotxa del Cossi**
+  - 🎬 Pel·lícula: *Superman*
+
+- **8 d'agost**
+  - 🕙 Hora: **22.00 h**
+  - 📍 Urbanització: **Sant Vicent**
+  - 🎬 Pel·lícula: *Karate Kid: Legends*
+
+- **15 d'agost**
+  - 🕙 Hora: **22.00 h**
+  - 📍 Urbanització: **Sant Miquel**
+  - 🎬 Pel·lícula: *Campeonex*
 
 ![Cartell Cine a la fresca](/assets/continguts/recursos/20072026-cine.jpg "Cartell Cine a la fresca")
 
