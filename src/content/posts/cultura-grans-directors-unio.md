@@ -1,5 +1,5 @@
 ---  
-title: La Banda Simfònica de la Unió Musical de Llíria recupera el cicle **Grans Directors** amb Cristóbal Soler com a director convidat
+title: La Banda Simfònica de la Unió Musical de Llíria recupera el cicle Grans Directors amb Cristóbal Soler com a director convidat
 author: Sibilino
 date: 20/07/2026  
 tags: cultura
