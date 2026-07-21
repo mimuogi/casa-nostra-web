@@ -19,4 +19,4 @@ En cas de confirmar-se oficialment la notícia, el **CEB Llíria** perdria una p
 
 Durant la seua trajectòria, Vilaplana s'ha consolidat com un tècnic reconegut pel seu treball en la formació i desenvolupament de jugadors. De fet, en els últims estius ha treballat de manera individual amb diversos jugadors professionals del Valencia Basket, una experiència que ara podria traslladar al dia a dia del conjunt de l'ACB.
 
-> Nota: Aquesta informació es basa en la notícia publicada per la secció d'Esports de COPE València i està pendent de confirmació oficial per part dels clubs implicats.
+#### Nota: Aquesta informació es basa en la notícia publicada per la secció d'Esports de COPE València i està pendent de confirmació oficial per part dels clubs implicats.
