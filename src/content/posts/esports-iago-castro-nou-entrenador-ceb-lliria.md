@@ -5,7 +5,7 @@ date: 25/07/2026
 tags: esport
 --- 
 
-## El tècnic madrileny, amb una àmplia experiència en la Primera FEB, agafa el relleu de Javi Vilaplana després de la seua incorporació al cos tècnic del Valencia Basket
+## El tècnic galleg, amb una àmplia experiència en la Primera FEB, agafa el relleu de Javi Vilaplana després de la seua incorporació al cos tècnic del Valencia Basket
 
 El **CEB Llíria** ja té entrenador per a la temporada **2026-2027**. El club edetà ha arribat a un acord amb **Iago Castro** perquè es faça càrrec de la direcció del primer equip, iniciant així una nova etapa després de la marxa de **Javi Vilaplana**, qui recentment s'ha incorporat al cos tècnic del **Valencia Basket**.
 
