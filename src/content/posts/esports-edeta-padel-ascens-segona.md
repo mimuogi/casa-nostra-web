@@ -1,6 +1,6 @@
 ---
 title: Edeta Pàdel certifica l'ascens a Segona Divisió després de finalitzar tercer en l'Interclubes Padel Tour 2026
-author: Sibillino
+author: Sibilino
 date: 28/07/2026
 tags: esport
 ---
