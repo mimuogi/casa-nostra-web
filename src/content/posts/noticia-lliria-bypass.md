@@ -1,4 +1,4 @@
-\---  
+---  
 title: Llíria, entre els municipis afectats pels col·lapses de la A-7: els transportistes reclamen una ampliació urgent del bypass  
 author: Quique Monfort  
 date: 02/08/2026  
