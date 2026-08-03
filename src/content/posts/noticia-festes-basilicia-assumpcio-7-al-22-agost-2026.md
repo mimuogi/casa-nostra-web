@@ -55,18 +55,34 @@ La programació conclourà el **22 d'agost**, coincidint amb la festivitat de **
 
 ## Programa de les festes de l'Assumpció 2026
 
-| Data | Acte | Hora |
-|------|------|------|
-| **7 d'agost** | Nit de les Veles amb el concert *Entre el romanç i la cançó*, a càrrec de Maria Faubel i Pau Barberà (plaça del Bon Pastor). | 22.30 h |
-| **8 d'agost** | Sopar popular i actuació de Manolo Torres (plaça del Bon Pastor). | 21.30 h |
-| **9 d'agost** | Santa Missa i benedicció de la restauració de la corona de la Mare de Déu. | 11.30 h |
-| | Concert de l'Agrupació Musical Edetana Vicente Giménez. | 20.00 h |
-| **11, 12 i 13 d'agost** | Sant Rosari, Santa Missa i tríduum en honor a l'Assumpció de Maria. | 19.30 h |
-| **13 d'agost** | Taller familiar d'elaboració de farolets. | 19.00 h |
-| | Pujada de la imatge de la Dormició de Maria a **Ca la Mare de Déu**. | En finalitzar el tríduum |
-| **14 d'agost** | Jornada de portes obertes per contemplar el Misteri de la Dormició de Maria a **Ca la Mare de Déu**. | Tot el dia |
-| | Solemne eucaristia de la vespra de l'Assumpció. | 20.00 h |
-| | Baixà de la Mare de Déu d'Agost fins a la **Basílica de l'Assumpció**. | 22.30 h |
-| **15 d'agost** | Solemne Missa Major de la festivitat de l'Assumpció. | 11.30 h |
-| **22 d'agost** | Missa solemne pels difunts de la Confraria de la Mare de Déu. | 20.00 h |
+### 📅 Divendres, 7 d'agost
+**🕥 22.30 h** — **Nit de les Veles** a la plaça del Bon Pastor, amb el concert *Entre el romanç i la cançó*, a càrrec de **Maria Faubel** i **Pau Barberà**.
 
+### 📅 Dissabte, 8 d'agost
+**🕤 21.30 h** — Sopar popular a la plaça del Bon Pastor. En finalitzar, actuació de **Manolo Torres**.
+
+### 📅 Diumenge, 9 d'agost
+- **🕦 11.30 h** — Santa Missa i benedicció de la restauració de la corona de la Mare de Déu.
+- **🕗 20.00 h** — Concert de l'**Agrupació Musical Edetana Vicente Giménez** a la plaça del Bon Pastor.
+
+### 📅 Dimarts, 11 d'agost
+**🕢 19.30 h** — Sant Rosari, Santa Missa i primer dia del tríduum en honor a l'Assumpció de Maria a la **Basílica de l'Assumpció**.
+
+### 📅 Dimecres, 12 d'agost
+**🕢 19.30 h** — Sant Rosari, Santa Missa i segon dia del tríduum en honor a l'Assumpció de Maria a la **Basílica de l'Assumpció**.
+
+### 📅 Dijous, 13 d'agost
+- **🕖 19.00 h** — Taller familiar d'elaboració dels tradicionals **farolets** a la porta de la **Basílica de l'Assumpció**.
+- **🕢 19.30 h** — Sant Rosari, Santa Missa i tercer dia del tríduum.
+- **En finalitzar** — Pujada de la imatge de la Dormició de Maria fins a **Ca la Mare de Déu**, acompanyada pels xiquets i xiquetes amb els farolets.
+
+### 📅 Divendres, 14 d'agost
+- **Durant tot el dia** — Jornada de portes obertes a **Ca la Mare de Déu** per contemplar el Misteri de la Dormició de Maria.
+- **🕗 20.00 h** — Solemne eucaristia en la vespra de l'Assumpció.
+- **🕥 22.30 h** — **Baixà de la Mare de Déu d'Agost** des de **Ca la Mare de Déu** fins a la **Basílica de l'Assumpció**, recorreguent diversos carrers del centre històric. En arribar, interpretació de l'**Ave Maria** amb tabal i dolçaina i veneració de la imatge.
+
+### 📅 Dissabte, 15 d'agost
+**🕦 11.30 h** — Solemne Missa Major de la festivitat de l'Assumpció a la **Basílica de l'Assumpció**.
+
+### 📅 Dissabte, 22 d'agost
+**🕗 20.00 h** — Missa solemne pels difunts de la Confraria de la Mare de Déu, amb motiu de la festivitat de Santa Maria Reina.
