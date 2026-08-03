@@ -5,7 +5,7 @@ date: 02/08/2026
 tags: noticia
 ---
 
-## La Confraria de la Mare de Déu presenta una programació que combina música, patrimoni, devoció i activitats familiars, amb la restauració de la façana de la basílica com un dels grans objectius de futur.
+## La Confraria de la Mare de Déu presenta una programació que combina música, patrimoni, devoció i activitats familiars, amb la restauració de la façana de l’Església de “Ca la Mare de Déu” com un dels grans objectius de futur.
 
 La **Confraria de la Mare de Déu de Llíria** ja ho té tot preparat per a celebrar les festes de l'**Assumpció 2026**, una de les cites religioses més arrelades del calendari festiu edetà. Del **7 al 22 d'agost**, la ciutat acollirà una intensa programació amb concerts, celebracions litúrgiques, activitats populars i les tradicionals processons que tenen com a epicentre la **Basílica de l'Assumpció**.
 
@@ -15,7 +15,7 @@ La programació manté les celebracions més emblemàtiques d'estes festes, al m
 
 En la salutació que obri el programa oficial, el president de la Confraria, **Toni Castellano Morató**, recorda amb emoció la representació del **Misteri d'Elx** celebrada el passat novembre de 2025 a la **Basílica de l'Assumpció**, amb motiu del **75é aniversari de la proclamació del dogma de l'Assumpció**.
 
-A més, fa una crida a tota la ciutadania perquè participe en les celebracions i col·labore amb el projecte de restauració de la façana de la **Basílica de l'Assumpció**, una iniciativa que la confraria considera fonamental per a conservar el patrimoni històric i religiós de Llíria.
+A més, fa una crida a tota la ciutadania perquè participe en les celebracions i col·labore amb el projecte de restauració de la façana l’Església de “Ca la Mare de Déu”, una iniciativa que la confraria considera fonamental per a conservar el patrimoni històric i religiós de Llíria.
 
 Per la seua banda, el rector de la parròquia, **Miguel Ángel Gómez Castellano**, destaca la importància de la festivitat de l'Assumpció dins de la tradició valenciana i anima tots els fidels i veïns de la localitat a viure intensament estes jornades de celebració.
 
