@@ -19,7 +19,7 @@ La festa de gala serà un punt de trobada per a totes les persones que han forma
 
 La dansa serà, una vegada més, el fil conductor d’una celebració que pretén posar en valor els records compartits, les experiències viscudes i totes les actuacions que encara estan per arribar.
 
-> «Hi ha històries que mereixen una nit especial. I esta és una d’elles», ha assenyalat el grup en la seua convocatòria.
+*Hi ha històries que mereixen una nit especial. I esta és una d’elles*, ha assenyalat el grup en la seua convocatòria.
 
 ## Festa de gala del 20 aniversari d’Al-Hilal
 
