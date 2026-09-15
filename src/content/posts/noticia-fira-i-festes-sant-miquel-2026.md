@@ -5,7 +5,7 @@ date: 15/09/2026
 tags: noticia
 ---
 
-## La programació de les festes patronals inclou el grup Bombai, els trompetistes James Morrison i Chipi Chacón, l'espectacle `Besos` i un *tardeo* Remember, entre altres propostes
+## La programació de les festes patronals inclou el grup Bombai, els trompetistes James Morrison i Chipi Chacón, l'espectacle Besos i un tardeo Remember, entre altres propostes
 
 **Llíria** commemora enguany el **700 aniversari de la fundació del Reial Monestir de Sant Miquel** amb una edició especial de la Fira i Festes de Sant Miquel 2026. La programació combina música, teatre, cultura i tradició amb activitats dirigides a tots els públics.
 
