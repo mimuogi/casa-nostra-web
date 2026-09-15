@@ -5,7 +5,7 @@ date: 15/09/2026
 tags: noticia  
 ---  
 
-## El servei municipal i gratuït de mediació entre consumidors i empreses ja ha gestionat prop d'una desena d'expedients des de la seua reactivació el passat mes de juliol**
+## El servei municipal i gratuït de mediació entre consumidors i empreses ja ha gestionat prop d'una desena d'expedients des de la seua reactivació el passat mes de juliol
 
 **L'Ajuntament de Llíria** ha reobert l'**Oficina Municipal d'Informació al Consumidor (OMIC)**, recuperant així un servei públic i gratuït destinat a oferir **assessorament, protecció i mediació** a la ciutadania davant possibles conflictes relacionats amb la compra de productes o la contractació de servicis.
 
