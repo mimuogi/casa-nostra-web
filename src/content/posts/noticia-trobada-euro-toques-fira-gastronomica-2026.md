@@ -13,7 +13,7 @@ La localitat edetana ha aprofitat este fòrum internacional per a **donar a con�
 
 Segons ha explicat el regidor de Turisme de Llíria, **Paco García**, esta participació permet a la ciutat estar present en *“un dels fòrums internacionals més potents dins de l’àmbit culinari”*, en el marc de l’Assemblea **d’Euro-Toques**.
 
-!\[Foto Paco Garcia EuroToques](/assets/continguts/recursos/15092026-paco-garcia.jpg "Fira Gastronòmica")
+![Fira Gastronòmica](/assets/continguts/recursos/15092026-paco-garcia.jpg "Fira Gastrpnòmica")
 
 ## L’esmorzaret llirià, protagonista a La Beneficència
 
