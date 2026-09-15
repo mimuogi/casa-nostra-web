@@ -44,5 +44,3 @@ La tradicional **`Pujà` de Sant Miquel al Reial Monestir** tindrà lloc enguany
 Prèviament, el **28 de setembre** se celebrarà la popular **`Baixà` de Sant Miquel**, mentre que el **29 de setembre** tindrà lloc la solemne **processó interparroquial**.
 
 La Fira i Festes de Sant Miquel 2026 convertirà així Llíria en punt de trobada de la música, la cultura i les tradicions locals, amb una programació especial que posa en valor els **700 anys d'història del Reial Monestir de Sant Miquel**.
-
-📝 Descarrega el programa de Festes [ací](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.lliria.es/sites/www.lliria.es/files/Programa%20Festes%20Sant%20Miquel%202026.pdf)
