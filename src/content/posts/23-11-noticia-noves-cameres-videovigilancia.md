@@ -37,4 +37,5 @@ L'Ajuntament assenyala, a més, que els sistemes implantats estan configurats d'
 
 Amb esta ampliació, el Govern municipal dona continuïtat a la seua aposta per la modernització tecnològica de l'administració, una línia de treball que, segons el consistori, s'ha desenvolupat al llarg dels últims onze anys. La iniciativa busca reforçar la seguretat, optimitzar els recursos de la Policia Local i avançar cap a una gestió més eficient dels servicis públics.
 
-![Sistema de videovigilància municipal de Llíria](noticia-23-11-cameres-vigilancia-urbanitzacio.jpg "Sistema de videovigilància municipal de Llíria")
+![Sistema de videovigilància municipal de Llíria](/assets/continguts/recursos/noticia-23-11-cameres-vigilancia-urbanitzacio.jpg "Sistema de videovigilància municipal de Llíria")
+
