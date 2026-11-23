@@ -2,7 +2,7 @@
 title: Llíria ampliarà la xarxa de videovigilància municipal amb 26 noves càmeres
 author: Sibilino
 date: 23/11/2026
-tags: actualitat
+tags: noticia
 ---
 
 La ciutat compta actualment amb **82 dispositius** distribuïts entre el nucli urbà i les urbanitzacions. La incorporació dels nous equips permetrà reforçar la seguretat ciutadana, millorar el control del trànsit i optimitzar la gestió dels servicis municipals.
@@ -38,4 +38,5 @@ L'Ajuntament assenyala, a més, que els sistemes implantats estan configurats d'
 Amb esta ampliació, el Govern municipal dona continuïtat a la seua aposta per la modernització tecnològica de l'administració, una línia de treball que, segons el consistori, s'ha desenvolupat al llarg dels últims onze anys. La iniciativa busca reforçar la seguretat, optimitzar els recursos de la Policia Local i avançar cap a una gestió més eficient dels servicis públics.
 
 ![Sistema de videovigilància municipal de Llíria](/assets/continguts/recursos/noticia-23-11-cameres-vigilancia-urbanitzacio.jpg "Sistema de videovigilància municipal de Llíria")
+
 
