@@ -1,5 +1,5 @@
 ---
-title: Llíria estrenarà l'enllumenat nadalenc este divendres amb un espectacle a la plaça Major
+title: Llíria estrenarà l'enllumenat nadalenc este divendres a la plaça Major
 author: Sibilino
 date: 24/11/2026
 tags: noticia
